@@ -35,12 +35,12 @@ System.out.println(isTelevisionExpensive); // true
 
 There are 6 different boolean expressions:
 
-- `x == y` - x is equal to y
-- `x != y`  - x is not equal to y
-- `x > y` - x is greater than y
-- `x < y` - x is less than y
-- `x >= y ` - x is greater than or equal to y
-- `x <= y` - x is less than or equal to y
+- `x == y` - `x` is equal to `y`
+- `x != y`  - `x` is not equal to `y`
+- `x > y` - `x` is greater than `y`
+- `x < y` - `x` is less than `y`
+- `x >= y ` - `x` is greater than or equal to `y`
+- `x <= y` - `x` is less than or equal to `y`
 
 
 
@@ -48,9 +48,46 @@ There are 6 different boolean expressions:
 
 
 
+**This is perfect for something like peer instruction!!!**
 
+
+
+Exercise possibility
 
 a person is higher than 2 meters. So this means 
+
+
+
+## Conditional statements
+
+Conditional statments is the mechanism for which a computer takes decisions. The most typical conditional statement is a **if sentence**. Lets look at an example
+
+
+
+### If sentence
+
+```java
+boolean isSunShining = true;
+if (isSunShining) {
+  System.out.println("The sun is shining ☀️");
+}
+```
+
+Here we first define the `boolean` variable `isSunShining` to be `true`. Then we comes the if sentence. Only if `isSunShining` is `true` the code within the brackets (`{}`) will be executed. 
+
+
+
+![If sentence](assets/if-sentence.png)
+
+
+
+
+
+### If else sentence
+
+
+
+
 
 
 
