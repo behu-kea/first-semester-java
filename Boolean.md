@@ -59,10 +59,6 @@ There are 6 different boolean expressions:
 
 
 
-
-
-
-
 **This is perfect for something like peer instruction!!!**
 
 
@@ -70,4 +66,77 @@ There are 6 different boolean expressions:
 Exercise possibility
 
 a person is higher than 2 meters. So this means 
+
+
+
+## Boolean operators/logical operator
+
+There are different boolean operators we can use
+
+- `&&` - And operator
+- `||` - Or operator
+
+
+
+### And operator
+
+And operator evaluates to `true` if both the expression to the right 👉 **and** 👈 the left of the `&&` is `true`. If **one of them** is `false` the expression will be `false`
+
+Here is a table showing and values
+
+![And truth table](assets/and-truth-table.png)
+
+
+
+```java
+boolean a = true && true;
+System.out.println(a); // true
+boolean b = false && true;
+System.out.println(b); // false
+boolean c = false && false;
+System.out.println(b); // false
+
+// more real world example
+boolean isOwner = true;
+boolean isLoggedIn = true;
+boolean canEdit = isOwner && isLoggedIn;
+System.out.println(canEdit); // true
+```
+
+For the real world example. Imagine we as developers need to check if a developer can edit some document. We might make a check as the one shown above
+
+
+
+
+
+
+
+### Or operator
+
+Or operator evaluates to `true` if the expression to the right 👉 **or** 👈 the expression to the left of the `||` is `true`. If **both** of them are `false` the expression will be `false`
+
+Here is a table showing or values
+
+![Or](assets/or-truth-table.png)
+
+
+
+```java
+boolean a = true || true;
+System.out.println(a); // true
+boolean b = false || true;
+System.out.println(b); // true
+boolean c = false || false;
+System.out.println(c); // false
+
+// more real world example
+boolean isOwner = false;
+boolean hasAccess = true;
+boolean canEdit = isOwner || hasAccess;
+System.out.println(canEdit); // true
+```
+
+
+
+## Exercises
 
