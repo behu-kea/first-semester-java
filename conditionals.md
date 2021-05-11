@@ -51,6 +51,8 @@ Here is a flow diagram showing how if-else sentence works:
 
 ![If else flow diagram](assets/if-else-flow-diagram.png)
 
+
+
 ## If, else if, else
 
 Spend some time in a group investigating how if, else if, else works. The group has to present to another group.
@@ -79,7 +81,7 @@ if (userAge >= 13 && canUserWithdraw) {
 }
 ```
 
-
+*Try on [Pythontutor](http://www.pythontutor.com/java.html#code=int%20userAge%20%3D%2013%3B%0Aint%20accountAmount%20%3D%20100%3B%0A//%20Lets%20say%20this%20comes%20from%20the%20user%0Aint%20accountToWithdraw%20%3D%2050%3B%0Aboolean%20canUserWithdraw%20%3D%20accountAmount%20-%20accountToWithdraw%20%3E%200%3B%0A%0Aif%20%28userAge%20%3E%3D%2013%20%26%26%20canUserWithdraw%29%20%7B%0A%20%20%20%20System.out.println%28%22Withdrawing%20%22%20%2B%20accountToWithdraw%20%2B%20%22%20dollars%20%F0%9F%92%B5%22%29%3B%0A%7D%20else%20%7B%0A%20%20%20%20System.out.println%28%22Sorry%20you%20cannot%20withdraw%20any%20money%22%29%3B%0A%7D&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=java&rawInputLstJSON=%5B%5D&textReferences=false)*
 
 Can you think of an example using if, else if, else?
 
