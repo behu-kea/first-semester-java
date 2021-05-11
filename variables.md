@@ -143,3 +143,8 @@ Do these steps one step at a time! Think about what type of data should be store
 
 **DER SKAL NOK EN OPGAVE MERE HER, MÅSKE KAGE OPGAVEN?? https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=4434&LocationType=1&ElementID=846013**
 
+
+
+
+
+**HVORNÅR SKAL VI SNAKKE SCOPE??? Loops, conditionals, methods**

@@ -28,6 +28,10 @@ Imagine now that the machine is actually a **method**, the inputs in Java is cal
 
 ## Working with methods
 
+
+
+### Creating a method
+
 Let's create a method that will double any number we give it!
 
 ```java
@@ -41,8 +45,74 @@ Let's disect the code
 - `public` - Means that the method can be seen by other developers. **HVORDAN FORKLARER JEG DET HER????** 
 - `int` - Tells Java that the method will return an integer
 - `doubleNumber` - This is the name of the method. It could be called anything
-- `(int number)` - Inside the paranthesis we put the parameters of the method
-- `return number * 2;` - Inside the brackets is the code the method will run. `return` tells Java to return a value when the method runs. In this example number times two
+- `(int number)` - Inside the paranthesis we put the parameters of the method. 
+- `return number * 2;` - Inside the brackets is the code the method will run (called the body of the method). `return` tells Java to return a value when the method runs. In this example number times two
+
+
+
+![Parts of creating a method](assets/method-explanation.png)
+
+
+
+
+
+### Calling a method
+
+**So** what we have created now is a method that can double numbers. But how can i use it? How do i activate it somehow??
+
+To activate a method is in Java called to call a method. So lets try and call `doubleNumber` with a specific number!
+
+
+
+```java
+int integerThatIsDoubled = doubleNumber(4);
+System.out.println(numberThatIsDoubled); // 8
+```
+
+- `int integerThatIsDoubled` - is a variable that will capture the returned value from the method
+- `doubleNumber(4);` - Here we call the method by writing the name of the method followed by parenthesis. What is inside the paranthesis is called an argument (remember the machine input metaphor!)
+
+
+
+![Method flow](assets/method-flow.png)
+
+---
+
+Let's take another example!
+
+```java
+public class main {
+    public static void main(String[] args) {
+        String fullname1 = getFullName("Sharmila", "Jensen");
+        System.out.println(fullname2); // Sharmila Jensen
+
+        String fullname2 = getFullName("Mads", "Hansen");
+        System.out.println(fullname2); // Mads Hansen
+    }
+
+    public static String getFullName(String firstname, String lastname) {
+        return firstname + " " + lastname;
+    }
+}
+```
+
+Here we create a method called `getFullName` that add's two string together with a space in-between. The method is called twice. 
+
+The parameters take on the value that the method is called with! Or put in another way they are substituted with the values the method is called with.
+
+The first time the two parameters `firstname` and `lastname` is substituted for `"Sharmila"` and `"Jensen"`. The second time they are substituted for  `"Mads"` and `"Hansen"`
+
+The returned value from calling the method is captured by `fullname1` and `fullname2`
+
+
+
+**We should copy this for Java!!!!**
+
+![Screenshot 2021-05-11 at 16.31.43](assets/method-explanation-2.png)
+
+
+
+### Void
 
 
 
@@ -50,7 +120,24 @@ Let's disect the code
 
 
 
+### Måske public static void...
 
 
 
 
+
+### Debugger
+
+
+
+### Stack trace
+
+
+
+
+
+## Exercises
+
+https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=851956
+
+https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=853066
