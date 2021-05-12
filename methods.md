@@ -6,6 +6,8 @@ When writing Java we often times have to do repetitive tasks.
 - Get all the comments for a specific Post
 - Create a new user
 
+
+
  Methods help us manage these repetitive tasks
 
 
