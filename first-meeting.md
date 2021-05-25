@@ -62,12 +62,6 @@ Dækningsgrad er et KEA udtryk. Siger noget om hvor meget de studerende skal kun
 
 
 
-Kontrolstrukturer til selektion og iteration: if, switch, for, foreach, while, do-while *(herunder introduceres  som* *exit**,* *return* *og* *break**)* Overveje om hvilke af dem her vi skal undervise
-
-
-
-
-
 ### Bundne forudsætninger
 
 https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf
@@ -88,11 +82,9 @@ Mundtlig eksamen i 20 min inkl. votering, udfra spørgsmål i læringsmålene. T
 
 Nicklas har eksempler på eksamens spørgsmål. Der er ingen forberedelse
 
-Overveje om vi skal have test prøver for at træne dem 
+Overveje om vi skal have testprøver for at træne dem 
 
 Overveje om de studerende skal have forberedelses tid til eksamen. 
-
-
 
 
 
@@ -105,8 +97,6 @@ https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EWX9hZthizNPhEWSw55u
 
 
 Forskellige emner vi kommer til at køre
-
-
 
 - Introduktion
   - Hvad er et programmeringssprog?
@@ -150,7 +140,13 @@ Forskellige emner vi kommer til at køre
   - Design
   - Binder sammen alt det de studerende har lært
   - Funderet i et stykke software
-  - 
+- Andet
+  - Input/output
+  - File management
+  - Scanner
+  - Try/catch
+
+
 
 
 
@@ -191,3 +187,17 @@ Måske mere relevant for 3. semester.
 https://trello.com/b/H1fBRKTO/undervisningsmateriale
 
  
+
+## Feedback
+
+Få nogle fra DAT20C forbi og giv feedback. Tænk over TA's
+
+
+
+## Opdeling
+
+Basics, flow tager benjamin
+
+OOP deler vi
+
+Datastrcutures og softwaredevelopment tager Nicklas
