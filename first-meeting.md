@@ -104,7 +104,53 @@ https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EWX9hZthizNPhEWSw55u
 
 
 
+Forskellige emner vi kommer til at køre
 
+
+
+- Introduktion
+  - Hvad er et programmeringssprog?
+    - Hvad er Java
+    - Scratch, emoji, brainfuck
+  - Hvad er software
+  - Intellij
+  - Hello world
+
+- Basics
+  - Typer
+  - Operators
+  - Expressions
+  - Debug
+  - Studieaktivitet
+- Codeflow
+  - If else
+  - Loops
+  - Switch
+  - While
+  - Scope
+  - Metoder
+  - Sekvensdiagrammer
+- OOP
+  - Klasser
+  - Interfaces
+  - 4 pillars of Java
+  - Nedarvning
+  - Modifiers
+  - Klassediagram
+  - GRASP
+- Datastrukturer/algoritmer
+  - Arraylist, array
+  - Divide and conquor
+  - Breakdown af problemer 
+- Software development
+  - Test
+  - Projektbaseret
+  - UML
+  - RUP
+  - Design
+  - Binder sammen alt det de studerende har lært
+  - Funderet i et stykke software
+  - 
 
 
 
