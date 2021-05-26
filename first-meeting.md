@@ -105,6 +105,7 @@ Forskellige emner vi kommer til at køre
   - Hvad er software
   - Intellij
   - Hello world
+  - En fra DAT20C/B kommer forbi
 
 - Basics
   - Typer
@@ -146,7 +147,7 @@ Forskellige emner vi kommer til at køre
   - Scanner
   - Try/catch
 
-
+ 
 
 
 
