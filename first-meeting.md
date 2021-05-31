@@ -111,19 +111,17 @@ Forskellige emner vi kommer til at køre
   - Studieteknik
   
 - Basics
-  - Variables - week 2
+  - Variables, expressions and operators- week 2
   - Number types - week 2
     - Integer
     - Double
     - Float
   - String - week 2
-  - Boolean - week 2
-  - Operators and expressions - week 2
+    - Casting
   - Array - week 3
   - Debug - week 3
-  - Casting - week 3
 - Codeflow
-  - If else - week 4
+  - Conditionals and boolean - week 4
   - Switch - week 4
   - Scope - week 4
   - Loops - week 4

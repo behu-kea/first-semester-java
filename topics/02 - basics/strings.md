@@ -2,13 +2,22 @@
 
 A string is a data type used for handling text. An example is saving the text Hello World. 
 
-
-
 ```java
 String hello = "Hello world";
 ```
 
-Remember to have double quotes around text you want to save in a string
+
+
+More precisely are strings:
+
+- Non-primitive/complex data types
+- Class/object
+- Indexed sequence of characters
+- Notated by double quotes
+
+
+
+
 
 
 
@@ -20,6 +29,12 @@ String lastname = "Hughes";
 String fullname = firstname + lastname;
 System.out.println(fullname); // Benjamin Hughes
 ```
+
+
+
+## Primitive data types
+
+
 
 
 
@@ -47,6 +62,14 @@ lastname.length(); // 6
 ### Exercise 1
 
 In a group investigate 2 string methods. You need to be able to explain what the method does but also how to use it in Java!
+
+
+
+### Exercise 2
+
+Write a method that prints out `Hello World` 3 times
+
+
 
 
 
