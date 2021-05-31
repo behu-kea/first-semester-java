@@ -16,7 +16,7 @@ Here `+` is called the operator. Lets take a look at some more operators
 
 
 
-## Operators
+## Arithmetic Operators
 
 - `+` - Addition
 - `-` - Subtraction
@@ -42,7 +42,7 @@ result = 3 * 5 / 5 + 1
 
 
 
-![Expression](assets/expression.png)
+![Expression](../../assets/expression.png)
 
 
 
@@ -55,6 +55,29 @@ double profit = salesPrice - purchasePrice * 0.8;
 int result = 2 + 3 * 4 + 10 / 5 * 2 – 1 + ;
 int modulus = 10 % 3;
 ```
+
+
+
+
+
+## Relational operators
+
+- `==` - Equality
+- `!=` - Non equality
+- `>` - greater than
+- `<` - less than
+- `>=` -  Larger than or equal
+- `<=` -  Less than or equal
+
+
+
+
+
+## Logical Operators
+
+`&&` - Logical and
+
+`||` - Logical or
 
 
 

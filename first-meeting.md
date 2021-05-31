@@ -108,28 +108,28 @@ Forskellige emner vi kommer til at køre
   - Intellij
   - Hello world
   - En fra DAT20C/B kommer forbi
-
+  - Studieteknik
+  
 - Basics
-  - Variables
-  - Array
-  - String
-  - Boolean
-  - Number types
+  - Variables - week 2
+  - Number types - week 2
     - Integer
     - Double
     - Float
-  - Operators
-  - Expressions
-  - Debug
-  - Studieteknik
+  - String - week 2
+  - Boolean - week 2
+  - Operators and expressions - week 2
+  - Array - week 3
+  - Debug - week 3
+  - Casting - week 3
 - Codeflow
-  - If else
-  - Loops
-  - Switch
-  - While
-  - Scope
-  - Metoder
-  - Sekvensdiagrammer
+  - If else - week 4
+  - Switch - week 4
+  - Scope - week 4
+  - Loops - week 4
+  - While - week 5
+  - Metoder - week 5
+  - Sekvensdiagrammer - week 5
 - OOP
   - Klasser
   - Interfaces
@@ -155,6 +155,7 @@ Forskellige emner vi kommer til at køre
   - File management
   - Scanner
   - Try/catch
+  - Primitive vs object type
 
  
 
@@ -164,11 +165,7 @@ Forskellige emner vi kommer til at køre
 
 ## Systemudvikling
 
-Vi har både desingn og programmering
-
- 
-
-
+Vi har både design og programmering
 
  
 
@@ -180,7 +177,7 @@ Folk har glemt hvor dårlige de studerende er. Vi springer over.
 
 ## Gæst
 
-Præsentation af hvordan det er at arbejde i erhvervet med programmering. Ted Talk agtig. Inspirerende, motiverende, konkretesering. Kvindelig KEA alumni. Startet virksomhed. 
+Præsentation af hvordan det er at arbejde i erhvervet med programmering. Ted Talk agtig. Inspirerende, motiverende, konkretesering. Kvindelig KEA alumni. Startet virksomhed. Måske Klaus kunne komme ud
 
 
 
@@ -200,7 +197,13 @@ https://trello.com/b/H1fBRKTO/undervisningsmateriale
 
 ## Feedback
 
-Få nogle fra DAT20C forbi og giv feedback. Tænk over TA's
+Få nogle fra DAT20C forbi og giv feedback. 
+
+
+
+## TA's
+
+Vi har snakket med Patrick Agergaard omkring at bruge nogle af hans folk som TA's i klasserne
 
 
 
