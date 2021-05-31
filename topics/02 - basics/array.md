@@ -10,19 +10,19 @@ Arrays are used to store multiple elements. It can be seen as a list of things (
 
 **List of days with weather information**
 
-![Weather information](assets/dmi.png)
+![Weather information](../../assets/dmi.png)
 
 
 
 **List of comments on a reddit post**
 
-![Reddit comments](assets/reddit-comments.png)
+![Reddit comments](../../assets/reddit-comments.png)
 
 
 
 **An list of clothes to pack**
 
-![Clother to pack](assets/clother-to-pack.png)
+![Clother to pack](../../assets/clother-to-pack.png)
 
 
 
@@ -47,7 +47,7 @@ String[] names = {"Camilla", "Per", "Cecilie", "Marie"};
 
 The way an array works is by saving the individual elements at specific index's. The first element is saved at index 0, the second element is saved at index 1 and so on. If you think it's a bit weird that the index starts at 0, then you are not alone 👇
 
-![Array starts at 0 meme](assets/array-start-0-memes.png)
+![Array starts at 0 meme](../../assets/array-start-0-memes.png)
 
 
 
@@ -59,7 +59,7 @@ int[] numbers = {10, 20, 30, 40, 50, 60, 070, 80, 90, 100};
 
 We can see that array represented below
 
-![Array visualisation](assets/array-graphic.png)
+![Array visualisation](../../assets/array-graphic.png)
 
 So if you want the fifth element in the array you have to get the element at index 4! Another thing to see is the size on the array is 10, because there are 10 elements in the array
 

@@ -20,7 +20,7 @@ Imagine you have a huge machine. The machine has lots of things you can control.
 
 
 
-![Screenshot 2021-05-11 at 15.30.15](assets/machine.png)
+![Screenshot 2021-05-11 at 15.30.15](../../assets/machine.png)
 
 
 
@@ -52,7 +52,7 @@ Let's disect the code
 
 
 
-![Parts of creating a method](assets/method-explanation.png)
+![Parts of creating a method](../../assets/method-explanation.png)
 
 
 
@@ -76,7 +76,7 @@ System.out.println(numberThatIsDoubled); // 8
 
 
 
-![Method flow](assets/method-flow.png)
+![Method flow](../../assets/method-flow.png)
 
 ---
 
@@ -110,7 +110,7 @@ The returned value from calling the method is captured by `fullname1` and `fulln
 
 **We should copy this for Java!!!!**
 
-![Screenshot 2021-05-11 at 16.31.43](assets/method-explanation-2.png)
+![Screenshot 2021-05-11 at 16.31.43](../../assets/method-explanation-2.png)
 
 
 

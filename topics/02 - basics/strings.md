@@ -27,7 +27,7 @@ System.out.println(fullname); // Benjamin Hughes
 
 We can manipulate a `String` in lots of diferent ways. We can do that through string methods. If we create a String and press `.` after, then IntelliJ will autocomplete with a list of methods we can call on a string. 
 
-![String methods](assets/string-methods.png)
+![String methods](../../assets/string-methods.png)
 
 There is also a list of methods here: https://www.w3schools.com/java/java_ref_string.asp
 

@@ -6,7 +6,7 @@ A boolean is a Java type that stores either `true` or `false`.
 
 An real world example of a boolean element is a checkbox like in the image below
 
-![Checkbox](assets/checkbox.png)
+![Checkbox](../../assets/checkbox.png)
 
 The `Husk mig?` checkbox can either be checked (`true`) or unchecked (`false`)
 
@@ -84,7 +84,7 @@ And operator evaluates to `true` if both the expression to the right 👉 **and*
 
 Here is a table showing and values
 
-![And truth table](assets/and-truth-table.png)
+![And truth table](../../assets/and-truth-table.png)
 
 
 
@@ -117,7 +117,7 @@ Or operator evaluates to `true` if the expression to the right 👉 **or** 👈 
 
 Here is a table showing or values
 
-![Or](assets/or-truth-table.png)
+![Or](../../assets/or-truth-table.png)
 
 
 

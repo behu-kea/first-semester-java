@@ -23,7 +23,7 @@ Here we first define the `boolean` variable `isSunShining` to be `true`. Then we
 
 
 
-![If sentence](assets/if-sentence.png)
+![If sentence](../../assets/if-sentence.png)
 
 
 
@@ -49,7 +49,7 @@ Now when `isSunShining` is `false` the code within the brackets after the `else`
 
 Here is a flow diagram showing how if-else sentence works:
 
-![If else flow diagram](assets/if-else-flow-diagram.png)
+![If else flow diagram](../../assets/if-else-flow-diagram.png)
 
 
 
@@ -88,6 +88,10 @@ Can you think of an example using if, else if, else?
 
 
 ## Exercises
+
+
+
+## Switch
 
 
 

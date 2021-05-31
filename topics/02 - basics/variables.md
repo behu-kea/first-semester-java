@@ -36,7 +36,7 @@ int salary = 400000;
 
 In this example we assign the value of `400000` to a variable called `salary`. The type of `salary` is `int`
 
-![Screenshot 2021-05-04 at 13.06.40](assets/variable-type-name-value.png)
+![Screenshot 2021-05-04 at 13.06.40](../../assets/variable-type-name-value.png)
 
 
 
@@ -90,7 +90,7 @@ When you run your Java application the console should appear in the bottom of th
 
 
 
-![Console](assets/console.png)
+![Console](../../assets/console.png)
 
 
 

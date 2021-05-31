@@ -28,7 +28,7 @@ Here `+` is called the operator. Lets take a look at some more operators
 
 ## Order op operations
 
-![Order of operations](assets/order-of-operations.png)
+![Order of operations](../../assets/order-of-operations.png)
 
 
 

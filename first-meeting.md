@@ -94,6 +94,8 @@ Overveje om de studerende skal have forberedelses tid til eksamen.
 
 https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EWX9hZthizNPhEWSw55ucRYBbQaRAyMGTAwx978rRyywKA?e=EEdQY
 
+![topics-overview](assets/topics-overview.jpeg)
+
 
 
 Forskellige emner vi kommer til at køre
@@ -108,11 +110,18 @@ Forskellige emner vi kommer til at køre
   - En fra DAT20C/B kommer forbi
 
 - Basics
-  - Typer
+  - Variables
+  - Array
+  - String
+  - Boolean
+  - Number types
+    - Integer
+    - Double
+    - Float
   - Operators
   - Expressions
   - Debug
-  - Studieaktivitet
+  - Studieteknik
 - Codeflow
   - If else
   - Loops
@@ -149,7 +158,7 @@ Forskellige emner vi kommer til at køre
 
  
 
-
+![timeline](assets/timeline.jpeg)
 
 
 
@@ -202,3 +211,6 @@ Basics, flow tager benjamin
 OOP deler vi
 
 Datastrcutures og softwaredevelopment tager Nicklas
+
+
+
