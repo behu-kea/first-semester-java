@@ -40,6 +40,27 @@ In this example we assign the value of `400000` to a variable called `salary`. T
 
 
 
+### Naming
+
+When giving Java variables names, use lowerCamelCase. Here new words start with capital letter, but the first letter is lowercase. 
+
+Also write all variables in English! 
+
+When coming up with a name, try and describe what the variable contains/represents **not** what it is!
+
+```java
+// 
+int Myintegervalue = 60000;
+
+
+```
+
+`Myintegervalue` is not good! Wrong way of writing the name. Should have been `myIntegerValue`. Also the naming is not great  
+
+
+
+
+
 ### Types
 
 In Java it's very important that the type of the variable is specified. Not all programming languages are like that but Java is **very** strict with this!

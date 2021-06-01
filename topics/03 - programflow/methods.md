@@ -37,14 +37,14 @@ Imagine now that the machine is actually a **method**, the inputs in Java is cal
 Let's create a method that will double any number we give it!
 
 ```java
-public int doubleNumber(int number) {
+public static int doubleNumber(int number) {
 		return number * 2;
 }
 ```
 
 Let's disect the code
 
-- `public` - Means that the method can be seen by other developers. **HVORDAN FORKLARER JEG DET HER????** 
+- `public` and `static` - these two keywords will later on become meaningful for you. But for now they are not so relevant. 
 - `int` - Tells Java that the method will return an integer
 - `doubleNumber` - This is the name of the method. It could be called anything
 - `(int number)` - Inside the paranthesis we put the parameters of the method. 
@@ -54,7 +54,13 @@ Let's disect the code
 
 ![Parts of creating a method](../../assets/method-explanation.png)
 
+A method does not have to return anything. If it does not return anything we use the keyword `void`. As in the method is void(missing) of any return.
 
+```java
+public static void sayHi() {
+    System.out.println("Hi!");
+}
+```
 
 
 
@@ -79,6 +85,8 @@ System.out.println(numberThatIsDoubled); // 8
 ![Method flow](../../assets/method-flow.png)
 
 ---
+
+
 
 Let's take another example!
 
@@ -108,27 +116,17 @@ The returned value from calling the method is captured by `fullname1` and `fulln
 
 
 
+## Method scope (maybe)
+
+Just like we saw with the for loop, 
+
+
+
 **We should copy this for Java!!!!**
 
 ![Screenshot 2021-05-11 at 16.31.43](../../assets/method-explanation-2.png)
 
 
-
-### Void
-
-
-
-
-
-
-
-### Måske public static void...
-
-
-
-
-
-### Debugger
 
 
 
@@ -143,3 +141,40 @@ The returned value from calling the method is captured by `fullname1` and `fulln
 https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=851956
 
 https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=853066
+
+
+
+### Exercise 1
+
+Write a method that takes three integers as parameter, sums the integers and returns the result.
+
+
+
+### Exercise 2
+
+Write a method that takes a String as parameter and prints the String thrice.The method does not return a value.
+
+
+
+### Exercise 3
+
+Implement  a  BMI  calculator  in  the  scope  of  a  method.   Identify  the  needed parameters and return type.
+
+
+
+### Exercise 4
+
+Write a method that takes a String as parameter and returns the String in full uppercase.
+
+
+
+### Exercise 5
+
+Write  a  method  that  takes  a  String  as  parameter  and  returns  the  amount  of characters in the given String.
+
+*Hint:  Use a method called `[string].length();`to identify the length of a String.*
+
+
+
+
+

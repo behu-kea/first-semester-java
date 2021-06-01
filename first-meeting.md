@@ -111,18 +111,19 @@ Forskellige emner vi kommer til at køre
   - Studieteknik
 - Basics
   - Variables, expressions and operators- week 2
-  - String - week 2
-  - Debug - week 3
-  - Scope - week 3
+  - String - week 3
   - Loops - week 3
+    - Scope
 - Codeflow
   - Metoder - week 4
   - Array - week 4
   - Conditionals and boolean - week 5
   - Switch - week 5
   - While - week 5
+  - Debug - week 2
   - Sekvensdiagrammer - week 5
-- OOP
+- Project 1 - week 6
+- OOP - week 7 - 8
   - Klasser
   - Interfaces
   - 4 pillars of Java
@@ -130,11 +131,12 @@ Forskellige emner vi kommer til at køre
   - Modifiers
   - Klassediagram
   - GRASP
-- Datastrukturer/algoritmer
+- Datastrukturer/algoritmer - week 9
   - Arraylist, array
   - Divide and conquor
   - Breakdown af problemer 
-- Software development
+- Project 2 - week 10-11
+- Software development - week 12 - 13
   - Test
   - Projektbaseret
   - UML
@@ -147,7 +149,6 @@ Forskellige emner vi kommer til at køre
   - File management
   - Scanner
   - Try/catch
-  - Primitive vs object type
 
  
 
