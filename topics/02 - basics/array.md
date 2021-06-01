@@ -65,6 +65,12 @@ So if you want the fifth element in the array you have to get the element at ind
 
 
 
+### What can be stored in arrays?
+
+Any type in java can be stored in an array, both primitive and complex data types. 
+
+
+
 ### Accessing elements in the array
 
 Continuing with the array called  `numbers` and `names`, lets see how we can get a specific element at a index in Java:
@@ -100,13 +106,30 @@ System.out.println("The last user that logged in is " + loggedInUsernames[logged
 
 
 
-### Array methods måske!?
+
+
+
 
 concat, slice, join, sort, index
 
 
 
 ## Exercises
+
+
+
+### Exercise 1
+
+Solve the 2 first exercises in Array-1 from CodingBat:https://codingbat.com/java/Array-1
+
+- firstLast6
+- commondEnd
+- middleWay (maybe to hard)
+- 
+
+
+
+
 
 https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=4434&LocationType=1&ElementID=840032
 

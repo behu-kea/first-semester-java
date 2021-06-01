@@ -109,24 +109,18 @@ Forskellige emner vi kommer til at køre
   - Hello world
   - En fra DAT20C/B kommer forbi
   - Studieteknik
-  
 - Basics
   - Variables, expressions and operators- week 2
-  - Number types - week 2
-    - Integer
-    - Double
-    - Float
   - String - week 2
-    - Casting
-  - Array - week 3
   - Debug - week 3
+  - Scope - week 3
+  - Loops - week 3
 - Codeflow
-  - Conditionals and boolean - week 4
-  - Switch - week 4
-  - Scope - week 4
-  - Loops - week 4
+  - Metoder - week 4
+  - Array - week 4
+  - Conditionals and boolean - week 5
+  - Switch - week 5
   - While - week 5
-  - Metoder - week 5
   - Sekvensdiagrammer - week 5
 - OOP
   - Klasser
