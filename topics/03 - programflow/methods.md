@@ -176,5 +176,73 @@ Write  a  method  that  takes  a  String  as  parameter  and  returns  the  amou
 
 
 
+### Exercise 6
+
+Lav en `void` metode, der tager to strenge som parametre og udskriver disse på skærmen på samme linje adskilt af et mellemrum.
 
 
+
+### Exercise 7
+
+Lav en void metode, som skriver en personlig velkomsthilsen inkl. dags dato på skærmen. Du kan lave en af disse varianter: 
+
+-  Dags dato hardkodes i main og gives som argument, når metoden kaldes. 
+
+- Dags dato genereres automatisk inde i metoden på følgende måde  (LocalDate klassen1 skal importeres, men det hjælper IntelliJ med):  
+
+ ```java
+ LocalDate today = LocalDate.now();
+ ```
+
+
+
+### Exercise 8
+
+Du skal have dit program til at foretage flg. output til skærm med  kun ét metodekald i main (du har metoderne nedenfor til rådighed) 
+
+ 
+
+ ```java
+ public static void m1() {
+     System.out.print("Der ");
+ }
+ 
+ public static void m2() {
+     m1();
+     System.out.print("var ");
+ }
+ 
+ public static void m3() {
+     m2();
+     System.out.print("engang");
+ }
+ ```
+
+
+
+### Exercise 9
+
+Lav en metode, der modtager en streng og returner et heltal, der angiver strengens længde. 
+
+Hint: String klassen har en metode `length()` til netop dette formål. 
+
+Eksempel: 
+
+```java
+String text = "Hello World";
+int antalTegn = text.length(); 
+```
+
+
+
+### Exercise 10
+
+Lav en void metode uden parameter kaldet `throwDice`. Dvs. metoden returnerer ikke noget og modtager ingen input. 
+
+Metoden skal generere et tilfældigt tal ml. 1 - 6 og udskrive det på skærmen.
+
+
+
+### Exercise 11
+
+Lav en metode, der modtager en streng, og returnerer strengen skrevet med store bogstaver.

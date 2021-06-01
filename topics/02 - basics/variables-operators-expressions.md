@@ -49,15 +49,13 @@ Also write all variables in English!
 When coming up with a name, try and describe what the variable contains/represents **not** what it is!
 
 ```java
-// 
+// Stores budget for house renovation
 int Myintegervalue = 60000;
 
 
 ```
 
-`Myintegervalue` is not good! Wrong way of writing the name. Should have been `myIntegerValue`. Also the naming is not great  
-
-
+`Myintegervalue` is not good! Wrong way of writing the name. Should have been `myIntegerValue`. Also the naming is not great, since the variable represent a budget, maybe a name like `budget` or more precisely `houseRenovationBudget` would be better. 
 
 
 

@@ -124,8 +124,80 @@ Solve the 2 first exercises in Array-1 from CodingBat:https://codingbat.com/java
 
 - firstLast6
 - commondEnd
-- middleWay (maybe to hard)
-- 
+
+
+
+### Exercise 2
+
+Write a method that takes two parameters:
+
+- An array of Strings
+- An integer `n` 
+
+The method prints the String on the *nth* index.
+
+Here is an example of how to use the method:
+
+```java
+String[] names = {"Camilla", "Per", "Cecilie", "Marie"};
+String exercise2Result = exercise2(names, 3);
+System.out.println(exercise2Result); // Marie
+```
+
+*Remember good variable and function names! Dont use the ones in the above example*
+
+
+
+### Exercise 3
+
+Opret et array af typen int array med plads til 10 elementer. 
+
+Lad programmet beregne summen af alle tallene ved at loope igennem arrayet. 
+
+Udskriv resultatet på skærmen.
+
+
+
+### Exercise 4
+
+Write a method that takes a single parameter:
+
+- An array of integers
+
+The method returns the lowest value from the array
+
+
+
+### Exercise 5
+
+Lav en metode, der tager en String som parameter og udskriver hvor mange ord strengen består af. 
+
+Eksempel: Hvis metoden kaldes med denne tekst fra main: 
+
+ ```java
+ findNumberOfWords("Der var engang");  
+ ```
+
+skal svaret være 3, fordi der er tre ord i strengen adskilt med mellemrum.  
+
+Hint:  
+
+Man kan opdele en streng, som indeholder f.eks. blanktegn ved at bruge  `String` klassens `split()` metode, som opdeler en streng i flere strenge ud fra en given separator, og returnere resultatet i et array. 
+
+Eksempel på kald af metode, hvor String variablen text ønskes adskilt på blanktegn:  
+
+```java
+text.split(" "); 
+```
+
+
+
+ 
+
+Du bestemmer selv om 
+
+- metoden selv skal udskrive resultatet
+- returnere svaret til main, som herefter udskriver svaret på skærmen
 
 
 
