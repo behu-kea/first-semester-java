@@ -38,7 +38,6 @@ Vores vision 🎉
 - Social klasse
   - Pair programming
   - Kage om fredagen
-  - Jon Eikholm
 
 
 
@@ -100,7 +99,7 @@ https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EWX9hZthizNPhEWSw55u
 
 Forskellige emner vi kommer til at køre
 
-- Introduktion
+- Introduktion - week 1
   - Hvad er et programmeringssprog?
     - Hvad er Java
     - Scratch, emoji, brainfuck
@@ -109,18 +108,24 @@ Forskellige emner vi kommer til at køre
   - Hello world
   - En fra DAT20C/B kommer forbi
   - Studieteknik
+  - Problem solving
 - Basics
   - Variables, expressions and operators- week 2
-  - String - week 3
+  - String - week 2
+  - Input
+    - From scanner
   - Loops - week 3
+    - For
     - Scope
+    - While
 - Codeflow
   - Metoder - week 4
   - Array - week 4
   - Conditionals and boolean - week 5
-  - Switch - week 5
-  - While - week 5
-  - Debug - week 2
+    - Switch
+  - Debug - week 5
+    - Pseudokode
+    - Divide and conquer
   - Sekvensdiagrammer - week 5
 - Project 1 - week 6
 - OOP - week 7 - 8
