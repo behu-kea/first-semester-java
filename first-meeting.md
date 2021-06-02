@@ -218,6 +218,8 @@ Datastrcutures og softwaredevelopment tager Nicklas
 ## Ting at overveje
 
 - Hvornår skal jeg introducere at læse inputs? Det kan gøre opgaverne lidt sjovere
+- Bundne forudsætninger
+- Eksamensdato
 - 
 
 

@@ -51,11 +51,23 @@ All information relevant for you education you can find in the studieordning. Th
 
 
 
+### Bundne forudsætninger
+
+To attend the exam you must complete three bundne forudsætninger. That is 3 parts you have to complete to attend the exam. They have to be handed in before the the exam date. 
+
+In this course the bundne forudsætninger will be: **??????**
+
+
+
+
+
+
+
 ## Exam
 
 The exam will take place in December todo: exact exam date
 
-The exam will be a 20 minutes spoken exam. You will come into the classroom, pull out a small problem and then solve that problem in Java. The examinators will ask questions regarding the implementation.
+The exam will be a 20 minutes spoken exam. You will come into the classroom, pick a small problem and then solve that problem in Java. The examinators will ask questions regarding the implementation.
 
 You can read more about the exam in the [studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
@@ -71,6 +83,8 @@ Digital Media Engineer from DTU. Has worked 8 years with software, primarely as 
 
 Follow him on twitter here: https://twitter.com/DalsHughes or see his always slightly outdated portfolio here: https://benna100.github.io/portfolio/
 
+Email: behu@kea.dk
+
 
 
 ### Nicklas Frederiksen
@@ -82,10 +96,6 @@ Follow him on twitter here: https://twitter.com/DalsHughes or see his always sli
 
 
 Bundne forudsætninger
-
-
-
-Kontaktinformationer til os
 
 
 
