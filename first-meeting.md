@@ -109,6 +109,7 @@ Forskellige emner vi kommer til at køre
   - En fra DAT20C/B kommer forbi
   - Studieteknik
   - Problem solving
+    - Pseudokode
 - Basics
   - Variables, expressions and operators- week 2
   - String - week 2
@@ -126,6 +127,7 @@ Forskellige emner vi kommer til at køre
   - Debug - week 5
     - Pseudokode
     - Divide and conquer
+    - Smart at vise i et forloop. Vise at i tæller op ad. 
   - Sekvensdiagrammer - week 5
 - Project 1 - week 6
 - OOP - week 7 - 8
