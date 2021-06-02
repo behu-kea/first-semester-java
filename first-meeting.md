@@ -38,6 +38,8 @@ Vores vision 🎉
 - Social klasse
   - Pair programming
   - Kage om fredagen
+  - Fremlæggelse
+  - Ekstern gæste undervisere
 
 
 
@@ -99,7 +101,7 @@ https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EWX9hZthizNPhEWSw55u
 
 Forskellige emner vi kommer til at køre
 
-- Introduktion - week 1
+- Introduktion - week 1, arrangere fælles
   - Hvad er et programmeringssprog?
     - Hvad er Java
     - Scratch, emoji, brainfuck
@@ -111,7 +113,7 @@ Forskellige emner vi kommer til at køre
   - Problem solving
     - Pseudokode
 - Basics
-  - Variables, expressions and operators- week 2
+  - Variables, expressions and operators - week 2
   - String - week 2
   - Input
     - From scanner
@@ -220,9 +222,10 @@ Datastrcutures og softwaredevelopment tager Nicklas
 ## Ting at overveje
 
 - Hvornår skal jeg introducere at læse inputs? Det kan gøre opgaverne lidt sjovere
-- Bundne forudsætninger
+- Bundne forudsætninger - hvilke skal vi have
 - Eksamensdato
-- 
+- Studiestarts prøve
+- Midtvejsevalueringer
 
 
 
