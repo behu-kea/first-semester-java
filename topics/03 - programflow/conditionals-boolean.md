@@ -199,6 +199,12 @@ Spend some time in a group investigating how if, else if, else works. The group 
 
 
 
+## Switch
+
+Maybe the students investigate this themselves
+
+
+
 JEG SYNTES IKKE VI SKAL UNDERVISE SWITCH. DET SKAL DE NOK SELV FINDE UD AF NÅR DE HAR BRUG FOR DET!!
 
 

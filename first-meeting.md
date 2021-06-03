@@ -37,7 +37,7 @@ Vores vision 🎉
 - Kreative
 - Social klasse
   - Pair programming
-  - Kage om fredagen
+  - Kage om fredagen (vi kunne spørge klassen hvad de kunne tænke sig med det her)
   - Fremlæggelse
   - Ekstern gæste undervisere
 
@@ -112,11 +112,16 @@ Forskellige emner vi kommer til at køre
   - Studieteknik
   - Problem solving
     - Pseudokode
+  - Jons visual tool skal vi have ind her
 - Basics
   - Variables, expressions and operators - week 2
+    - navne
+    - indryk
+    - Kommentarer
+    - Konsistens
   - String - week 2
-  - Input
-    - From scanner
+  - Reading inputs - week 3
+    - Scanner
   - Loops - week 3
     - For
     - Scope
@@ -179,7 +184,10 @@ Folk har glemt hvor dårlige de studerende er. Vi springer over.
 
 ## Gæst
 
-Præsentation af hvordan det er at arbejde i erhvervet med programmering. Ted Talk agtig. Inspirerende, motiverende, konkretesering. Kvindelig KEA alumni. Startet virksomhed. Måske Klaus kunne komme ud
+Præsentation af hvordan det er at arbejde i erhvervet med programmering. Ted Talk agtig. Inspirerende, motiverende, konkretesering. Startet virksomhed. 
+
+- Kvindelig KEA alumni måske 
+- Måske Klaus kunne komme ud. KEA alumni. https://www.linkedin.com/in/clauskaiser/
 
 
 
