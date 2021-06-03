@@ -34,7 +34,7 @@ This is iteration 2
 
 
 
-![Screenshot 2021-05-10 at 12.21.04](../../assets/for-loop.png)
+![For loop structure](../../assets/for-loop.png)
 
 
 
@@ -119,12 +119,11 @@ You can have a for loop in a for loop. See if you can print the following patter
 
 
 
-![Screenshot 2021-05-10 at 12.25.46](../../assets/loop-exercise.png)
+![Exercise 3](../../assets/loop-exercise.png)
 
 
 
 
 
-![Screenshot 2021-05-10 at 12.26.22](../../assets/loop-exercises-2.png)
-
+![Exercise 3](../../assets/loop-exercises-2.png)
 

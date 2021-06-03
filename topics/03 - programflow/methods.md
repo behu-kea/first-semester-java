@@ -20,7 +20,7 @@ Imagine you have a huge machine. The machine has lots of things you can control.
 
 
 
-![Screenshot 2021-05-11 at 15.30.15](../../assets/machine.png)
+![Method metaphor](../../assets/machine.png)
 
 
 
@@ -170,7 +170,7 @@ To figure out how to draw different shapes take a look at this article: https://
 
 
 
-![Screenshot 2021-06-03 at 13.21.25](../../assets/faces.png)
+![Faces](../../assets/faces.png)
 
 
 

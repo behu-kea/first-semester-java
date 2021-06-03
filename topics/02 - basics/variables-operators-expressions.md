@@ -36,7 +36,7 @@ int salary = 400000;
 
 In this example we assign the value of `400000` to a variable called `salary`. The type of `salary` is `int`
 
-![Screenshot 2021-05-04 at 13.06.40](../../assets/variable-type-name-value.png)
+![Variable explanation](../../assets/variable-type-name-value.png)
 
 
 
@@ -72,7 +72,7 @@ There are lots of different types in Java. Let's have a look at some of them:
 
 You can read up on more more Java types here: https://www.w3schools.com/java/java_data_types.asp dont get too frightened we will learn the types as we progress with the language. One thing at a time 😄
 
-![Screenshot 2021-05-31 at 15.10.22](../../../third-semester/assets/variable-types.png)
+![Variable types](../../assets/variable-types.png)
 
 
 

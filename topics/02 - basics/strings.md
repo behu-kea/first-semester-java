@@ -31,7 +31,7 @@ There are 8 primitive data types in java as you can in the figure below. Primiti
 
 
 
-![Screenshot 2021-06-01 at 08.46.52](../../../third-semester/assets/primitive-data-types.png)
+![Primitive data types](../../../third-semester/assets/primitive-data-types.png)
 
 
 
