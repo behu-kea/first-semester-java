@@ -18,9 +18,7 @@ Imagine you have a huge machine. The machine has lots of things you can control.
 
 
 
-
-
-![Method metaphor](../../assets/machine.png)
+![Machine](../../assets/machine.png)
 
 
 

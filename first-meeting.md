@@ -237,3 +237,16 @@ Datastrcutures og softwaredevelopment tager Nicklas
 
 
 
+## Possible projects
+
+
+
+- For methods maybe take the faces exercise over to Thursday and firday, could include booleans, arrays and everything
+- Virtual creature could be a fun project
+- One button game could also be a possibility
+- Voice assistant
+- Create some kind of bot
+- Experimental chat. Let people interact/chat in a new experimental way
+- Creative cryptography- Invent a new way of encrypting and decrypting a message. 
+- Synthetic instrument maybe using JavaFeel
+
