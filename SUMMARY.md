@@ -1,10 +1,11 @@
 # Learning java
 
 - Topics
-  - 01 - introduction
-  - [02 - basics](topics/02 - basics/basics.md)
+  - 01 - Introduction
+  - [02 - Basics](topics/02 - basics/basics.md)
     - [Variables, operators and expressions](topics/02 - basics/variables-operators-expressions.md)
     - [Strings](topics/02 - basics/strings.md)
+    - [Working with inputs](topics/02 - basics/working-with-inputs.md)
     - [Loops](topics/02 - basics/loops.md)
   - 03 - Programflow
     - [Methods](topics/03 - programflow/methods.md)
