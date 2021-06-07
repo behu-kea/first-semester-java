@@ -10,7 +10,7 @@ String fruit = "banana";
 
 The way a string is built up is as a sequence of characters. So the first character in `fruit` is `b`, the second character is `a` and so on. *In programming languages the first element has index 0 (which is a bit weird in the beginning)*
 
-![Screenshot 2021-06-01 at 08.49.46](../../assets/string-characters.png)
+![String character sequence](../../assets/string-characters.png)
 
 That means that if we wanted the first character in a string we would get that at index 0!
 
