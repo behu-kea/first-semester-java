@@ -114,6 +114,10 @@ The returned value from calling the method is captured by `fullname1` and `fulln
 
 
 
+![CleanShot 2021-06-08 at 11.04.29@2x](../../assets/method-definitions.png)
+
+
+
 ## Method scope
 
 Method scope works in the same way as block scope. This means that a variable defined within a method is not accessible outside that method. 
@@ -128,20 +132,6 @@ public static void sayHi() {
 
 System.out.println(hiString); // hiString is not defined within this scope!
 ````
-
-``
-
-
-
-**We should copy this for Java!!!!**
-
-![Screenshot 2021-05-11 at 16.31.43](../../assets/method-explanation-2.png)
-
-
-
-
-
-### Stack trace
 
 
 
