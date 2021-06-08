@@ -125,7 +125,7 @@ Forskellige emner vi kommer til at køre
   - Loops - week 3
     - For
     - Scope
-    - While
+    - While, do while - unddersøger de studerende selv
 - Codeflow
   - Metoder - week 4
   - Array - week 4

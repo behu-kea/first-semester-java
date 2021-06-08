@@ -114,9 +114,22 @@ The returned value from calling the method is captured by `fullname1` and `fulln
 
 
 
-## Method scope (maybe)
+## Method scope
 
-Just like we saw with the for loop, 
+Method scope works in the same way as block scope. This means that a variable defined within a method is not accessible outside that method. 
+
+
+
+````java
+public static void sayHi() {
+		String hiString = "Hi!"
+    System.out.println(hiString);
+}
+
+System.out.println(hiString); // hiString is not defined within this scope!
+````
+
+``
 
 
 

@@ -81,6 +81,8 @@ System.out.println("The last number is: " + number); // prints 6
 
 ## Exercises
 
+The following exercises should be done in groups of two or three people
+
 
 
 ### Exercise 1
@@ -92,6 +94,20 @@ System.out.println("The last number is: " + number); // prints 6
 3. Use a for loop to print a `*` 10 times
 
 4. Use a for loop to print the numbers starting from 5 to -5 
+
+
+
+### Exercise 1.1
+
+Find a partner group. One groups investigates while loops while the other investigates do while loops. 
+
+You have 30 minutes to prepare a presentation for the other group explaining the loop type you got. When preparing focus on these things
+
+- How does the loop type work?
+- Write a practical code example of how to use the loop type
+- In what situations should someone use your loop type?
+
+The presentation should be around 5-10 minutes. Have the presentation as you like. If slides works for you then use it, if just code works for you the use that, if a document is better then use that. 
 
 
 
