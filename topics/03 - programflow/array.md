@@ -104,8 +104,6 @@ System.out.println(names.length); // 4
 
 
 
-
-
 ### Real world example of arrays
 
 ```java
