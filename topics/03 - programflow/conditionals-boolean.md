@@ -236,14 +236,14 @@ Can you think of an example using if, else if, else?
 
 
 
-## Erercise 1 - switch and ternary
+## Exercise 1 - switch and ternary
 
 Find a partner group. One groups investigates switch while the other investigates ternary expression. 
 
-You have 30 minutes to prepare a presentation for the other group explaining the loop type you got. When preparing focus on these things
+You have 30 minutes to prepare a presentation for the other group explaining either switch or ternary When preparing focus on these things
 
-- How does the conditional work?
-- Write a practical code example of how to use either swtich or ternary
+- How does the conditional work that you picked?
+- Write a practical code example of how to use what your group picked
 - In what situations should someone use what you picked?
 
 The presentation should be around 5-10 minutes. Have the presentation as you like. If slides works for you then use that, if just code works for you the use that, if a document is better then use that. 

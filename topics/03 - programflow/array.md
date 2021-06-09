@@ -92,6 +92,8 @@ System.out.println(names.length); // 4
 
 
 
+
+
 ### Real world example of arrays
 
 ```java
@@ -106,19 +108,29 @@ System.out.println("The last user that logged in is " + loggedInUsernames[logged
 
 
 
-
-
-
-
-concat, slice, join, sort, index
-
-
-
 ## Exercises
 
 
 
-### Exercise 1
+### Exercise 1 - iterating through an array
+
+Iterating through the loop means running through each element in the array and doing something with those elements. 
+
+
+
+Find a partner group. One groups investigates iterating through an array using a `for` loop another group investigates iterating through an array using the for each loop
+
+You have 30 minutes to prepare a presentation for the other group explaining the iteration type you got. When preparing focus on these things
+
+- How does your iteration type work?
+- Write a practical code example of how to use the iteration type you got
+- In what situations should someone use the iteration type you got?
+
+The presentation should be around 5-10 minutes. Have the presentation as you like. If slides works for you then use that, if just code works for you the use that, if a document is better then use that. 
+
+
+
+### Exercise 1.1
 
 Solve the 2 first exercises in Array-1 from CodingBat:https://codingbat.com/java/Array-1
 

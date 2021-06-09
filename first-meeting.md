@@ -235,6 +235,7 @@ Datastrcutures og softwaredevelopment tager Nicklas
 - Studiestarts prøve
 - Midtvejsevalueringer
 - Hvad med Git?
+- For each in arrayList
 
 
 
