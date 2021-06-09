@@ -234,6 +234,7 @@ Datastrcutures og softwaredevelopment tager Nicklas
 - Eksamensdato
 - Studiestarts prøve
 - Midtvejsevalueringer
+- Hvad med Git?
 
 
 

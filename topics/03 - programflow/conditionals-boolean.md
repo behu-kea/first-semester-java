@@ -39,7 +39,7 @@ boolean isSunShining = true;
 
 
 
-## Boolean expressions
+## Relational operator
 
 What if we had a variable called `televisionPrice` that we wanted to check was expensive. We could fx say that prices larger than 10.000 is an expensive price. In Java we would do that like this:
 
@@ -65,15 +65,13 @@ There are 6 different relational operators
 
 **This is perfect for something like peer instruction!!!**
 
-
-
 Exercise possibility
 
 a person is higher than 2 meters. So this means 
 
 
 
-## Boolean operators/logical operator
+## Logical operator
 
 There are different logical operators we can use
 
@@ -193,19 +191,20 @@ Here is a flow diagram showing how if-else sentence works:
 
 
 
-## If, else if, else
+### Else if
 
-Spend some time in a group investigating how if, else if, else works. The group has to present to another group.
+What if we wanted to take decisions based on more that just `if` or `else`? For that we need and `else if` sentence. Here is an example
 
-
-
-## Switch
-
-Maybe the students investigate this themselves
-
-
-
-JEG SYNTES IKKE VI SKAL UNDERVISE SWITCH. DET SKAL DE NOK SELV FINDE UD AF NÅR DE HAR BRUG FOR DET!!
+```java
+int age = 23;
+if (age < 16) {
+	System.out.println("You cannot buy any alcohol ✋");
+} else if(age > 16 && age < 18) {
+	System.out.println("You can now buy beer 🍺");
+} else {
+	System.out.println("You can now buy all alcohol 🍹");
+}
+```
 
 
 
@@ -236,4 +235,16 @@ Can you think of an example using if, else if, else?
 ## Exercises
 
 
+
+## Erercise 1 - switch and ternary
+
+Find a partner group. One groups investigates switch while the other investigates ternary expression. 
+
+You have 30 minutes to prepare a presentation for the other group explaining the loop type you got. When preparing focus on these things
+
+- How does the conditional work?
+- Write a practical code example of how to use either swtich or ternary
+- In what situations should someone use what you picked?
+
+The presentation should be around 5-10 minutes. Have the presentation as you like. If slides works for you then use that, if just code works for you the use that, if a document is better then use that. 
 
