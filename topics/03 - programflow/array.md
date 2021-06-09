@@ -82,6 +82,18 @@ System.out.println(names[1]); // Per
 
 
 
+### Setting elements in the array
+
+It is also possible to change the value at a sepcific index
+
+```java
+System.out.println(numbers[4]); // 50
+numbers[4] = 77;
+System.out.println(numbers[4]); // 77
+```
+
+
+
 ### Length
 
 To get the number of elements in an array write the following:
