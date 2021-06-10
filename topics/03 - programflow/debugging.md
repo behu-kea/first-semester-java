@@ -62,3 +62,5 @@ The highlighted area in the image below shows the controls of the debugger. Let'
 
 
 
+With these tools you can hopefully easier debug your program to find out what is going wrong.
+
