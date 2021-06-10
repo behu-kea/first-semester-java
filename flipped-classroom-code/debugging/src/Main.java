@@ -18,6 +18,8 @@ public class Main {
         int difference = accountBalance - televisionPrice;
         System.out.println(difference);
 
+        test();
+
         if (difference > 2000) {
             System.out.println("Congrats you can buy the television 📺");
         } else if (difference >= 0 && difference <= 2000) {
@@ -27,5 +29,9 @@ public class Main {
         }
 
         System.out.println("done");
+    }
+
+    public static void test() {
+        System.out.println("asd");
     }
 }
