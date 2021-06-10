@@ -1,24 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        boolean isSunShining = false;
-
-        if (isSunShining == true) {
-            //System.out.println("The sun is shining ☀️");
-            //System.out.println(2323);
-            String hej = "asd";
-        } else {
-            //System.out.println("the sun is not shining ☁️😥");
-        }
-
-        //System.out.println("Do i reach this code?");
-
         int televisionPrice = 30000;
         int accountBalance = 27000;
 
         int difference = accountBalance - televisionPrice;
-        System.out.println(difference);
-
-        test();
 
         if (difference > 2000) {
             System.out.println("Congrats you can buy the television 📺");
@@ -29,9 +14,18 @@ public class Main {
         }
 
         System.out.println("done");
+
+        int[] productPrices = {1, 3, 90};
+        int sum = getSumFromArray(productPrices);
+        System.out.println("The sum of the array is: " + sum);
     }
 
-    public static void test() {
-        System.out.println("asd");
+    public static int getSumFromArray(int[] array) {
+        int sum = 0;
+        for (int i = 0; i < array.length; i++) {
+            sum = sum + i;
+        }
+
+        return sum;
     }
 }
