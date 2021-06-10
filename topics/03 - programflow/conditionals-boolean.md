@@ -138,7 +138,13 @@ System.out.println(canEdit); // true
 
 ## Exercises
 
+Create a user:  https://codingbat.com/java1
 
+Solve the first 3 exercises in the module ”Logic 1” 
+
+- cigarParty
+- dateFashion
+- squirrelPlay
 
 
 
