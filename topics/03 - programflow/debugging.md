@@ -52,9 +52,13 @@ The highlighted area in the image below shows the controls of the debugger. Let'
 
 ![CleanShot 2021-06-09 at 15.43.03@2x](../../assets/controlling-the-debugger.png)
 
-- <img src="../../assets/step-over.png" alt="CleanShot 2021-06-09 at 15.49.31@2x" style="zoom:50%;" /> Step Over - 
-- <img src="../../assets/step-into.png" alt="CleanShot 2021-06-09 at 15.51.16@2x" style="zoom: 59%;" /> Step into - 
-- <img src="../../assets/force-step-into.png" alt="CleanShot 2021-06-09 at 15.52.16@2x" style="zoom:58%;" /> Force step into - 
-- <img src="../../assets/step-out.png" alt="CleanShot 2021-06-09 at 15.53.15@2x" style="zoom:58%;" /> Step out - 
-- <img src="../../assets/step-to-cursor.png" alt="CleanShot 2021-06-09 at 15.54.24@2x" style="zoom:50%;" /> Step to cursor - 
+
+
+- <img src="../../assets/step-into.png" alt="CleanShot 2021-06-09 at 15.51.16@2x" style="zoom: 59%;" /> Step into - Will either go to the next line that is executed **or** go into a method if the current line is a method call
+- <img src="../../assets/step-over.png" alt="CleanShot 2021-06-09 at 15.49.31@2x" style="zoom:50%;" /> Step Over - If the current line is a method call you can step over that method call (not debugging inside that method)
+- <img src="../../assets/force-step-into.png" alt="CleanShot 2021-06-09 at 15.52.16@2x" style="zoom:58%;" /> Force step into - If there is a method call no matter the type of method call it will step into that
+- <img src="../../assets/step-out.png" alt="CleanShot 2021-06-09 at 15.53.15@2x" style="zoom:58%;" /> Step out - Will step out of the method that the debugger is in
+- <img src="../../assets/step-to-cursor.png" alt="CleanShot 2021-06-09 at 15.54.24@2x" style="zoom:50%;" /> Step to cursor - Will step into where the cursor is
+
+
 

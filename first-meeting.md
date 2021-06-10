@@ -132,9 +132,10 @@ Forskellige emner vi kommer til at køre
   - Conditionals and boolean - week 5
     - Switch
   - Debug - week 5
+    - Smart at vise i et forloop. Vise at i tæller op ad. 
+  - Problem solving - week 5
     - Pseudokode
     - Divide and conquer
-    - Smart at vise i et forloop. Vise at i tæller op ad. 
   - Sekvensdiagrammer - week 5
 - Project 1 - week 6
 - OOP - week 7 - 8
