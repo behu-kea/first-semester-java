@@ -137,6 +137,7 @@ Forskellige emner vi kommer til at køre
     - Pseudokode
     - Divide and conquer
   - Sekvensdiagrammer - week 5
+    - System
 - Project 1 - week 6
 - OOP - week 7 - 8
   - Klasser
@@ -159,6 +160,7 @@ Forskellige emner vi kommer til at køre
   - Design
   - Binder sammen alt det de studerende har lært
   - Funderet i et stykke software
+- 2 ugers lir
 - Andet
   - Input/output
   - File management
@@ -230,13 +232,27 @@ Datastrcutures og softwaredevelopment tager Nicklas
 
 ## Ting at overveje
 
-- Hvornår skal jeg introducere at læse inputs? Det kan gøre opgaverne lidt sjovere
 - Bundne forudsætninger - hvilke skal vi have
+
 - Eksamensdato
+
 - Studiestarts prøve
+
 - Midtvejsevalueringer
-- Hvad med Git?
+
+- Hvad med Git? -  den tager jeg med en af de første dage
+
 - For each in arrayList
+
+- Noget godt fra Patrick Agergaard: Lade dygtigere studerende indgå som ressourcer over for studerende, som kæmper mere for at lære det.
+
+  Tilbyde mange forskellige måder at lære på, når faget tillader det: Video, buddy, tutor, bibliotek osv. Måske løbende følge op på hvad der rører sig ift. disse, så det vedbliver med at være interessant.
+
+  Opgaver, som kan løses dels på flere niveauer (højt, mellem og tilfredsstillende) og dels i flere retninger, så de studerende kan præge løsningen. Dette er også værdifuld feedback til underviserne, fordi der kan hentes gode ideer til fremtidig undervisning + opgaver.
+
+- KEA alumni - for at finde en kvindelig eller iværksætter
+
+- Enum
 
 
 
