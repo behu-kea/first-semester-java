@@ -141,9 +141,10 @@ Forskellige emner vi kommer til at køre
 - Project 1 - week 6
 - OOP - week 7 - 8
   - Klasser
+  - Objekter
+  - Nedarvning
   - Interfaces
   - 4 pillars of Java
-  - Nedarvning
   - Modifiers
   - Klassediagram
   - GRASP
