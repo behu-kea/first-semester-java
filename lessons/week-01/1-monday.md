@@ -40,13 +40,13 @@ Hvad vil det sige at være datamatiker? It fagets håndværker. Datamatikeren ke
 
 **Datamatiker før under og efter**
 
-![CleanShot 2021-06-25 at 11.23.08@2x](../../assets/datamatiker-uddannelsen.png)
+![Datamatiker før under og efter](../../assets/datamatiker-uddannelsen.png)
 
 
 
 **Overordnet struktur**
 
-![Education overview](../../assets/uddannelses-overblik.png)
+![Overordnet struktur](../../assets/uddannelses-overblik.png)
 
 
 
@@ -166,7 +166,7 @@ De mange aspekter af Computer Science
 
 De mange aspekter af at udvikle software
 
-![CleanShot 2021-06-25 at 13.08.58@2x](../../assets/software-development.png)
+![Software development](../../assets/software-development.png)
 
 
 
@@ -196,7 +196,7 @@ Lad os tage nogle forskellige eksempler 👇
 
 
 
-![MT3024-Hello-World-In-Different-Programming-Languages-Code-Poster-Painting-Art-Poster-Print-Canvas-Home-Decor.jpg_Q90](../../assets/hello-world.png)
+![Hello world in different languages](../../assets/hello-world.png)
 
 
 
