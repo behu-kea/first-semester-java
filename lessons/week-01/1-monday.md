@@ -1,4 +1,4 @@
-Monday 6/9-2021
+# Monday
 
 - Introduction
   - Undervisere
