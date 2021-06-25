@@ -1,6 +1,6 @@
 # Monday
 
-- Introduction
+- Introduktion
   - Undervisere
   - Datamatikeruddannelsen
   - Det her semester
