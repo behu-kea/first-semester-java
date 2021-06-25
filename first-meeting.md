@@ -255,6 +255,8 @@ Datastrcutures og softwaredevelopment tager Nicklas
 
 - Enum
 
+- Run time vs compile time
+
 
 
 ## Possible projects

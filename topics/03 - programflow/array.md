@@ -140,9 +140,44 @@ The presentation should be around 5-10 minutes. Have the presentation as you lik
 
 
 
+### Exercise 1.2
+
+Figure out what this method does **without running it!**
+
+- For each line make a comment that describes these things: 
+
+  ```
+  // what code is written in line of the program?
+  //  why is this line of code here?
+  //  what variables does it use?
+  //  how does it relate to other lines?
+  //  ... anything else you notice?
+  ```
+
+- Improve the variable names so they make more sense for you
+- When you have figured out what the method does, give the method a better name
+- Also show an example of how to use the method
+
+```java
+static char[] doSomething(char abc[]) {
+    char[] bac = new char[abc.length];
+    int j = abc.length;
+    for (int i = 0; i < abc.length; i++) {
+        bac[j - 1] = abc[i];
+        j = j - 1;
+    }
+
+    return bac;
+}
+```
+
+
+
+
+
 ### Exercise 1.1
 
-Solve the 2 first exercises in Array-1 from CodingBat:https://codingbat.com/java/Array-1
+Solve the 2 first exercises in Array-1 from CodingBat: https://codingbat.com/java/Array-1
 
 - firstLast6
 - commondEnd
