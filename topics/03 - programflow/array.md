@@ -144,7 +144,7 @@ The presentation should be around 5-10 minutes. Have the presentation as you lik
 
 Figure out what this method does **without running it!**
 
-- For each line make a comment that describes these things: 
+- For each line make a comment that describes these things: You can read more about describing your programs [here](https://github.com/hackyourfuturebelgium/welcome-to-js/tree/master/describing-programs)
 
   ```
   // what code is written in line of the program?
