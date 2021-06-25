@@ -257,6 +257,10 @@ Datastrcutures og softwaredevelopment tager Nicklas
 
 - Run time vs compile time
 
+- Think java bogen: https://greenteapress.com/thinkjava6/thinkjava2.pdf
+
+- Generelt om Java JVM, Compile time, bytecode, kompilering, etc: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=846012
+
 
 
 ## Possible projects
