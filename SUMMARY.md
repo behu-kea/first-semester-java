@@ -17,5 +17,10 @@
   - 06 - Software Development
 - Lessons
   - Week-01
+    - [Monday](lessons/week-01/1-monday.md)
+    - [Tuesday](lessons/week-01/1-tuesday.md)
+    - [Wednesday](lessons/week-01/1-wednesday.md)
+    - [Thursday](lessons/week-01/1-thursday.md)
+    - [Friday](lessons/week-01/1-friday.md)
   - Week-02
   - 

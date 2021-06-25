@@ -1,4 +1,4 @@
-# Monday 6/9-2021
+Monday 6/9-2021
 
 - Introduction
   - Undervisere
@@ -226,7 +226,7 @@ public class HelloWorld {
 
 ## Studiegrupper
 
-
+**HUSKE AT LAVE GRUPPERNE**
 
 
 
