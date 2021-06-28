@@ -18,9 +18,9 @@
 - Lessons
   - Week-01
     - [Monday](lessons/week-01/1-monday.md)
-    - [Tuesday](lessons/week-01/1-tuesday.md)
-    - [Wednesday](lessons/week-01/1-wednesday.md)
-    - [Thursday](lessons/week-01/1-thursday.md)
-    - [Friday](lessons/week-01/1-friday.md)
+    - [Tuesday](lessons/week-01/2-tuesday.md)
+    - [Wednesday](lessons/week-01/3-wednesday.md)
+    - [Thursday](lessons/week-01/4-thursday.md)
+    - [Friday](lessons/week-01/5-friday.md)
   - Week-02
   - 
