@@ -44,6 +44,8 @@ Now when we truly understand the problem as well as we can we need to plan for f
 
 
 
+### Divide
+
 
 
 
@@ -78,7 +80,7 @@ Imagine a ladder leaning against a vertical wall with its feet on the ground. Th
 
 
 
-
+![Oxford question 2](../../assets/oxford-question-3.png)
 
 ### Good for divide
 
