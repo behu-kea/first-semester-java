@@ -32,6 +32,8 @@ Email: behu@kea.dk
 
 
 
+
+
 ### Datamatikeruddannelsen
 
 Hvad vil det sige at være datamatiker? It fagets håndværker. Datamatikeren kender til mange forskellige aspekter af software udvikling, men er praktisk funderet!
@@ -106,7 +108,6 @@ Der er desuden en studiestartsprøve ca 5 uger efter start
 - KEAplan 
 
   - http://keaplan.kea.dk
-  - https://publish.kea.dk/
 
 
 
@@ -152,7 +153,7 @@ Der er lektiecafe i det der hedder Codelab. Her kan i få hjælp af nogle studer
 
 https://kea.dk/om-kea/nyheder/kodev%C3%A6rksted-hitter-hos-datamatikere
 
-
+**DER MANGLER LIGE LIDT HER**
 
 
 
@@ -236,4 +237,5 @@ I jeres studiegrupper skal i lave de her 3 opgaver 👇
 
 - Tegn 20 æbler øvelser - 10 min
 - Conditional beach - de forskellige i gruppen får forskellige farver. De skal på skift sætte prikken længst væk fra en anden prik - 10 min
+  - Skriv ned hvordan i ville forklare/give instrukser til en maskine om at skulle køre lege den her leg!
 - Barcode exercise https://csunplugged.org/en/at-home/unlocking-the-secret-in-product-codes/ - 30 min
