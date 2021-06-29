@@ -133,7 +133,7 @@ bookTitle = "From the sea";
 
 ### Exercise 1
 
-Create a new Java class called `Person.java`. Use the code below as a start
+With the person sitting next to you. Create a new Java class called `Person.java`. Use the code below as a start
 
 ```java
 public class Person {
@@ -199,6 +199,12 @@ result = 3 * 5 / 5 + 1 // will this java code run??
 ### Order op operations
 
 ![Order of operations](../../assets/order-of-operations.png)
+
+
+
+## Exercises
+
+With the same person from the previous task go through these exercises
 
 
 
