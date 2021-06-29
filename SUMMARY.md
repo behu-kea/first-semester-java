@@ -24,5 +24,16 @@
     - [Thursday](lessons/week-01/4-thursday.md)
     - [Friday](lessons/week-01/5-friday.md)
   - Week 02
+    - [Monday](lessons/week-02/1-monday.md)
+    - [Tuesday](lessons/week-02/2-tuesday.md)
+    - [Wednesday](lessons/week-02/3-wednesday.md)
+    - [Thursday](lessons/week-02/4-thursday.md)
+    - [Friday](lessons/week-02/5-friday.md)
+  - Week 03
+    - [Monday](lessons/week-03/1-monday.md)
+    - [Tuesday](lessons/week-03/2-tuesday.md)
+    - [Wednesday](lessons/week-03/3-wednesday.md)
+    - [Thursday](lessons/week-03/4-thursday.md)
+    - [Friday](lessons/week-03/5-friday.md)
 - [Semesterplan](https://studkea-my.sharepoint.com/:x:/g/personal/behu_kea_dk/EfQnlj_BasZEj49djKUZ3nQBv3xDPaFDB5a-7e7TWkDR7g?e=kyqQND)
 
