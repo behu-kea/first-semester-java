@@ -2,7 +2,5 @@
 
 This week will be focused on the basics of Java
 
-
-
-Small Project
+- Read and solve the exercises found in [strings](../../topics/02 - basics/strings.md)
 

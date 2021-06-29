@@ -2,7 +2,5 @@
 
 This week will be focused on the basics of Java
 
-
-
-Small Project
+Peer instruction and maybe a Kahoot quiz
 

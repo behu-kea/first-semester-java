@@ -76,9 +76,15 @@ System.out.println(fullname); // Benjamin Hughes
 
 
 
+## Exercises
+
+
+
 ### Exercise 1
 
-In a group investigate 2 string methods. You need to be able to explain what the method does but also how to use it in Java!
+In a group investigate two different string methods. You need to be able to explain what the method does but also how to use it in Java!
+
+A couple of groups will be selected to show what they learned
 
 
 
@@ -86,9 +92,9 @@ In a group investigate 2 string methods. You need to be able to explain what the
 
 - Convert string to uppercase
 - Return the index of a character
-- Concatenate strings
-- Compare string to another string ignoring case
-- Test if the string ends with a certain suffix
+- Concatenate two different string
+- Compare a string to another string ignoring case. 
+- Test if the string ends with a certain character
 
 
 

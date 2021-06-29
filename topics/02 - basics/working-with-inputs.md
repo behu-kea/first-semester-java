@@ -58,3 +58,30 @@ Here Java is throwing the `InputMismatchException` error. So Java is telling us 
 
 
 
+### Exercise 1
+
+Write a program that prompts the user to provide a String and echo’s the string provided.  The code should be commented such that every line is explained.
+
+
+
+### Exercise 2
+
+Write a program that prompts the user to provide a number, computes the half of the number and prints the result with a friendly message
+
+
+
+### Exercise 3
+
+Write  a  program  that  prompts  the  user  to  provide  an  int  n  and  prints  the difference  between  n  and  21  with  input  from  Scanner.   You  can  assume  the input number is between 0 and 21
+
+
+
+### Exercise 4
+
+Write a program that prompts the user to input 5 numbers from keyboard.  Find & print their sum and average.
+
+
+
+### Exercise 5
+
+Write a program that prompts the user to input their name, height & weight.Calculate  &  print  their  BMI  number  and  provide  the  answer  with  a  friendlymessage
