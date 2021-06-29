@@ -40,11 +40,19 @@ So we need to understand the problem before trying to solve it. It makes intuiti
 
 ### Plan
 
-Now when we truly understand the problem as well as we can we need to plan for fixing the problem. 
+When we truly understand the problem as well as we can, we need to plan for fixing the problem. 
+
+Planning gives your brain time to analyze the problem and properly process the information. It is a task that is not done often enough especially among novice programmers. Novice programmers have a tendency to just start solving a problem. This typically affect the solution that in turn has not been structured well/thought through/have problems.
+
+So how should a plan be made then? It's up to you. Typically just writing down in steps how you are going to solve the problem is sufficient. Another helpful tool when planning writing some software is [writing pseudo code](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/) 
 
 
 
 ### Divide
+
+By this stage the you should have a clear understanding of the problem, an overall plan for how you will fix the problem. Now we come to dividing the problem into smaller subproblems.
+
+
 
 
 
