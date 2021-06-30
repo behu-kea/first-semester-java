@@ -119,15 +119,16 @@ Forskellige emner vi kommer til at køre
     - indryk
     - Kommentarer
     - Konsistens
-  - String - week 2
-  - Reading inputs - week 3
+  - Reading inputs - week 2
     - Scanner
+  - String - week 2
   - Loops - week 3
     - For
     - Scope
     - While, do while - unddersøger de studerende selv
+  - Metoder - week 3
+  - Git week 3
 - Codeflow
-  - Metoder - week 4
   - Array - week 4
   - Conditionals and boolean - week 5
     - Switch
@@ -259,7 +260,7 @@ Datastrcutures og softwaredevelopment tager Nicklas
 
 - Think java bogen: https://greenteapress.com/thinkjava6/thinkjava2.pdf
 
-- Generelt om Java JVM, Compile time, bytecode, kompilering, etc: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=846012
+- Generelt om Java JVM, Compile time, bytecode, kompilering, etc: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=846012 **SKAL DE HAVE OM DET HER???**
 
 
 

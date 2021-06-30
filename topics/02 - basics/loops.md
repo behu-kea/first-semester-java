@@ -87,7 +87,7 @@ The following exercises should be done in groups of two or three people
 
 ### Exercise 1
 
-1. Write a method that prints out ”Hello World” 3 times
+1. Prints out ”Hello World” 3 times
 
 2. Use a for loop to print the numbers from 1 to 10
 
@@ -123,13 +123,47 @@ Run 10 iterations.
 
 ### Exercise 3
 
-Write a method that prints a random number of hashtags # (Maximum 10)
+Using FeelJava and loop of your choosing, create a series of rectangles. The rectangles should change
+
+- Position
+- Size
+- Color
+- Other
+
+
+
+```java
+public void drawRectangle(Canvas cv){ 
+	 // Setup GraphicsContext2D
+   GraphicsContext gc = cv.getGraphicsContext2D();
+   // Clear the drawing rect
+   gc.clearRect(0,0,650,700);
+   // set the color of the rectangle
+   gc.setFill(Color.GREEN);
+   // Fill the rectangle with width and height of 180
+   // and position x: 100, y:200
+   gc.fillRect(100,200,180,180);
+   
+} 
+```
+
+
+
+### Exercise 3.1
+
+Using FeelJava create a chess board pattern using loops
+
+
+
+### Exercise 4
+
+Prints a random number of hashtags (`#`) (Maximum 10)
 
 *Hint - try google `java random number between`* 
 
 
 
-### Exercise 3 - Nested for loops
+### Exercise 5 - Nested for loops
 
 You can have a for loop in a for loop. See if you can print the following patterns to the console
 
