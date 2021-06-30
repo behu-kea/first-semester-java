@@ -1,4 +1,4 @@
-# Tuesday 14/09-2021
+# Tuesday
 
 This week will be focused on the basics of Java
 

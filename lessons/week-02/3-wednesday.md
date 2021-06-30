@@ -1,4 +1,4 @@
-# Wednesday 15/09-2021
+# Wednesday
 
 We will be doing some peer instruction questions today
 
