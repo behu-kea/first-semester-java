@@ -1,21 +1,6 @@
 # Wednesday 15/09-2021
 
-This week will be focused on the basics of Java
-
-Peer instruction and maybe a Kahoot quiz
-
-
-
-## Exercises
-
-What will this code output if i input 34?
-
-```java
-Scanner scanner = new Scanner(System.in);
-int age = scanner.nextInt();
-double doubleAge = age * 2;
-System.out.println("Your double age is: " + doubleAge);
-```
+We will be doing some peer instruction questions today
 
 
 
