@@ -14,7 +14,7 @@ We are joining the crypto train, choo choo everybody aboard 🚂☁️☁️☁�
 
 Let's make a Java program that works like this👇
 
-Firstly it will ask for the user name
+Firstly it will ask for the firstname and then lastname
 
 Then it will greet the user with a welcoming (and not too threatening) message!
 
@@ -36,15 +36,15 @@ Now the user puts in his/her firstname. In this example `Hughes`
 
 ```
 Welcom dear Benjamin Hughes ❤️
-B is such a great first character in your name!
-Anyway we hope you're ready to convert some dollars
+Here is a random character in your fullname: g
+Anyways we hope you're ready to convert some dollars
 How many dollars can you convert today?
 ```
 
 Now the user writes how many dollars he/she has. In this case 34 dollars
 
 ```
-Wauv 34 dollars that a lot 💵
+Wauv 34 dollars thats a lot 💵
 Here is what you can get with 34 dollars
 - 0.000234 bitcoin
 - 0.1334 dogecoin
@@ -52,7 +52,7 @@ Here is what you can get with 34 dollars
 In total that is 2.556634 coins in total!
 ```
 
-This line: `B is such a great first character in your name!` should take the first character from the firstname.
+This line: `Here is a random character in your fullname: g` should take a random character in the fullname and show it. This will require some googling since you have not learned this!! Think about what you can Google
 
 This line `In total that is 2.556634 coins in total!` should add all the cryptocoins together (even though that does not really make any sense 😂)
 
@@ -62,5 +62,5 @@ This line `In total that is 2.556634 coins in total!` should add all the cryptoc
 
 ## Handing it in
 
-
+Hand this assignment in on Fronter
 
