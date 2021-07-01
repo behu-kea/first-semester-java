@@ -147,32 +147,6 @@ Todays exercises will be done as pair programming! We will set a timer. For the 
 
 
 
-### Exercise 1 - 1 hour
-
-In this exercise we will be using FeelJava to create method that can generate a face. You can watch a small video about FeelJava here: https://www.youtube.com/watch?v=YRSCFqIvUOo
-
-Download FeelJava here: https://www.dropbox.com/s/5ji2fmthdm5a2eh/feeljava0.7.jar?dl=1
-
-Open FeelJava and in the top, click on `graphics -> Circle`. Now you are ready to create your own face! 
-
-Create a method that can generate a face. The method should have relevant parameters that control the face. This is a very open task and you choose how to do it. Creativity is appreciated 🤩
-
-
-
-Here is an example of how a method could look. 
-
-```java
-public void generateFace(Canvas cv, boolean isSmiling, int numberOfEyes, String hairColor) {
-   	...
-}
-```
-
-To figure out how to draw different shapes take a look at this article: https://edencoding.com/javafx-canvas/
-
-
-
-![Faces](../../assets/faces.png)
-
 
 
 Continue in the pair programming pairs.
