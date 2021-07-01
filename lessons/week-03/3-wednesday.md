@@ -42,4 +42,122 @@ public static String getGreetingMessage(String fullname) {
 
  -->
 
+![Greeting message output](../../../greeting-message-parson.png)
+
+
+
+
+
 ### Exercise 2
+
+Solve this Parsons problem
+
+The program will in larger terms
+
+- Ask the user for a number of emojis to be printed
+- With the number of emojis call a method to get the emojis to print
+- Print the emojis
+
+http://parsons.problemsolving.io/puzzle/8568731ac447431fb872b3f23d968391
+
+<!--
+
+```
+public class emojiPrinter {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("How many emoji's would you like?");
+        int numberOfemojis = scanner.nextInt();
+        String pattern = getPattern(numberOfemojis);
+        System.out.println(pattern);
+    }
+
+    public static String getPattern(int numberOfemojis) {
+        String pattern = "";
+        for (int i = 0; i < numberOfemojis; i++) {
+            pattern += "🎉";
+        }
+
+        return pattern;
+    }
+}
+```
+
+-->
+
+Here is the output from running the program
+
+
+
+![Number of Emojis print](../../../number-of-emoji-parson.png)
+
+
+
+## Peer instruction
+
+Methods, loops, not array or conditional
+
+
+
+## Exercise 3
+
+What will the following code output? 
+
+```java
+int i;
+for(i=6; i<=10;i++);  
+System.out.println(“i is ” + i);
+```
+
+1. `i is 6`
+2. `i is 9`
+3. `i is 10`
+4. `i is 11`
+5. `Will not compute`
+
+
+
+### Exercise 4
+
+What will the following code output
+
+```java
+public class NumberOfCharacters {
+    public static void main(String[] args) {
+        int numberOfCharacters = getNumberOfCharacters("speciallægepraksisplanlægningsstabiliseringsperiode");
+        System.out.println(numberOfCharacters);
+    }
+
+    public static int getNumberOfCharacters(String word) {
+        System.out.println(word.length());
+    }
+}
+```
+
+- `50`
+- `51`
+- `null`
+- Does not compute
+
+
+
+### Exercise 5
+
+```java
+public class FirstCharacter {
+    public static void main(String[] args) {
+        String firstCharacter = getFirstCharacter("speciallægepraksisplanlægningsstabiliseringsperiode");
+        System.out.println(firstCharacter);
+    }
+
+    public static char getFirstCharacter(String word) {
+        return word.charAt(0);
+    }
+}
+```
+
+- `s`
+- `S`
+- `0`
+- Does not compute
+

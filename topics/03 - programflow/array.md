@@ -184,6 +184,18 @@ Solve the 2 first exercises in Array-1 from CodingBat: https://codingbat.com/jav
 
 
 
+### Exercise 1.2
+
+```java
+String[] names = new Array(){"Peter", "Sarita", "Jens", "Julie", "Jens"};
+```
+
+Remove names that is `Jens` 
+
+Use a normal for loop to remove all Person with first name Jens from the above list.
+
+
+
 ### Exercise 2
 
 Write a method that takes two parameters:
