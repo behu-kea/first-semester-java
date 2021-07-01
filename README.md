@@ -41,7 +41,7 @@ Project based learning is learning through doing projects. These projects will s
 
 Fancy images from threejs
 
-
+![Introduction](assets/introduction.png)
 
 ## Studieordningen
 
@@ -56,10 +56,6 @@ All information relevant for you education you can find in the studieordning. Th
 To attend the exam you must complete three bundne forudsætninger. That is 3 parts you have to complete to attend the exam. They have to be handed in before the the exam date. 
 
 In this course the bundne forudsætninger will be: **??????**
-
-
-
-
 
 
 
