@@ -41,7 +41,7 @@ Project based learning is learning through doing projects. These projects will s
 
 Fancy images from threejs
 
-![Introduction](assets/introduction.png)
+![CleanShot 2021-07-01 at 10.29.47@2x](assets/introduction.png)
 
 ## Studieordningen
 
