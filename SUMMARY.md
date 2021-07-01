@@ -36,4 +36,5 @@
     - [Thursday](lessons/week-03/4-thursday.md)
     - [Friday](lessons/week-03/5-friday.md)
 - [Semesterplan](https://studkea-my.sharepoint.com/:x:/g/personal/behu_kea_dk/EfQnlj_BasZEj49djKUZ3nQBv3xDPaFDB5a-7e7TWkDR7g?e=kyqQND)
+- [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
