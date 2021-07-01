@@ -1,6 +1,8 @@
-# Wednesday
+# No code Wednesday
 
 We will be doing some peer instruction questions today
+
+Parsons problem!
 
 
 

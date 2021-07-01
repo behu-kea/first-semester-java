@@ -130,9 +130,9 @@ Forskellige emner vi kommer til at køre
   - Git week 3
 - Codeflow
   - Array - week 4
-  - Conditionals and boolean - week 5
+  - Conditionals and boolean - week 4
     - Switch
-  - Debug - week 5
+  - Debug - week måske 4
     - Smart at vise i et forloop. Vise at i tæller op ad. 
   - Problem solving - week 5
     - Pseudokode

@@ -1,4 +1,4 @@
 # Thursday
 
-Continue tasks + git
+GIT + continue tasks
 
