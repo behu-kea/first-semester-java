@@ -42,7 +42,7 @@ public static String getGreetingMessage(String fullname) {
 
  -->
 
-![Greeting message output](../../../greeting-message-parson.png)
+![Greeting message output](../../assets/greeting-message-parson.png)
 
 
 
@@ -89,7 +89,7 @@ Here is the output from running the program
 
 
 
-![Number of Emojis print](../../../number-of-emoji-parson.png)
+![Number of Emojis print](../../assets/number-of-emoji-parson.png)
 
 
 
