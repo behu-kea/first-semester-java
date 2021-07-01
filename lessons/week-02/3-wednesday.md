@@ -2,8 +2,6 @@
 
 We will be doing some peer instruction questions today
 
-Parsons problem!
-
 
 
 ## Peer instruction
