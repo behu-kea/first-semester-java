@@ -35,6 +35,20 @@
     - [Wednesday](lessons/week-03/3-wednesday.md)
     - [Thursday](lessons/week-03/4-thursday.md)
     - [Friday](lessons/week-03/5-friday.md)
+  - Week 04
+    - [Monday](lessons/week-04/1-monday.md)
+    - [Tuesday](lessons/week-04/2-tuesday.md)
+    - [Wednesday](lessons/week-04/3-wednesday.md)
+    - [Thursday](lessons/week-04/4-thursday.md)
+    - [Friday](lessons/week-04/5-friday.md)
+  - Week 05
+    - [Monday](lessons/week-05/1-monday.md)
+    - [Tuesday](lessons/week-05/2-tuesday.md)
+    - [Wednesday](lessons/week-05/3-wednesday.md)
+    - [Thursday](lessons/week-05/4-thursday.md)
+    - [Friday](lessons/week-05/5-friday.md)
+  - Week 06
+    - [Project time 🎉](lessons/week-06/project-time.md)
 - [Semesterplan](https://studkea-my.sharepoint.com/:x:/g/personal/behu_kea_dk/EfQnlj_BasZEj49djKUZ3nQBv3xDPaFDB5a-7e7TWkDR7g?e=kyqQND)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
