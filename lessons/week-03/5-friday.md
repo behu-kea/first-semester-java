@@ -39,3 +39,13 @@ Consider using more than one method! fx `drawNose`, `drawHair`
 The project should be handed in on fronter using GitHub. 
 
 We will find a judge that will find the best face, and there will be a small price 🏆
+
+
+
+## Evan
+
+Make 4 slightly different projects. 
+
+Prepare them on those projects on wednesday. With fx commenting evans way. 
+
+The learning starts with reading a project and commenting them. 

@@ -34,6 +34,12 @@ if (salary > 15000.0) {
 salary -= 25000.00;
 ```
 
+1. `50000.0, 20000.0`
+2. `50000.0, 15000.0`
+3. `25000.0, 20000.0`
+4. `25000.0, 15000.0 `
+5. None of the above
+
 
 
 ### Exerise 3
@@ -53,28 +59,27 @@ Which of the following correctly increments all the elements of `array`
 What will the value of `array` be?
 
 ```java
-import java.util.Scanner;
-
-public class Exercise4 {
+public class Test {
     public static void main(String[] args) {
-        int[] array = {2,3,4,5,6};
-        changeArray(array);
-        System.out.println(array);
+
+
+        int iArray[] = {3, 4, 5, 6, 7};
+        myMethod(iArray);
     }
 
-    static void changeArray(int[] array) {
-        for (int i = 1; i < array.length - 1; i++) {
-            array[i] *= 2;
+    static void myMethod(int a[]) {
+        for (int i = 1; i < a.length - 1; i++) {
+            a[i] /= 2;
         }
     }
 }
 ```
 
-1. `2,3,4,5,6`
-2. `2,6,8,10,6`
-3. `2,6,8,10,12`
-4. `4,6,8,10,6`
-5. None of the above
+1. `3, 4, 5, 6, 7`
+2. `1, 2, 2, 3, 3`
+3. `3, 2, 2, 3, 3 `
+4. `1, 2, 2, 3, 7`
+5. `3, 2, 2, 3, 7`
 
 
 
