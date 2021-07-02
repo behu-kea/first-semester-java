@@ -20,11 +20,9 @@ Which of the following correctly declares and initialises an array?
 
 
 
-
-
 ### Exercise 2
 
-Which of the following correctly prints out the fourst element of `array`
+Which of the following correctly prints out the fourth element of `array`
 
 1. ```java
    System.out.println(array + 4);
@@ -55,6 +53,36 @@ Which of the following correctly increments all the elements of `array`
 3. `for (int i = 0; i < array.length; i++) array[i++]++;`
 4. `array[0..array.length]++;`
 5. `array++;`
+
+
+
+### Exercise 4
+
+What will the value of `array` be?
+
+```java
+import java.util.Scanner;
+
+public class Exercise4 {
+    public static void main(String[] args) {
+        int[] array = {2,3,4,5,6};
+        changeArray(array);
+        System.out.println(array);
+    }
+
+    static void changeArray(int[] array) {
+        for (int i = 1; i < array.length - 1; i++) {
+            array[i] *= 2;
+        }
+    }
+}
+```
+
+1. `2,3,4,5,6`
+2. `2,6,8,10,6`
+3. `2,6,8,10,12`
+4. `4,6,8,10,6`
+5. None of the above
 
 
 

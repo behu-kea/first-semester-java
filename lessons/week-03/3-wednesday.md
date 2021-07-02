@@ -151,13 +151,13 @@ public class FirstCharacter {
     }
 
     public static char getFirstCharacter(String word) {
-        return word.charAt(0);
+        return word.charAt(1);
     }
 }
 ```
 
 - `s`
-- `S`
+- `p`
 - `0`
 - Does not compute
 

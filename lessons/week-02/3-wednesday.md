@@ -11,7 +11,7 @@ We will be doing some peer instruction questions today
 3. Response 1
 4. Discuss
 5. Response 2
-6. Explain
+6. Let groups explain/teacher explain
 
 
 
@@ -67,6 +67,8 @@ int answer = 12 + 9 / 4 - 2 + 52 * 2;
 
 ## Non peer instruction questions
 
+
+
 ### Question 4
 
 How can this code be fixed?
@@ -86,7 +88,7 @@ System.out.println("Your name is " + name + "and your age is + age);
 Improve the variable names in this code
 
 ```java
-Scanner scanner = new Scanner(System.in);
+Scanner myObjectMapperDataCloud = new Scanner(System.in);
 System.out.println("Please write your name here:");
 String myString = scanner.nextLine();
 String abd = myString + " - Thank you for logging in 🎉";

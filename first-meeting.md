@@ -262,6 +262,12 @@ Datastrcutures og softwaredevelopment tager Nicklas
 
 - Generelt om Java JVM, Compile time, bytecode, kompilering, etc: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=846012 **SKAL DE HAVE OM DET HER???**
 
+- Exceptions
+
+- Erik spørgsmål
+
+- 
+
 
 
 ## Possible projects

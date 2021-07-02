@@ -24,7 +24,7 @@ public void generateFace(boolean isSmiling, int numberOfEyes, String hairColor) 
 }
 ```
 
-To figure out how to draw different shapes take a look at this article: https://edencoding.com/javafx-canvas/
+To figure out how to draw different shapes take a look at this article: https://edencoding.com/javafx-canvas/ or this youtube video: https://www.youtube.com/watch?v=vaXuK-RsT6E
 
 Consider using more than one method! fx `drawNose`, `drawHair`
 
