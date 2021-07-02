@@ -22,25 +22,17 @@ Which of the following correctly declares and initialises an array?
 
 ### Exercise 2
 
-Which of the following correctly prints out the fourth element of `array`
+What are the values of salaryand taxesafter execution of the following code? 
 
-1. ```java
-   System.out.println(array + 4);
-   ```
-
-2. ```java
-   System.out.println(array[4]);
-   ```
-
-3. ```java
-   System.out.println([4]array);
-   ```
-
-4. ```java
-   System.out.println(array(4));
-   ```
-
-5. None of the above
+```java
+double taxes, salary = 50000.0;
+if (salary > 15000.0) {
+    taxes = salary * 0.40;
+} else {
+    taxes = salary * 0.30;
+}
+salary -= 25000.00;
+```
 
 
 
