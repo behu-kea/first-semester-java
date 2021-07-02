@@ -142,12 +142,26 @@ Forskellige emner vi kommer til at køre
 - Project 1 - week 6
 - OOP - week 7 - 8
   - Klasser
-  - Objekter
+  
+    - Modifiers
+    - Getters/Setters
+    - toString
+    - @Override
+    - Overload
+    - Objekter
+  
   - Nedarvning
+  
+  - Abstrakte klasser
+  
+  - ---
+  
   - Interfaces
+  
   - 4 pillars of Java
-  - Modifiers
-  - Klassediagram
+  
+  - Klassediagram / domænemodel
+  
   - GRASP
 - Datastrukturer/algoritmer - week 9
   - Arraylist, array
@@ -163,6 +177,7 @@ Forskellige emner vi kommer til at køre
   - Binder sammen alt det de studerende har lært
   - Funderet i et stykke software
 - 2 ugers lir
+
 - Andet
   - Input/output
   - File management
