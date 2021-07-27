@@ -89,8 +89,6 @@ You can read more about the exam in the [studieordning](https://kea.dk/images/DA
 
 ## Your teachers
 
-
-
 ### Benjamin Hughes
 
 Digital Media Engineer from DTU. Has worked 8 years with software, primarely as a web developer. Has done interactive graphics at https://www.dr.dk/, been a co-funder at a company called Sunmapper and been an Educational Director for a web coding school called https://www.hackyourfuture.dk/
@@ -99,21 +97,11 @@ Follow him on twitter here: https://twitter.com/DalsHughes or see his always sli
 
 Email: behu@kea.dk
 
-
-
 ### Nicklas Frederiksen
 
+Software Developer / Cand.IT from ITU & BA. Informatics from RUC. Has Worked 5 years with software as a developer and analyst. Built data-analysis engines & SCRUM-mastered one of the Teams behind Nordea's trading platform Nordea Investor: https://shorturl.at/iBUX9.
 
+I don't have a twitter, so go follow: https://twitter.com/DalsHughes
 
-
-
-
-
-Bundne forudsætninger
-
-
-
-Er der noget de studernde gerne vil vide
-
-
+Email: nifr@kea.dk
 
