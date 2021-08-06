@@ -69,17 +69,20 @@ All information relevant for you education you can find in the studieordning. Th
 
 
 
-### Bundne forudsætninger
+### Mandatory assignments
 
-To attend the exam you must complete three bundne forudsætninger. That is 3 parts you have to complete to attend the exam. They have to be handed in before the the exam date. 
+To attend the exam you must complete 
 
-In this course the bundne forudsætninger will be: **??????**
+- 5/8 weekly assignments
+- 2 cross-disciplinary projects
+
+You can solve the mandatory assignments as a group, but have to hand in the assignments individually on Fronter. **LINK TIL AFLEVERINGSTING**
 
 
 
 ## Exam
 
-The exam will take place in December todo: exact exam date
+The exam will take place in December date **TBD**
 
 The exam will be a 20 minutes spoken exam. You will come into the classroom, pick a small problem and then solve that problem in Java. The examinators will ask questions regarding the implementation.
 

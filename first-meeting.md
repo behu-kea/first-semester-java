@@ -113,6 +113,7 @@ Forskellige emner vi kommer til at køre
   - Problem solving
     - Pseudokode
   - Jons visual tool skal vi have ind her
+  
 - Basics
   - Variables, expressions and operators - week 2
     - navne
@@ -128,6 +129,7 @@ Forskellige emner vi kommer til at køre
     - While, do while - unddersøger de studerende selv
   - Metoder - week 3
   - Git week 3
+  
 - Codeflow
   - Array - week 4
   - Conditionals and boolean - week 4
@@ -139,8 +141,9 @@ Forskellige emner vi kommer til at køre
     - Divide and conquer
   - Sekvensdiagrammer - week 5
     - System
-- Project 1 - week 6
-- OOP - week 7 - 8
+  - Studiestartsprøve
+  
+- OOP - week 6 -7
   - Klasser
   
     - Modifiers
@@ -149,26 +152,27 @@ Forskellige emner vi kommer til at køre
     - @Override
     - Overload
     - Objekter
-  
   - Nedarvning
-  
   - Abstrakte klasser
-  
-  - ---
-  
   - Interfaces
-  
   - 4 pillars of Java
-  
   - Klassediagram / domænemodel
-  
   - GRASP
-- Datastrukturer/algoritmer - week 9
+  
+- Project 1 - week 8
+
+- ------
+
+  
+
+- Datastrukturer/algoritmer - week 9 - 10
+  - Files and exceptions
   - Arraylist, array
   - Divide and conquor
   - Breakdown af problemer 
-- Project 2 - week 10-11
-- Software development - week 12 - 13
+  
+- Software development - week 11 - 13
+
   - Test
   - Projektbaseret
   - UML
@@ -176,17 +180,12 @@ Forskellige emner vi kommer til at køre
   - Design
   - Binder sammen alt det de studerende har lært
   - Funderet i et stykke software
-- 2 ugers lir
 
-- Andet
-  - Input/output
-  - File management
-  - Scanner
-  - Try/catch
+- Project 2 - week 14 - 15
+
+- Afslutning/eksamen forberedelse 16
 
  
-
-![timeline](assets/timeline.jpeg)
 
 
 
@@ -257,10 +256,6 @@ Datastrcutures og softwaredevelopment tager Nicklas
 
 - Midtvejsevalueringer
 
-- Hvad med Git? -  den tager jeg med en af de første dage
-
-- For each in arrayList
-
 - Noget godt fra Patrick Agergaard: Lade dygtigere studerende indgå som ressourcer over for studerende, som kæmper mere for at lære det.
 
   Tilbyde mange forskellige måder at lære på, når faget tillader det: Video, buddy, tutor, bibliotek osv. Måske løbende følge op på hvad der rører sig ift. disse, så det vedbliver med at være interessant.
@@ -268,8 +263,6 @@ Datastrcutures og softwaredevelopment tager Nicklas
   Opgaver, som kan løses dels på flere niveauer (højt, mellem og tilfredsstillende) og dels i flere retninger, så de studerende kan præge løsningen. Dette er også værdifuld feedback til underviserne, fordi der kan hentes gode ideer til fremtidig undervisning + opgaver.
 
 - KEA alumni - for at finde en kvindelig eller iværksætter
-
-- Enum
 
 - Run time vs compile time
 
@@ -279,9 +272,6 @@ Datastrcutures og softwaredevelopment tager Nicklas
 
 - Exceptions
 
-- Erik spørgsmål
-
-- 
 
 
 
@@ -298,3 +288,12 @@ Datastrcutures og softwaredevelopment tager Nicklas
 - Creative cryptography- Invent a new way of encrypting and decrypting a message. 
 - Synthetic instrument maybe using JavaFeel
 
+
+
+
+
+## Third meeting
+
+- Tilføj optional svær del til de dygtige til det afsluttende projekt i ugen
+- Feedback fridays
+- Mandag + tirsdag er introduktion til emner. Onsdag, torsdag og fredag er arbejde på projekter. 
