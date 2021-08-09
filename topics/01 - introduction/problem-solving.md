@@ -58,8 +58,6 @@ An example could be to figure out how many ping pong balls can fit in a car. Let
 
 
 
-
-
 Harvard questions:
 
 ![Harvard entry question](../../assets/harvard-entry-question.png)
