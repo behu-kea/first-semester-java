@@ -22,28 +22,50 @@ To write a "Hello World" in processing, we are going to enter the following in t
 println("Hello World");
 ```
 
-![helloworldtext](3-wednesday.assets/helloworldtext.png)
+![Hello World in processing](3-wednesday.assets/helloworldtext.png)
 
 ##### To confirm that everything is working - look at the output in the **console** - it should look like this:
 
-![consoleHello](3-wednesday.assets/consoleHello.png)
+![Hello World output](3-wednesday.assets/consoleHello.png)
 
-### Exercises - hand in
+## Exercises
 
-- Draw an X using lines like this: <img class="img-small" src="/assets/cross.png">
+- Draw a line that is 100 pixels long
+
+- Draw an X using lines like this: 
+
+![image-20210810145756841](3-wednesday.assets/image-20210810145756841.png)
 
 - Change the background to white
 
-- Answer: Why does this program not work as intended:
 
-- ```java
-  size(100,100);
-  line(0,0,500,500);
-  background(255);
-  line(0,100,100,0);
+
+Answer the question: 
+
+- Why does this program not work as intended:
+
+```java
+size(100,100);
+line(0,0,500,500);
+background(255);
+line(0,100,100,0);
+```
+
+- Explain: what happens in the code and how can it be fixed?
+
+  
+
+Insert the following code in the editor:
+
+- ```
+  circle(56, 46, 55);
   ```
 
-- Explain what happens in the code and how to fix it
+- What happens if you double the amount in the: first, second & third parameter?
+
+- Draw a 3 dimensional cube like this:
+
+![image-20210810152516604](3-wednesday.assets/image-20210810152516604.png)
 
 - Draw a figure - you can use any shape, line and color
 
@@ -51,11 +73,109 @@ println("Hello World");
 
   ![image-20210810142406541](3-wednesday.assets/image-20210810142406541.png)
 
+  ![image-20210810144100705](3-wednesday.assets/image-20210810144100705.png)
+
   ![star](3-wednesday.assets/diamond.png)
 
-### Project
+### First Project
 
 We are going to build a very simple version of the classic program MS. Paint
 
+Insert the following code
+
+```
+void setup() {
+  size(640, 360);
+  background(102);
+}
+
+void draw() {
+  stroke(255);
+  if (mousePressed == true) {
+    line(mouseX, mouseY, pmouseX, pmouseY);
+  }
+}
+```
+
+Translate the code into english / danish
+
+- Change the background to white
+
+- Change the stroke to black
+
+- Write your signature
+
+- Screenshot your signature and hand-in here:
+
+  https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=4788&LocationType=1
+
+
+
 ## FAQ - Common methods
 
+##### Background:
+
+https://processing.org/reference/background_.html
+
+```
+background(51);
+```
+
+##### Line: 
+
+https://processing.org/reference/line_.html
+
+```java
+line(x-coordinate-start,y-coordinate-start, x-coordinate-start,y-coordinate-end)
+```
+
+Shapes: https://processing.org/examples/shapeprimitives.html
+
+##### Triangle
+
+https://processing.org/reference/triangle_.html
+
+```
+triangle(18, 18, 18, 360, 81, 360);
+```
+
+##### Rectangle
+
+https://processing.org/reference/triangle_.html
+
+```
+rect(81, 81, 63, 63);
+```
+
+##### Quadrilateral
+
+https://processing.org/reference/quad_.html
+
+```
+quad(189, 18, 216, 18, 216, 360, 144, 360);
+```
+
+##### Ellipse
+
+https://processing.org/reference/ellipse_.html
+
+```
+ellipse(252, 144, 72, 72);
+```
+
+##### Arc
+
+https://processing.org/reference/arc_.html
+
+```
+arc(479, 300, 280, 280, PI, TWO_PI);
+```
+
+##### Stroke
+
+https://processing.org/reference/stroke_.html
+
+```
+stroke(204, 102, 0);
+rect(30, 20, 55, 55);
+```
