@@ -1,6 +1,6 @@
 # Wednesday 8/9-2021
 
-<link rel="stylesheet" type="text/css" href="/assets/images.css"/> 
+<link rel="stylesheet" type="text/css" href="../../assets/images.css"/> 
 
 ## Processing
 
