@@ -30,7 +30,7 @@
   - ~~Benjamin laver det første~~
   - ~~Nicklas laver det andet projekt~~
 - ~~Bundne forudsætninger~~
-- ~~Eksamensdato~~ Skrive til Mie eller Helle og hør - Benjamin
+- ~~Eksamensdato Skrive til Mie eller Helle og hør - Benjamin~~
 - ~~Studiestarts prøve~~
 - ~~Midtvejsevalueringer~~
 - ~~Send tværfaglige projekter til David~~
