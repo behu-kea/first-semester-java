@@ -97,7 +97,7 @@ void draw() {
 }
 ```
 
-Translate the code into english / danish
+- Make your best effort to translate the code into a description in english / danish
 
 - Change the background to white
 
