@@ -10,9 +10,7 @@ Processing is completely free and built for electronic arts, new media art and v
 
 To download processing: https://processing.org/download/
 
-![image-20210810113405308](/Users/dean/Library/Application Support/typora-user-images/image-20210810113405308.png)
-
-
+![processing](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/processing.png)
 
 ## What are we trying to do?
 
@@ -26,17 +24,15 @@ To write a "Hello World" in processing, we are going to enter the following in t
 println("Hello World");
 ```
 
-![image-20210810124012627](/Users/dean/Library/Application Support/typora-user-images/image-20210810124012627.png)
+![helloworldtext](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/helloworldtext.png)
 
 ##### To confirm that everything is working - look at the output in the **console** - it should look like this:
 
-![image-20210810123858907](/Users/dean/Library/Application Support/typora-user-images/image-20210810123858907.png)
-
-
+![consoleHello](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/consoleHello.png)
 
 ### Exercises - hand in
 
-- Draw an X using lines like this: ![image-20210810131620388](/Users/dean/Library/Application Support/typora-user-images/image-20210810131620388.png)
+- Draw an X using lines like this: <img class="img-small" src="/Users/dean/Documents/dat21a/plan/first-semester-java/assets/cross.png">
 
 - Change the background to white
 
@@ -55,13 +51,11 @@ println("Hello World");
 
   - Examples: 
 
-    ![image-20210810134304795](/Users/dean/Library/Application Support/typora-user-images/image-20210810134304795.png)
-
-    <img src="/Users/dean/Library/Application Support/typora-user-images/image-20210810133959709.png" class="img-small">
-
-    ![image-20210810134429933](/Users/dean/Library/Application Support/typora-user-images/image-20210810134429933.png)
-
+    ![diamond](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/diamond.png)
+    
+    ![star](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/star.png)
   
+  ![dap](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/dap.png)
 
 ### Project
 
