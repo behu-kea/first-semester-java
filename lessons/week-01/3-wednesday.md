@@ -10,7 +10,7 @@ Processing is completely free and built for electronic arts, new media art and v
 
 To download processing: https://processing.org/download/
 
-![processing](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/processing.png)
+<img class="img-small" src="../../assets/processing.png">
 
 ## What are we trying to do?
 
@@ -32,7 +32,7 @@ println("Hello World");
 
 ### Exercises - hand in
 
-- Draw an X using lines like this: <img class="img-small" src="/Users/dean/Documents/dat21a/plan/first-semester-java/assets/cross.png">
+- Draw an X using lines like this: <img class="img-small" src="/assets/cross.png">
 
 - Change the background to white
 
