@@ -149,7 +149,7 @@ Do these steps one step at a time! Think about what type of data should be store
 2. Create another variable called `height`
 3. Assign `age` to be your age
 4. assign `height` to be your height in meter
-5. Create the variable `showSize` and assign it to be your showsize
+5. Create the variable `shoeSize` and assign it to be your shoesize
 6. Create a variable called `name` and assign this to your name
 
 *Remember to compile at each step!*

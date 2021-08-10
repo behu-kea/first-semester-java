@@ -14,8 +14,9 @@
     - Codelab
     - Kaffemaskine
   - Codelab - Snak med Patrick - Benjamin
-    - Er det fysisk?
+    - Er det fysisk? Ja, lokale er ikke fundet endnu
     - Hvis ikke, hvornår kommer du forbi?
+    - Vi aftaler at Codelab kommer forbi efter introduktionsugen
   - Studieliv - booker vi selv
   - Processing
   - Foto -  Jarl booker
@@ -35,6 +36,7 @@
 - ~~Midtvejsevalueringer~~
 - ~~Send tværfaglige projekter til David~~
 - Readme filen på gitbook
+- Foto check tid i skemaet 
 - ~~**Tutor i klassen skal vi have koordineret!** Husk koordinering med klasserne at de er asynkrone~~
 - ~~Springboot struktur godt projekt til systemudvikling~~
 

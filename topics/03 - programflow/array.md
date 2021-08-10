@@ -98,7 +98,7 @@ System.out.println(numbers[4]); // 77
 
 To get the number of elements in an array write the following:
 
-```
+```java
 System.out.println(names.length); // 4
 ```
 
