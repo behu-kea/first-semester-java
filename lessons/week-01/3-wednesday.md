@@ -34,7 +34,7 @@ println("Hello World");
 
 - Draw an X using lines like this: 
 
-![image-20210810145756841](3-wednesday.assets/image-20210810145756841.png)
+![](3-wednesday.assets/image-20210810145756841.png)
 
 - Change the background to white
 
@@ -65,7 +65,7 @@ Insert the following code in the editor:
 
 - Draw a 3 dimensional cube like this:
 
-![image-20210810152516604](3-wednesday.assets/image-20210810152516604.png)
+![](3-wednesday.assets/image-20210810152516604.png)
 
 - Draw a figure - you can use any shape, line and color
 
@@ -83,7 +83,7 @@ We are going to build a very simple version of the classic program MS. Paint
 
 Insert the following code
 
-```
+```java
 void setup() {
   size(640, 360);
   background(102);
@@ -117,7 +117,7 @@ Translate the code into english / danish
 
 https://processing.org/reference/background_.html
 
-```
+```java
 background(51);
 ```
 
@@ -135,7 +135,7 @@ Shapes: https://processing.org/examples/shapeprimitives.html
 
 https://processing.org/reference/triangle_.html
 
-```
+```java
 triangle(18, 18, 18, 360, 81, 360);
 ```
 
@@ -143,7 +143,7 @@ triangle(18, 18, 18, 360, 81, 360);
 
 https://processing.org/reference/triangle_.html
 
-```
+```java
 rect(81, 81, 63, 63);
 ```
 
@@ -151,7 +151,7 @@ rect(81, 81, 63, 63);
 
 https://processing.org/reference/quad_.html
 
-```
+```java
 quad(189, 18, 216, 18, 216, 360, 144, 360);
 ```
 
@@ -159,7 +159,7 @@ quad(189, 18, 216, 18, 216, 360, 144, 360);
 
 https://processing.org/reference/ellipse_.html
 
-```
+```java
 ellipse(252, 144, 72, 72);
 ```
 
@@ -167,7 +167,7 @@ ellipse(252, 144, 72, 72);
 
 https://processing.org/reference/arc_.html
 
-```
+```java
 arc(479, 300, 280, 280, PI, TWO_PI);
 ```
 
@@ -175,7 +175,8 @@ arc(479, 300, 280, 280, PI, TWO_PI);
 
 https://processing.org/reference/stroke_.html
 
-```
+```java
 stroke(204, 102, 0);
 rect(30, 20, 55, 55);
 ```
+
