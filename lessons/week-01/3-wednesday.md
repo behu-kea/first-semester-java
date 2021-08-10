@@ -22,11 +22,11 @@ To write a "Hello World" in processing, we are going to enter the following in t
 println("Hello World");
 ```
 
-![helloworldtext](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/helloworldtext.png)
+![helloworldtext](3-wednesday.assets/helloworldtext.png)
 
 ##### To confirm that everything is working - look at the output in the **console** - it should look like this:
 
-![consoleHello](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/consoleHello.png)
+![consoleHello](3-wednesday.assets/consoleHello.png)
 
 ### Exercises - hand in
 
@@ -50,6 +50,8 @@ println("Hello World");
   Examples:
 
   ![image-20210810142406541](3-wednesday.assets/image-20210810142406541.png)
+
+  ![star](3-wednesday.assets/diamond.png)
 
 ### Project
 
