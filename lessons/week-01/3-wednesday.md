@@ -47,10 +47,9 @@ println("Hello World");
 
 - Draw a figure - you can use any shape, line and color
 
-  - Examples: ![image-20210810142049749](3-wednesday.assets/image-20210810142049749.png)
-  - ![image-20210810142058791](3-wednesday.assets/image-20210810142058791.png)
-  
-  ![dap](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/dap.png)
+  Examples:
+
+  ![image-20210810142406541](3-wednesday.assets/image-20210810142406541.png)
 
 ### Project
 
