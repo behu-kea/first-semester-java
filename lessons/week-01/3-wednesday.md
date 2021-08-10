@@ -1,7 +1,5 @@
 # Wednesday 8/9-2021
 
-<link rel="stylesheet" type="text/css" href="../../assets/images.css"/> 
-
 ## Processing
 
 Throughout the semester we will be working with the programming language **Java**. Processing is another programming language - typically seen as a **dialect of java** or **java simplified**. 
@@ -10,7 +8,7 @@ Processing is completely free and built for electronic arts, new media art and v
 
 To download processing: https://processing.org/download/
 
-<img class="img-small" src="../../assets/processing.png">
+<img class="img-small" src="../../assets/processing.png"/>
 
 ## What are we trying to do?
 
@@ -49,11 +47,8 @@ println("Hello World");
 
 - Draw a figure - you can use any shape, line and color
 
-  - Examples: 
-
-    ![diamond](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/diamond.png)
-    
-    ![star](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/star.png)
+  - Examples: ![image-20210810142049749](3-wednesday.assets/image-20210810142049749.png)
+  - ![image-20210810142058791](3-wednesday.assets/image-20210810142058791.png)
   
   ![dap](/Users/dean/Documents/dat21a/plan/first-semester-java/assets/dap.png)
 
