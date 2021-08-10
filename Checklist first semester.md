@@ -1,20 +1,40 @@
 # Checklist first semester
 
-- Semesterplan
+- Seme~~sterplan~~
 - ~~Presurvey~~
 - Detaljeret planlægni~~ng af introdagene~~
+  - Rundvisning - Kører vi selv
+    - Kantine
+    - Bibliotek
+    - Cykelkælder
+    - Bar??
+    - Makerlabs
+    - Helpdesk it servicedesk
+    - Techlounge - Herman Bailey
+    - Codelab
+    - Kaffemaskine
+  - Codelab - Snak med Patrick - Benjamin
+    - Er det fysisk?
+    - Hvis ikke, hvornår kommer du forbi?
+  - Studieliv - booker vi selv
+  - Processing
+  - Foto -  Jarl booker
+  - Lars Bogetoft - Booker vi selv
+  - Berit studievejleder - Jarl booker
+  - Bibliotek - Jarl booker
 - ~~Aftal med DAT20C julius og mette. Mandag~~
 - ~~Gå igennem problemsolving dag~~
 - ~~Hvad er programmering og krea øvelser flyttes til tirsdag.~~ 
 - ~~Youtube oprettelse~~
-- Projekter der skal planlægges
+- ~~Projekter der skal planlægges - husk at koordinere med David!~~
+  - ~~Benjamin laver det første~~
+  - ~~Nicklas laver det andet projekt~~
 - ~~Bundne forudsætninger~~
-- Eksam~~ensdato~~
-- Studies~~tarts prøve~~
+- ~~Eksamensdato~~ Skrive til Mie eller Helle og hør - Benjamin
+- ~~Studiestarts prøve~~
 - ~~Midtvejsevalueringer~~
 - ~~Send tværfaglige projekter til David~~
 - Readme filen på gitbook
-- Tjekke checklisten her: https://studkea.sharepoint.com/:w:/r/sites/Datamatikerundervisere/_layouts/15/Doc.aspx?sourcedoc=%7BE6722D7B-C701-467D-A4DF-9383A9A8318D%7D&file=L%C3%A6ringsm%C3%A5l%203.%20semester.docx&action=default&mobileredirect=true
-- **Tutor i klassen skal vihave koordineret!** Husk koordinering med klasserne at de er asynkrone
-- Springboot struktur godt projekt til systemudvikling
+- ~~**Tutor i klassen skal vi have koordineret!** Husk koordinering med klasserne at de er asynkrone~~
+- ~~Springboot struktur godt projekt til systemudvikling~~
 

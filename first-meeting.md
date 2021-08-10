@@ -144,7 +144,7 @@ Forskellige emner vi kommer til at køre
   - Studiestartsprøve
   
 - OOP - week 6 -7
-  - Klasser
+  - Klasser week 6
   
     - Modifiers
     - Getters/Setters
@@ -152,25 +152,25 @@ Forskellige emner vi kommer til at køre
     - @Override
     - Overload
     - Objekter
-  - Nedarvning
-  - Abstrakte klasser
-  - Interfaces
-  - 4 pillars of Java
-  - Klassediagram / domænemodel
-  - GRASP
+  - Nedarvning week 6
+  - Abstrakte klasser week 7
+  - Interfaces week 7
+  - 4 pillars of Java week 7
+  - Klassediagram / domænemodel week 7
   
-- Project 1 - week 8
+- Project 1 - week 8 Benjamin
 
 - ------
 
   
 
 - Datastrukturer/algoritmer - week 9 - 10
+
   - Files and exceptions
   - Arraylist, array
   - Divide and conquor
   - Breakdown af problemer 
-  
+
 - Software development - week 11 - 13
 
   - Test
@@ -180,6 +180,7 @@ Forskellige emner vi kommer til at køre
   - Design
   - Binder sammen alt det de studerende har lært
   - Funderet i et stykke software
+  - GRASP
 
 - Project 2 - week 14 - 15
 
