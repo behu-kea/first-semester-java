@@ -28,7 +28,7 @@ Use your KEA e-mail to register here: https://www.jetbrains.com/community/educat
 
 
 
-## The compiling process
+## The compilation process
 
 ![The compiling process](5-friday.assets/image-20210811094602268.png)
 
