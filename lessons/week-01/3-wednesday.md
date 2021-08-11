@@ -28,7 +28,7 @@ println("Hello World");
 
 ![Hello World output](3-wednesday.assets/consoleHello.png)
 
-## Exercises
+## Study group exercises
 
 - Draw a line that is 100 pixels long
 
