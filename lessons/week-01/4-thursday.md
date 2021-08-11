@@ -38,7 +38,7 @@ It is encouraged to think outside of the box !
 - Best guessers
 - Best sketchers
 
-#### 📣**The winners will be announced tomorrow Friday** and will receive a beautiful prize each 🥇
+#### 📣**The winners will be announced tomorrow Friday** and will receive a beautiful prize 🥇
 
 
 
