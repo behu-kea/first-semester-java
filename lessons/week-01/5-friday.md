@@ -28,8 +28,36 @@ Use your KEA e-mail to register here: https://www.jetbrains.com/community/educat
 
 
 
-## Compiling
+## The compiling process
 
-## Byte code
+![The compiling process](5-friday.assets/image-20210811094602268.png)
 
-## Intellij
+## FAQ
+
+To compile a program: 
+
+```
+javac HelloWorld.java
+```
+
+To run a program:
+
+```
+java HelloWorld
+```
+
+Output should be:
+
+```
+Hello World
+```
+
+If the program looks like this:
+
+```java
+public class HelloWorld{
+	public static void main(String[] args){
+		System.out.println("Hello World");
+	}
+}
+```
