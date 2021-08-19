@@ -29,7 +29,7 @@ The contest consists of two rounds: Sketching and guessing
 
 It is **not** allowed to use text directly such as writing "Harry potter" to the console
 
-It is allowed to draw letters using shapes & lines (but discouraged) 
+It is **not** allowed to draw letters using shapes & lines 
 
 It is encouraged to think outside of the box ! 
 
@@ -45,9 +45,12 @@ It is encouraged to think outside of the box !
 ## Categories
 
 - Twitter
-- Elephant
+- Tattoo
 - Copenhagen
 - TikTok
 - Pumpkin
 - Love
 - Cool
+- The internet
+- Taylor Swift
+- Nature

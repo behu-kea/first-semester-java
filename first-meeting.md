@@ -160,18 +160,17 @@ Forskellige emner vi kommer til at køre
   
 - Project 1 - week 8 Benjamin
 
-- ------
-
-  
+  ------
 
 - Datastrukturer/algoritmer - week 9 - 10
 
   - Files and exceptions
-  - Arraylist, array
+    - Analyser af filer
+  - Arraylist & array
   - Divide and conquor
   - Breakdown af problemer 
 
-- Software development - week 11 - 13
+- Software development - week 11 - 12
 
   - Test
   - Projektbaseret
@@ -182,9 +181,9 @@ Forskellige emner vi kommer til at køre
   - Funderet i et stykke software
   - GRASP
 
-- Project 2 - week 14 - 15
+- Project 2 - week 13- 14
 
-- Afslutning/eksamen forberedelse 16
+- Afslutning/eksamen forberedelse 15-16
 
  
 
