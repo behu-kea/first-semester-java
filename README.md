@@ -6,6 +6,16 @@ In this course you will learn Java through 16 weeks. The course is divided into 
 
 
 
+## Course overview
+
+
+
+![Course overview](assets/course-overview.png)
+
+
+
+
+
 ## How this course will be run
 
 In a normal week you will have lectures each day from monday to friday. In project weeks the teachers will schedule time for guidance for the different groups. 
@@ -35,32 +45,6 @@ Project based learning is learning through doing projects. These projects will s
 
 
 
-
-
-## Course overview
-
-Fancy images from threejs
-
-
-
-
-
-![Introduction](assets/introduction.png)
-
-![Basics](assets/basics.png)
-
-
-
-![Program flow](assets/program-flow.png)
-
-
-
-![Project 1](assets/project-1.png)
-
-
-
-
-
 ## Studieordningen
 
 All information relevant for you education you can find in the studieordning. Those are topics like electives, exam, learning goals for the different courses, internship, etc
@@ -82,7 +66,7 @@ You can solve the mandatory assignments as a group, but have to hand in the assi
 
 ## Exam
 
-The exam will take place in December date **TBD**
+The exam will take place in December date is still to be decided
 
 The exam will be a 20 minutes spoken exam. You will come into the classroom, pick a small problem and then solve that problem in Java. The examinators will ask questions regarding the implementation.
 
