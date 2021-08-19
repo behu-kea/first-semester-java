@@ -39,25 +39,9 @@ Project based learning is learning through doing projects. These projects will s
 
 ## Course overview
 
-Fancy images from threejs
 
 
-
-
-
-![Introduction](assets/introduction.png)
-
-![Basics](assets/basics.png)
-
-
-
-![Program flow](assets/program-flow.png)
-
-
-
-![Project 1](assets/project-1.png)
-
-
+![Course overview](assets/course-overview.png)
 
 
 
