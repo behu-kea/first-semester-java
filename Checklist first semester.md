@@ -36,7 +36,7 @@
 - ~~Midtvejsevalueringer~~
 - ~~Send tværfaglige projekter til David~~
 - Readme filen på gitbook
-- Foto check tid i skemaet 
+- ~~Foto check tid i skemaet~~ 
 - ~~**Tutor i klassen skal vi have koordineret!** Husk koordinering med klasserne at de er asynkrone~~
 - ~~Springboot struktur godt projekt til systemudvikling~~
 
