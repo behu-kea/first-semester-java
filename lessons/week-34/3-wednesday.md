@@ -28,7 +28,9 @@ println("Hello World");
 
 ![Hello World output](3-wednesday.assets/consoleHello.png)
 
-## Study group exercises
+
+
+## Pair programming
 
 - Draw a line that is 100 pixels long
 

@@ -68,9 +68,5 @@ public class HelloWorld {
 
 
 
-
-
-
-
 - [Problem solving](../../topics/01 - introduction/problem-solving.md)
 
