@@ -14,26 +14,6 @@
 
 ## Introduction
 
-
-
-### Undervisere
-
-#### Benjamin Hughes
-
-Digital Media Engineer from DTU. Has worked 8 years with software, primarely as a web developer. Has done interactive graphics at https://www.dr.dk/, been a co-funder at a company called Sunmapper and been an Educational Director for a web coding school called https://www.hackyourfuture.dk/
-
-Follow him on twitter here: https://twitter.com/DalsHughes or see his always slightly outdated portfolio here: https://benna100.github.io/portfolio/
-
-Email: behu@kea.dk
-
-
-
-#### Nicklas Frederiksen
-
-
-
-
-
 ### Datamatikeruddannelsen
 
 Hvad vil det sige at være datamatiker? It fagets håndværker. Datamatikeren kender til mange forskellige aspekter af software udvikling, men er praktisk funderet!
@@ -79,7 +59,7 @@ Mundtlig eksamen i 20 min inkl. votering, udfra spørgsmål i læringsmålene. T
 - 2 i systemudvikling
 - 1 i virksomhed
 
-**De opgaver skal afleveres for at kunne gå til eksamen!!!**
+**De opgaver skal afleveres for at kunne gå til eksamen**
 
 Der er desuden en studiestartsprøve ca 5 uger efter start
 
@@ -108,25 +88,8 @@ Der er desuden en studiestartsprøve ca 5 uger efter start
 - KEAplan 
 
   - http://keaplan.kea.dk
-
-
-
-#### Uge skema
-
-Uge skema. HUSK AT OPDATERE!!!
-
-![CleanShot 2021-06-25 at 11.50.29@2x](../../../../screenshots/CleanShot 2021-06-25 at 11.50.29@2x.png)
-
-
-
-## Hvordan kommer vores programmering til at forløbe
-
-- Flipped classroom
-- Project based
-- Fokus på opgaver og projekter
-- Programmering skal være kreativt, socialt og sjovt
-
-
+  
+    
 
 ### Semesterplan
 
@@ -152,14 +115,6 @@ Modulerne er
 Der er lektiecafe i det der hedder Codelab. Her kan i få hjælp af nogle studerende der er længere i forløbet end jer. 
 
 https://kea.dk/om-kea/nyheder/kodev%C3%A6rksted-hitter-hos-datamatikere
-
-**DER MANGLER LIGE LIDT HER**
-
-
-
-
-
-
 
 ## Opgaver
 
