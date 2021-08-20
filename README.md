@@ -86,7 +86,7 @@ Email: behu@kea.dk
 
 ### Nicklas Frederiksen
 
-Software Developer / Cand.IT from ITU & BA. Informatics from RUC. Has Worked 5 years with software as a developer and analyst. Built data-analysis engines & SCRUM-mastered one of the Teams behind Nordea's trading platform Nordea Investor: https://shorturl.at/iBUX9.
+Software Developer / Cand.IT from ITU & BA. Informatics from RUC. Experience as a software developer and IT-analyst. Built data-analysis engines & SCRUM-mastered one of the Teams behind Nordea's trading platform Nordea Investor: https://shorturl.at/iBUX9.
 
 I don't have a twitter, so go follow: https://twitter.com/DalsHughes
 
