@@ -1,18 +1,6 @@
 # Monday
 
-- Introduktion
-  - Undervisere
-  - Datamatikeruddannelsen
-  - Det her semester
-  - Computer science
-  - Hvad er et programmeringssprog
-- Besøg af en fra dat20c
-- Lav studiegrupper
-- Opgaver i grupper
-
-
-
-## Introduction
+## Introduktion
 
 ### Datamatikeruddannelsen
 
