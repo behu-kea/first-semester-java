@@ -10,9 +10,11 @@ In this course you will learn Java through 16 weeks. The course is divided into 
 
 
 
-![Course overview](assets/course-overview.png)
+![Course overview first half](assets/course-overview.png)
 
 
+
+![Course overview second half](assets/course-overview-2.png)
 
 
 
