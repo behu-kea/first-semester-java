@@ -48,17 +48,21 @@
     - [Thursday](lessons/week-05/4-thursday.md)
     - [Friday](lessons/week-05/5-friday.md)
   - Week 39
-    - [Project time 🎉](lessons/week-06/project-time.md)
+    - [Monday](lessons/week-06/1-monday.md)
+    - [Tuesday](lessons/week-06/2-tuesday.md)
+    - [Wednesday](lessons/week-06/3-wednesday.md)
+    - [Thursday](lessons/week-06/4-thursday.md)
+    - [Friday](lessons/week-06/5-friday.md)
   - Week 40
     - [Monday](lessons/week-07/1-monday.md)
     - [Tuesday](lessons/week-07/2-tuesday.md)
     - [Wednesday](lessons/week-07/3-wednesday.md)
     - [Thursday](lessons/week-07/4-thursday.md)
     - [Friday](lessons/week-07/5-friday.md)
-  - Week 41-50
-    - [TBA](/tba.md)
+  - Week 41
+    - [Project Time](lessons/week-08/project-time.md)
+  - Week 42-50
+  - [TBA](/tba.md)
 - [Semesterplan](https://studkea.sharepoint.com/:x:/r/sites/Datamatikerundervisere/_layouts/15/Doc.aspx?sourcedoc=%7B3FD37DA5-C601-4F57-99F2-5B7C3F366D95%7D&file=Skema-Dat21v2.xlsx&action=default&mobileredirect=true)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
-
-- [FAQ](/README.md)
 
