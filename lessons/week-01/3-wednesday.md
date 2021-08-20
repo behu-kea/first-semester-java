@@ -101,13 +101,13 @@ void draw() {
 
 - Make your best effort to translate the code into a description in english / danish
 
-- Change the background to white
+- Change the background to another color
 
-- Change the stroke to black
+- Change the stroke to another color
 
-- Write your signature
+- Write your name
 
-- Screenshot your signature and hand-in here:
+- Screenshot your result and hand-in here:
 
   https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=4788&LocationType=1
 
