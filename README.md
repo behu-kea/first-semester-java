@@ -49,7 +49,7 @@ Project based learning is learning through doing projects. These projects will s
 
 All information relevant for you education you can find in the studieordning. Those are topics like electives, exam, learning goals for the different courses, internship, etc
 
-[Studieordning link](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
+[Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
 
 
@@ -60,7 +60,7 @@ To attend the exam you must complete
 - 5/8 weekly assignments
 - 2 cross-disciplinary projects
 
-You can solve the mandatory assignments as a group, but have to hand in the assignments individually on Fronter. **LINK TIL AFLEVERINGSTING**
+You can solve the mandatory assignments as a group, but have to hand in the assignments individually on Fronter.
 
 
 
