@@ -61,7 +61,7 @@
     - [Friday](lessons/week-07/5-friday.md)
   - Week 41
     - [Project Time](lessons/week-08/project-time.md)
-  - Week 41-50
+  - Week 42-50
   - [TBA](/tba.md)
 - [Semesterplan](https://studkea.sharepoint.com/:x:/r/sites/Datamatikerundervisere/_layouts/15/Doc.aspx?sourcedoc=%7B3FD37DA5-C601-4F57-99F2-5B7C3F366D95%7D&file=Skema-Dat21v2.xlsx&action=default&mobileredirect=true)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
