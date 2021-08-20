@@ -17,44 +17,44 @@
   - 05 - Datastructures and algorithms
   - 06 - Software Development
 - Lessons
-  - Week 01
+  - Week 34
     - [Monday](lessons/week-01/1-monday.md)
     - [Tuesday](lessons/week-01/2-tuesday.md)
     - [Wednesday](lessons/week-01/3-wednesday.md)
     - [Thursday](lessons/week-01/4-thursday.md)
     - [Friday](lessons/week-01/5-friday.md)
-  - Week 02
+  - Week 35
     - [Monday](lessons/week-02/1-monday.md)
     - [Tuesday](lessons/week-02/2-tuesday.md)
     - [Wednesday](lessons/week-02/3-wednesday.md)
     - [Thursday](lessons/week-02/4-thursday.md)
     - [Friday](lessons/week-02/5-friday.md)
-  - Week 03
+  - Week 36
     - [Monday](lessons/week-03/1-monday.md)
     - [Tuesday](lessons/week-03/2-tuesday.md)
     - [Wednesday](lessons/week-03/3-wednesday.md)
     - [Thursday](lessons/week-03/4-thursday.md)
     - [Friday](lessons/week-03/5-friday.md)
-  - Week 04
+  - Week 37
     - [Monday](lessons/week-04/1-monday.md)
     - [Tuesday](lessons/week-04/2-tuesday.md)
     - [Wednesday](lessons/week-04/3-wednesday.md)
     - [Thursday](lessons/week-04/4-thursday.md)
     - [Friday](lessons/week-04/5-friday.md)
-  - Week 05
+  - Week 38
     - [Monday](lessons/week-05/1-monday.md)
     - [Tuesday](lessons/week-05/2-tuesday.md)
     - [Wednesday](lessons/week-05/3-wednesday.md)
     - [Thursday](lessons/week-05/4-thursday.md)
     - [Friday](lessons/week-05/5-friday.md)
-  - Week 06
+  - Week 39
     - [Project time 🎉](lessons/week-06/project-time.md)
-  - Week 07
+  - Week 40
     - [Monday](lessons/week-07/1-monday.md)
     - [Tuesday](lessons/week-07/2-tuesday.md)
     - [Wednesday](lessons/week-07/3-wednesday.md)
     - [Thursday](lessons/week-07/4-thursday.md)
     - [Friday](lessons/week-07/5-friday.md)
-- [Semesterplan](https://studkea-my.sharepoint.com/:x:/g/personal/behu_kea_dk/EfQnlj_BasZEj49djKUZ3nQBv3xDPaFDB5a-7e7TWkDR7g?e=kyqQND)
+- [Semesterplan](https://studkea.sharepoint.com/:x:/r/sites/Datamatikerundervisere/_layouts/15/Doc.aspx?sourcedoc=%7B3FD37DA5-C601-4F57-99F2-5B7C3F366D95%7D&file=Skema-Dat21v2.xlsx&action=default&mobileredirect=true)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
