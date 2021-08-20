@@ -16,6 +16,8 @@ In this course you will learn Java through 16 weeks. The course is divided into 
 
 ![Course overview second half](assets/course-overview-2.png)
 
+*Overview design taken from https://threejs-journey.xyz/*
+
 
 
 ## How this course will be run
