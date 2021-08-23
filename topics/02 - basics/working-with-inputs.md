@@ -137,11 +137,9 @@ System.out.println("Your age plus two is: " + agePlusTwo);
 
 
 
-
-
 ### Exercise 3
 
-Write  a  program  that  prompts  the  user  to  provide  an  int  n  and  prints  the difference  between  n  and  21  with  input  from  Scanner.   You  can  assume  the input number is between 0 and 21
+Write a program that prompts the user to provide an integer `n` and prints the multiplication of `n` and 21. You can assume the input number is between 0 and 21
 
 
 
@@ -153,7 +151,7 @@ Write a program that prompts the user to input 5 numbers from keyboard.  Find & 
 
 ### Exercise 5
 
-Write a program that prompts the user to input their name, height & weight.Calculate  &  print  their  BMI  number  and  provide  the  answer  with  a  friendlymessage
+Write a program that prompts the user to input their name, height & weight. Calculate & print their BMI number and provide the  answer with a friendly message
 
 
 

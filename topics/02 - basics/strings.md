@@ -90,11 +90,14 @@ A couple of groups will be selected to show what they learned
 
 ### Execise 2
 
-- Convert string to uppercase
+- Convert a string to uppercase
 - Return the index of a character
 - Concatenate two different string
-- Compare a string to another string ignoring case. 
-- Test if the string ends with a certain character
+- Check these strings are equal to each other. Uppercases should be ignored!
+  - `hello`, `ollhe` should print `false`
+  - `bike`, `banana` should print `false`
+  - `name`, `NaMe` should print `true`
+  - `yes`, `yes` should print `true`
 
 
 
@@ -102,9 +105,11 @@ A couple of groups will be selected to show what they learned
 
 Løs de her opgaver: https://www.w3resource.com/java-exercises/string/index.php
 
+1, 2, 3, 7, 8
 
 
-## Homework
+
+## Execise 4
 
 1. Skriv en klasse der hedder Kage, med en main-metode, gem, compiler og kør (intet sker!). 
 
