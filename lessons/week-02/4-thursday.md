@@ -6,13 +6,7 @@ We are joining the crypto train, choo choo everybody aboard 🚂☁️☁️☁�
 
 Let's make a Java program that works like this👇
 
-Firstly it will ask for the firstname and then lastname
-
-Then it will greet the user with a welcoming (and not too threatening) message!
-
-Now the user can write how many dollars the user wants to convert into crypto
-
-Finally the program will output how many crypto coins the user can get with different currencies. Here is an example of the output 👇
+Firstly it will ask for the firstname and then lastname. Then it will greet the user with a welcoming message! Now the user can write how many dollars the user wants to convert into crypto. Finally the program will output how many crypto coins the user can get with different currencies. Here is an example of the output 👇
 
 ```
 What is your firstname?
