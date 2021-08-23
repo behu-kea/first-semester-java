@@ -24,7 +24,7 @@ Now the user puts in his/her firstname. In this example `Benjamin`
 What is your surname?
 ```
 
-Now the user puts in his/her firstname. In this example `Hughes`
+Now the user puts in his/her surname. In this example `Hughes`
 
 ```
 Welcom dear Benjamin Hughes ❤️
@@ -52,7 +52,11 @@ This line `In total that is 2.556634 coins in total!` should add all the cryptoc
 
 
 
-*Optional taks*: If the user 
+*Optional taks*
+
+You have not learned how to do this yet so dont stress if you do not know how to
+
+If the user 
 
 - Puts in from 0-10 dollars we should print `7 dollars why not more?`
 - Puts in from 10-40 dollars we should print `34 dollars, well done`
