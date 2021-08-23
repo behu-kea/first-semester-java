@@ -222,6 +222,23 @@ int modulus = 10 % 3;
 
 
 
+### Exercise 1.2
+
+Write a Java program to print the sum of two numbers.
+
+
+
+### Exercise 1.3
+
+Write a Java program to print the result of the following operations.
+
+1. -5 + 8 * 6
+2. (55 + 9) % 9 
+3. 20 + -3 * 5 / 8 
+4.  5 + 15 / 3 * 2 - 8 % 3 
+
+
+
 ### Exercise 2
 
 Convert 100 Fahrenehit to the same amount in Celcius
@@ -267,9 +284,12 @@ Compute the area and the perimeter of the rectangle and print the results
 
 ### Exercise 7
 
-Write a variable to represent a circle
+Write a Java program to print the area and perimeter of a circle. 
+Test Data:
+Radius = 7.5
+Expected Output
+Perimeter is = 47.12388980384689
+Area is = 176.71458676442586
 
-- Radius of 16
 
-Compute the area & perimeter of the circle and print the results.
 
