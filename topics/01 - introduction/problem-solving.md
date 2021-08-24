@@ -61,7 +61,7 @@ An example could be to figure out how many ping pong balls can fit in a car. Let
 - Hvor mange klaverstemmere er der i Tyskland?
 
 - What angle does an hour hand describe in 20 minutes?
-- Two circles have radii equal to 2 cm and 3 cm. The distance between their centres is 4 cm. Do they interact?
+- Two circles have radius equal to 2 cm and 3 cm. The distance between their centres is 4 cm. Do they interact?
 - A can of kerosene weighs 8 kg. Half the kerosene is poured out of it, after which the can weighs 4.5 kg. What is the weight of the empty can? 
 - What time is it now if the time which passed since noon constitutes a third of the time that remains until midnight?
 

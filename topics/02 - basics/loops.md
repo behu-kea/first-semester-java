@@ -87,7 +87,7 @@ The following exercises should be done in groups of two or three people
 
 ### Exercise 1
 
-1. Prints out ”Hello World” 3 times
+1. Prints out `Hello World` 3 times
 
 2. Use a for loop to print the numbers from 1 to 10
 
@@ -115,7 +115,7 @@ The presentation should be around 5-10 minutes. Have the presentation as you lik
 
 Write a method that prints out the statement
 
- `I am now printing for the [Num-ber of iteration]th time`
+ `I am now printing for the [Number of iteration]th time`
 
 Run 10 iterations.
 

@@ -1,99 +1,63 @@
 # Wednesday
 
+## Crypto converter!
 
+We are joining the crypto train, choo choo everybody aboard 🚂☁️☁️☁️☁️
 
-We will be doing some peer instruction questions today
+Let's make a Java program that works like this👇
 
+Firstly it will ask for the firstname and then lastname. Then it will greet the user with a welcoming message! Now the user can write how many dollars the user wants to convert into crypto. Finally the program will output how many crypto coins the user can get with different currencies. Here is an example of the output 👇
 
-
-## Peer instruction
-
-1. Question
-2. Think
-3. Response 1
-4. Discuss
-5. Response 2
-6. Let groups explain/teacher explain
-
-
-
-## Peer instruction questions
-
-
-
-### Question 1
-
-What will this code output if i input `34`?
-
-```java
-Scanner scanner = new Scanner(System.in);
-int age = scanner.nextInt();
-double doubleAge = age * 2;
-System.out.println("Your double age is: " + doubleAge);
+```
+What is your firstname?
 ```
 
-1. `Your double age is: 68 `
-2. `Your double age is: 68.0`
-3. `Your double age is: "68"`
-4. Type conversion error
+Now the user puts in his/her firstname. In this example `Benjamin`
 
-
-
-### Question 2
-
-What will this code output if i input `34`?
-
-```java
-Scanner scanner = new Scanner(System.in);
-String age = scanner.nextLine();
-String agePlusTwo = age + 2;
-System.out.println("Your age plus two is: " + agePlusTwo);
+```
+What is your surname?
 ```
 
-1. `36`
-2. `'36'`
-3. `362`
-4. Type conversion error
+Now the user puts in his/her surname. In this example `Hughes`
 
-
-
-### Question 3
-
-What will this line output?
-
-```java
-int answer = 12 + 9 / 4 - 2 + 52 * 2;
+```
+Welcom dear Benjamin Hughes ❤️
+Here is a random character in your fullname: g
+Anyways we hope you're ready to convert some dollars
+How many dollars can you convert today?
 ```
 
+Now the user writes how many dollars he/she has. In this case 34 dollars
 
-
-## Non peer instruction questions
-
-
-
-### Question 4
-
-How can this code be fixed?
-
-```java
-Scanner scanner = new Scanner(System.in);
-int age = scanner.nextInt();
-String name = scanner.nextLine();
-
-System.out.println("Your name is " + name + "and your age is + age);
+```
+Wauv 34 dollars thats a lot 💵
+Here is what you can get with 34 dollars
+- 0.000234 bitcoin
+- 0.1334 dogecoin
+- 2.423 scamcoins
+In total that is 2.556634 coins in total!
 ```
 
+This line: `Here is a random character in your fullname: g` should take a random character in the fullname and show it. This will require some googling since you have not learned this!! Think about what you can Google
+
+This line `In total that is 2.556634 coins in total!` should add all the cryptocoins together (even though that does not really make any sense 😂)
+
+\*\* I have no idea if those are the correct conversions
 
 
-### Question 5
 
-Improve the variable names in this code
+*Optional taks*
 
-```java
-Scanner myObjectMapperDataCloud = new Scanner(System.in);
-System.out.println("Please write your name here:");
-String myString = scanner.nextLine();
-String abd = myString + " - Thank you for logging in 🎉";
-System.out.println(abd);
-```
+You have not learned how to do this yet so dont stress if you do not know how to
 
+If the user 
+
+- Puts in from 0-10 dollars we should print `7 dollars why not more?`
+- Puts in from 10-40 dollars we should print `34 dollars, well done`
+- Puts in from 40-100 dollars we should print `Wauv 97 dollars thats a lot 💵`
+
+
+
+## Handing it in
+
+Hand this assignment in on Fronter
