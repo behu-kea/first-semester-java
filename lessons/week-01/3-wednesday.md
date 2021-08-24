@@ -109,7 +109,7 @@ void draw() {
 
 - Screenshot your result and hand-in here:
 
-  https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=4788&LocationType=1
+  https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=914731
 
 
 
