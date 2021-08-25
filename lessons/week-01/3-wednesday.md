@@ -143,7 +143,7 @@ triangle(18, 18, 18, 360, 81, 360);
 
 ##### Rectangle
 
-https://processing.org/reference/triangle_.html
+https://processing.org/reference/rect_.html
 
 ```java
 rect(81, 81, 63, 63);
