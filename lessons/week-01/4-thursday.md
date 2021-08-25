@@ -27,7 +27,7 @@ The contest consists of two rounds: Sketching and guessing
   - etc.
   - If the categories are Harry Potter & Kanye West
 
-- Deadline: Thursday 26/8 11:45
+- Deadline: Thursday 26/8 11:30
 
 ### Rules
 
