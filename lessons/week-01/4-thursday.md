@@ -11,7 +11,11 @@ The contest consists of two rounds: Sketching and guessing
 - Each study group are assigned a category.
 - The study group will create a sketch of said category in processing
 - The study group will be handing in their code to: **nifr@kea.dk**
-  - Deadline: Thursday 9/9 10:30
+  - Deadline: Thursday 26/8 10:30
+  
+  - WRITE YOUR GROUP NAME + CATEGORY IN THE MAIL
+  
+    
 
 ## Round 2: Guessing
 
@@ -23,7 +27,7 @@ The contest consists of two rounds: Sketching and guessing
   - etc.
   - If the categories are Harry Potter & Kanye West
 
-- Deadline: Thursday 9/9 11:45
+- Deadline: Thursday 26/8 11:45
 
 ### Rules
 
@@ -52,5 +56,5 @@ It is encouraged to think outside of the box !
 - Artificial Intelligence
 - Cool
 - The internet
-- Taylor Swift
 - Computer
+- Fast
