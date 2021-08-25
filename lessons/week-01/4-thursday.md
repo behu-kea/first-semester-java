@@ -11,11 +11,11 @@ The contest consists of two rounds: Sketching and guessing
 - Each study group are assigned a category.
 - The study group will create a sketch of said category in processing
 - The study group will be handing in their code to: **nifr@kea.dk**
-  - Deadline: Thursday 9/9 10:00
+  - Deadline: Thursday 9/9 10:30
 
 ## Round 2: Guessing
 
-- All code is made available to the class under the names of Sketch 1, Sketch 2, etc.
+- All code is made available to the class under the names names of Sketch 1, Sketch 2, etc.
 - It is now up to every group to make qualified guesses on what sketch represents what category
 - Hand-in: A category & sketch pairing i.e 
   - Sketch 1: Harry Potter
@@ -38,7 +38,7 @@ It is encouraged to think outside of the box !
 - Best guessers
 - Best sketchers
 
-#### 📣**The winners will be announced tomorrow Friday** and will receive a beautiful prize 🥇
+#### 📣**The winners will be announced monday** and will receive a beautiful prize 🥇
 
 
 
@@ -48,9 +48,9 @@ It is encouraged to think outside of the box !
 - Tattoo
 - Copenhagen
 - TikTok
-- Pumpkin
-- Love
+- Crazy
+- Artificial Intelligence
 - Cool
 - The internet
 - Taylor Swift
-- Nature
+- Computer

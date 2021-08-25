@@ -69,7 +69,7 @@ Insert the following code in the editor:
 
 ![](3-wednesday.assets/image-20210810152516604.png)
 
-- Draw a figure - you can use any shape, line and color
+- Draw a complex figure - you can use any shape, line and color.
 
   Examples:
 
