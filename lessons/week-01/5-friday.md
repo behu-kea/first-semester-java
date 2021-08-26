@@ -32,6 +32,10 @@ Use your KEA e-mail to register here: https://www.jetbrains.com/community/educat
 
 ![The compiling process](5-friday.assets/image-20210811094602268.png)
 
+
+
+**Note: To compila java programs you have to have JDK installed: https://www.oracle.com/java/technologies/javase-downloads.html**
+
 ## FAQ
 
 To compile a program: 
