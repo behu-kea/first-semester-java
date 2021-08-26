@@ -26,8 +26,9 @@ The contest consists of two rounds: Sketching and guessing
   - Sketch 2: Kanye West
   - etc.
   - If the categories are Harry Potter & Kanye West
-
 - Deadline: Thursday 26/8 11:30
+
+#### We will be meeting again 11:35 @ E442
 
 ### Rules
 
@@ -53,7 +54,7 @@ It is encouraged to think outside of the box !
 - Copenhagen
 - TikTok
 - Crazy
-- Artificial Intelligence
+- Student
 - Cool
 - The internet
 - Computer
