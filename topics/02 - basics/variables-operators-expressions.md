@@ -297,3 +297,8 @@ Area is = 176.71458676442586
 
 
 
+### Exercise 8
+
+If you come to here, see if there are any of your classmates that needs help! 
+
+If not continue with the exercise: https://behu.gitbook.io/java-first-semester/topics/basics/strings#execise-4

@@ -58,8 +58,6 @@ Here Java is throwing the `InputMismatchException` error. So Java is telling us 
 
 
 
-
-
 #### Question 1
 
 How can this code be fixed?
