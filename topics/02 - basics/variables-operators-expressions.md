@@ -213,7 +213,7 @@ With the same person from the previous task go through these exercises
 In what order will Java calculate these different expressions?
 
 ```java
-int result = 100 * 100 / 5 + 200 * 3 / 2;
+int radius = 100 * 100 / 5 + 200 * 3 / 2;
 double result = radius * 3.14 * 0.1;
 double profit = salesPrice - purchasePrice * 0.8;
 int result = 2 + 3 * 4 + 10 / 5 * 2 – 1 + 3;
