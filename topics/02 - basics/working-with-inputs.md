@@ -58,8 +58,6 @@ Here Java is throwing the `InputMismatchException` error. So Java is telling us 
 
 
 
-
-
 #### Question 1
 
 How can this code be fixed?
@@ -139,7 +137,7 @@ System.out.println("Your age plus two is: " + agePlusTwo);
 
 ### Exercise 3
 
-Write a program that prompts the user to provide an integer `n` and prints the multiplication of `n` and 21. You can assume the input number is between 0 and 21
+Write a program that prompts the user to provide an integer `n` and prints the multiplication of `n` and 1000. You can assume the `n` is between 0 and 100
 
 
 
