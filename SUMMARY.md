@@ -63,6 +63,6 @@
     - [Project Time](lessons/week-08/project-time.md)
   - Week 42-50
   - [TBA](/tba.md)
-- [Semesterplan](https://studkea.sharepoint.com/:x:/r/sites/Datamatikerundervisere/_layouts/15/Doc.aspx?sourcedoc=%7BB73172E1-A261-4D52-B050-17B395E85B8A%7D&file=Semesterplan%201.%20semester%20eftera%CC%8Ar%202021.xlsx&action=default&mobileredirect=true&cid=dc8db2f4-5872-4092-8e24-025d30d27838&wdhostclicktime=1628580416385)
+- [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
