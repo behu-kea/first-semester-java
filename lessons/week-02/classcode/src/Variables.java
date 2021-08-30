@@ -9,5 +9,10 @@ public class Variables {
         double shoeSize = 38;
         String name = "benjamin";
 
+        System.out.println("SF\n" +
+                "The best \n" +
+                "Learning \"Java\"\n" +
+                "2 + 2 = 5;");
+
     }
 }

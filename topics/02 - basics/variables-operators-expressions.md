@@ -216,7 +216,7 @@ In what order will Java calculate these different expressions?
 int result = 100 * 100 / 5 + 200 * 3 / 2;
 double result = radius * 3.14 * 0.1;
 double profit = salesPrice - purchasePrice * 0.8;
-int result = 2 + 3 * 4 + 10 / 5 * 2 – 1 + ;
+int result = 2 + 3 * 4 + 10 / 5 * 2 – 1 + 3;
 int modulus = 10 % 3;
 ```
 
@@ -232,16 +232,16 @@ Write a Java program to print the sum of two numbers.
 
 Write a Java program to print the result of the following operations.
 
-1. -5 + 8 * 6
-2. (55 + 9) % 9 
-3. 20 + -3 * 5 / 8 
-4.  5 + 15 / 3 * 2 - 8 % 3 
+1. `-5 + 8 * 6`
+2. `(55 + 9) % 9 `
+3. `20 + -3 * 5 / 8`
+4.  `5 + 15 / 3 * 2 - 8 % 3`
 
 
 
 ### Exercise 2
 
-Convert 100 Fahrenehit to the same amount in Celcius
+Convert 100 Fahrenehit to Celcius
 
 
 
@@ -252,21 +252,25 @@ Print the following message, with the same format:
 ````
 Software development
 The best subject ev-er
-Learning ”Java” is the most fun you can have
+Learning "Java" is the most fun you can have
 2 + 2 = 5;
 ````
+
+You have to Google to figure this question out!
 
 
 
 ### Exercise 4
 
-Compute and print the result of `(9.5 * 4.5 - 2.5 * 3) / (45.5 - 3.5)`
+Compute first in hand the result of `(9.5 * 4.5 - 2.5 * 3) / (45.5 - 3.5)`
+
+Now compute and print the result in Java
 
 
 
 ### Exercise 5
 
-A mile is 1.609 kilometers. Compute the result of 19 kilometers
+Compute how many miles 19 kilometers are
 
 
 
