@@ -299,6 +299,22 @@ Area is = 176.71458676442586
 
 ### Exercise 8
 
+Take a look at this pizzamenu
+
+http://pizzaderoma.dk/index.php/menukort
+
+First figure out all the different kinds of data that is stored here. Fx
+
+- Pizza numbers
+- Pizza prices
+- Etc
+
+How would you represent all the different data that is stored here? 
+
+
+
+### Exercise 9
+
 If you come to here, see if there are any of your classmates that needs help! 
 
 If not continue with the exercise: https://behu.gitbook.io/java-first-semester/topics/basics/strings#execise-4
