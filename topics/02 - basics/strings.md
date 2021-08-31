@@ -82,7 +82,9 @@ System.out.println(fullname); // Benjamin Hughes
 
 ### Exercise 1
 
-In a group investigate two different string methods. You need to be able to explain what the method does but also how to use it in Java!
+In a group investigate two different string methods. 
+
+You need to be able to explain what the method does but also how to use it in Java!
 
 A couple of groups will be selected to show what they learned
 
@@ -105,7 +107,153 @@ A couple of groups will be selected to show what they learned
 
 Løs de her opgaver: https://www.w3resource.com/java-exercises/string/index.php
 
-1, 2, 3, 7, 8
+1, 7, 8, 22
+
+
+
+### Exercise 3.1
+
+Create a java program that takes a string and a substring as input. The program should then check if the substring is part of the string 👇
+
+```
+Please input a string:
+benjamin
+Please input a substring to check:
+jam
+jam is part of Benjamin
+```
+
+```
+Please input a string:
+Camilla
+Please input a substring to check:
+put
+put is not part of Camilla
+```
+
+*Ask your classmates about an if sentence!*
+
+Alternatively you can write it like this:
+
+```
+Please input a string:
+benjamin
+Please input a substring to check:
+jam
+Is jam is part of Benjamin? true
+```
+
+```
+Please input a string:
+Camilla
+Please input a substring to check:
+was
+Is was is part of Camilla? false
+```
+
+
+
+### Exercise 3.11
+
+Write a program that takes a three character string as input and checks if the string is mirrored
+
+Here is an example
+
+```
+Please input a word:
+lol
+lol can be mirrored
+```
+
+```
+Please input a word:
+lok
+lok can not be mirrored
+```
+
+
+
+### Exercise 3.21
+
+Write a program that can check if a number is even. 
+
+Now write a program that will check if a number is odd. 
+
+
+
+### Exercise 3.3
+
+Write a program that takes two numbers. One that that decides the diviser and one that is the number that should be checked against the divider:
+
+Example
+
+```
+Please put in the diviser:
+5
+Now please put in the number to check
+35
+35 is divisible with 5 🎉🥳🍾
+```
+
+```
+Please put in the diviser:
+6
+Now please put in the number to check
+13
+13 is not divisible with 6 😭
+```
+
+
+
+### Exercise 🏎
+
+Write a program that will check if the first character in a word comes later in the alphabeat than the last character in word
+
+Example
+
+```
+Pleas write and word:
+jungle
+j comes after e in the alphabeat
+```
+
+```
+Pleas write and word:
+Bananas
+B comes before s in the alphabeat
+```
+
+
+
+### Exercise 🍌
+
+Write a Java program that accepts a 3 digit integer `n` and compute the sum of the digits of `n` 
+
+Example:
+
+```
+Please input a number: 
+334
+The sum of 3 and 4 and 4 is 10
+```
+
+
+
+```
+Please input a number: 
+121
+The sum of 1 and 2 and 1 is 4
+```
+
+
+
+
+
+### Exercise 🥁
+
+Løs de her opgaver: https://www.w3resource.com/java-exercises/string/index.php
+
+2, 3, 25
 
 
 
