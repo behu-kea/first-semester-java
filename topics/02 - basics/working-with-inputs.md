@@ -113,7 +113,7 @@ System.out.println("Your double age is: " + doubleAge);
 1. `Your double age is: 68 `
 2. `Your double age is: 68.0`
 3. `Your double age is: "68"`
-4. Type conversion error
+4. Incompatible types
 
 
 
@@ -130,8 +130,8 @@ System.out.println("Your age plus two is: " + agePlusTwo);
 
 1. `36`
 2. `'36'`
-3. `362`
-4. Type conversion error
+3. `342`
+4. Incompatible types
 
 
 
@@ -143,7 +143,7 @@ Write a program that prompts the user to provide an integer `n` and prints the m
 
 ### Exercise 4
 
-Write a program that prompts the user to input 5 numbers from keyboard.  Find & print their sum and average.
+Write a program that prompts the user to input 5 numbers from keyboard. Find & print their sum and average.
 
 
 
@@ -165,3 +165,93 @@ String abd = myString + " - Thank you for logging in 🎉";
 System.out.println(abd);
 ```
 
+
+
+### Question 6.1
+
+Write a Java program to convert minutes into a number of years and days. 
+
+The user should be able to put in how many minutes he wants to convert. 
+
+Here is an example: `3456789 minutes is approximately 6 years and 210 days`
+
+
+
+### Question 6.2
+
+Write a Java program that reads a number (from the user) and display the square, cube, and fourth power.
+
+Here is an example: 
+
+Input: 4
+
+Square: 16
+
+Cube: 64
+
+Fourth: 256
+
+
+
+### Question 6.3
+
+Write a Java program that accepts two integers from the user and then  prints the sum, the difference, the product, the average, the distance  (the difference between integer), the maximum (the larger of the two  integers), the minimum (smaller of the two integers)
+
+Here is an example:
+
+```
+Input 1st integer: 25
+Input 2nd integer: 5
+Expected Output:
+Sum of two integers: 30
+Difference of two integers: 20
+Product of two integers: 125
+Average of two integers: 15.00
+Distance of two integers: 20
+Max integer: 25
+Min integer: 5
+```
+
+
+
+### Question 6.4
+
+Write a Java program to compute the area of a hexagon. The user should put in the length of one of the sides. 
+
+Here is an example:
+
+Input the length of a side of the hexagon: `6`
+
+```
+The area of the hexagon is: 93.53074360871938
+```
+
+
+
+### Question 6.5
+
+Write a Java program to compute the area of a polygon.
+
+The user should put in 
+
+- `n` is n-sided polygon
+- `s` is the length of a side
+
+Here is an example:
+
+Input the number of sides on the polygon: 7
+Input the length of one of the sides: 6
+
+```
+The area is: 130.82084798405722
+```
+
+
+
+### Question 7
+
+Create a money conversion java program. 
+
+It should give the user a welcoming message. After the welcome message the user should write an amount in kr. This amount should be converted to at least 4 different currencies and printed to the user in a easy to understand way. 
+
+https://www.xe.com/currencyconverter/
