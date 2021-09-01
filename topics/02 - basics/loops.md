@@ -143,7 +143,6 @@ public void drawRectangle(Canvas cv){
    // Fill the rectangle with width and height of 180
    // and position x: 100, y:200
    gc.fillRect(100,200,180,180);
-   
 } 
 ```
 
@@ -160,6 +159,12 @@ Using FeelJava create a chess board pattern using loops
 Prints a random number of hashtags (`#`) (Maximum 10)
 
 *Hint - try google `java random number between`* 
+
+
+
+### Exercise 9000
+
+https://adventofcode.com/2020/day/3
 
 
 

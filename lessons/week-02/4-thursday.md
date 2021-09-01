@@ -46,7 +46,7 @@ This line `In total that is 2.556634 coins in total!` should add all the cryptoc
 
 
 
-*Optional task*
+### *Optional task 1*
 
 You have not learned how to do this yet so dont stress if you do not know how to
 
@@ -55,6 +55,33 @@ If the user
 - Puts in from 0-10 dollars we should print `7 dollars why not more?`
 - Puts in from 10-40 dollars we should print `34 dollars, well done`
 - Puts in from 40-100 dollars we should print `Wauv 97 dollars thats a lot 💵`
+
+
+
+### *Optional task 2*
+
+Instead of the user converting only dollars to a specific crypto currency the user should be able to specify what currency he currently has and what currency he would like to convert into:
+
+Here is an example
+
+```
+What is your firstname?
+Benjamin
+What is your surname?
+Hughes
+Welcom dear Benjamin Hughes ❤️
+Here is a random character in your fullname: g
+Anyways we hope you're ready to convert some money
+What amount would you like to convert?
+1000
+From what currency?
+dollars
+To what cryptocurrency?
+bitcoin
+You can get 0,02094000 bitcoins for 1000 dollars
+```
+
+*consider if the user has 1 dollar, then we need to update the text, so it does not say dollars but dollar! The same with bitcoins*
 
 
 
