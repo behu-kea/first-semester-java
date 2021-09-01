@@ -253,50 +253,9 @@ The sum of 1 and 2 and 1 is 4
 
 
 
-
-
 ### Exercise 🥁
 
 Løs de her opgaver: https://www.w3resource.com/java-exercises/string/index.php
 
 2, 3, 25
-
-
-
-## Execise 4
-
-1. Skriv en klasse der hedder Kage, med en main-metode, gem, compiler og kør (intet sker!). 
-
-2. Gå på nettet og find en kageopskrift – frit valg af yndlingskage 
-
-3. Lav en variabel for hver af ingredienserne i kagen, med et passende navn og type (fx `int gramSugar`,  `int teaspoonsVanilla` eller `int numberOfEggs`)
-
-4. Tildel variablene den værdi der er i opskriften (fx `int gramFlour = 250;`) 
-
-5. Udskriv hver af variablene pænt ovenover hinanden så det ligner en opskrift, a la: 
-
-```
-Sukker 200 g
-Mel 250 g
-```
-
-6. Lav en variabel der hedder `totalIngredientsGrams`. I alle efterfølgende opgaver laver du variable efter behov, som du selv navngiver meningsfuldt. 
-
-7. Regn ud hvor meget alle ingredienser i kagen vejer tilsammen (hvis det er skefulde, så søg på nettet hvor meget en skefuld af ingrediensen ca. vejer, eller gæt!) og tildel denne værdi til `totalIngredientsGrams`. 
-
-8. Udskriv variablen `totalIngredientsGrams`, samt en lille forklaring på hvad tallet betyder (fx ”Ingredienserne til kagen vejer 740 gram”, hvor 740 er værdien af variablen). 
-
-9. Vi regner med at en færdigbagt kage vejer 10 % mindre end ingredienserne – hvor meget vejer den færdige kage? Udskriv resultatet af beregningen. 
-
-10. Gå på nettet og find en energifordeling for hver af ingredienserne (dvs hvor mange gram protein, kulhydrat osv. pr 100 g, og hvor mange kalorier ). 
-
-11. Udregn og udskriv hvor mange gram protein der er i hver ingrediens i den mængde kagen indeholder, med en lille forklaring, som fx `Protein fra æg: 23 g`
-
-12. Udskriv hvor mange gram protein der samlet er i kagen. 
-
-13. Find energifordelingstabellen igen, og beregn hvor mange kalorier der er i hver ingrediens i kagen, i den mængde der er brugt (kalorier i tabellen er typisk angivet i kalorier pr 100 gram). Udskriv resultatet af beregningen, fx ”Energi fra sukker: 146 kcal”. 
-
-14. Hvor mange kalorier er der i alt i kagen? Udskriv resultatet af beregningen. 
-
-15. Søg på nettet hvor meget hver ingrediens koster (fx en bakke med 10 æg, 22 kr). Beregn pris pr ingrediens i den mængde der bruges i kagen (fx giver 2 æg 4,4 kr). Beregn kagens samlede pris og udskriv resultatet. 
 
