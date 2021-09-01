@@ -218,13 +218,13 @@ Write a program that will check if the first character in a word comes later in 
 Example
 
 ```
-Pleas write and word:
+Please write a word:
 jungle
 j comes after e in the alphabeat
 ```
 
 ```
-Pleas write and word:
+Please write a word:
 Bananas
 B comes before s in the alphabeat
 ```

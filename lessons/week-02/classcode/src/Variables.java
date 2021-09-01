@@ -34,5 +34,9 @@ public class Variables {
         double doubleVariable = 89999.9;
 
         short newVariable = (short) intVariable;
+
+        System.out.println(String.valueOf(true).toUpperCase());
+        System.out.println(true);
+
     }
 }

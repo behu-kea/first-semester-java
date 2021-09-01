@@ -46,11 +46,11 @@ This line `In total that is 2.556634 coins in total!` should add all the cryptoc
 
 
 
-*Optional taks*
+*Optional task*
 
 You have not learned how to do this yet so dont stress if you do not know how to
 
-If the user 
+If the user
 
 - Puts in from 0-10 dollars we should print `7 dollars why not more?`
 - Puts in from 10-40 dollars we should print `34 dollars, well done`
