@@ -155,7 +155,7 @@ put is not part of Camilla
 
 ### Exercise 3.11
 
-Write a program that takes a three character string as input and checks if the string is mirrored
+Write a program that takes a three character string as input and checks if the string is mirrored. The case should be ignored. fx `Lol` should return `true`
 
 Here is an example
 

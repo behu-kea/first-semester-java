@@ -29,5 +29,6 @@ public class Variables {
         System.out.println("The sum of " +firstDigit+ " and 4 and 4 is " + (firstDigit + secondDigit + thirdDigit));
         System.out.println(-7%6);
 
+
     }
 }
