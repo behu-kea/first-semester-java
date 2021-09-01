@@ -120,6 +120,24 @@ Please input a string:
 benjamin
 Please input a substring to check:
 jam
+Is jam is part of Benjamin? true
+```
+
+```
+Please input a string:
+Camilla
+Please input a substring to check:
+was
+Is was is part of Camilla? false
+```
+
+Alternatively you can write it like this (if you know if sentences):
+
+```
+Please input a string:
+benjamin
+Please input a substring to check:
+jam
 jam is part of Benjamin
 ```
 
@@ -133,24 +151,6 @@ put is not part of Camilla
 
 *Ask your classmates about an if sentence!*
 
-Alternatively you can write it like this:
-
-```
-Please input a string:
-benjamin
-Please input a substring to check:
-jam
-Is jam is part of Benjamin? true
-```
-
-```
-Please input a string:
-Camilla
-Please input a substring to check:
-was
-Is was is part of Camilla? false
-```
-
 
 
 ### Exercise 3.11
@@ -161,15 +161,17 @@ Here is an example
 
 ```
 Please input a word:
-lol
-lol can be mirrored
+lok
+Can lok be mirrored: false
 ```
 
 ```
 Please input a word:
-lok
-lok can not be mirrored
+lol
+Can lol be mirrored: true
 ```
+
+You can again write different messages if you know if sentences
 
 
 
@@ -187,12 +189,14 @@ Write a program that takes two numbers. One that that decides the diviser and on
 
 Example
 
+
+
 ```
 Please put in the diviser:
 5
 Now please put in the number to check
 35
-35 is divisible with 5 🎉🥳🍾
+Is 35 divisible with 5: true
 ```
 
 ```
@@ -200,7 +204,7 @@ Please put in the diviser:
 6
 Now please put in the number to check
 13
-13 is not divisible with 6 😭
+Is 13 divisible with 6: false
 ```
 
 
