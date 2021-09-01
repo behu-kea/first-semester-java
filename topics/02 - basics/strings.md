@@ -181,6 +181,8 @@ Write a program that can check if a number is even.
 
 Now write a program that will check if a number is odd. 
 
+*Hint: Read up on modulus!*
+
 
 
 ### Exercise 3.3
