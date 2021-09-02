@@ -103,20 +103,6 @@ Now explain what it does and what it will output.
 
 
 
-
-
-### Exercise 1
-
-1. Prints out `Hello World` 3 times
-
-2. Use a for loop to print the numbers from 1 to 10
-
-3. Use a for loop to print a `*` 10 times
-
-4. Use a for loop to print the numbers starting from 5 to -5 
-
-
-
 ### Exercise 1.1
 
 Find a partner group. One groups investigates `while` loops while the other investigates `do while` loops. 
@@ -128,6 +114,18 @@ You have 20 minutes to prepare a presentation for the other group explaining the
 - In what situations should someone use your loop type?
 
 The presentation should be around 5 minutes. Have the presentation as you like. If slides works for you then use it, if just code works for you the use that, if a document is better then use that. 
+
+
+
+### Exercise 1.1
+
+1. Prints out `Hello World` 3 times
+
+2. Use a for loop to print the numbers from 1 to 10
+
+3. Use a for loop to print a `*` 10 times
+
+4. Use a for loop to print the numbers starting from 5 to -5 
 
 
 
@@ -158,7 +156,7 @@ Using FeelJava and loop of your choosing, create a series of rectangles. The rec
 - Color
 - Other
 
-
+This is how you draw a single rectangle 👇
 
 ```java
 public void drawRectangle(Canvas cv){ 
@@ -176,6 +174,14 @@ public void drawRectangle(Canvas cv){
 
 
 
+### Exercise 3.1
+
+Print multiplication table of 24, 50 and 29 using loop.
+
+
+
+
+
 ### Exercise ⭐️
 
 Create code that will output these two:
@@ -185,12 +191,6 @@ Create code that will output these two:
 ### Exercise ⭐️⭐️
 
 Create the same as above, but now the user has to input the number of rows!
-
-
-
-### Exercise 3.1
-
-Using FeelJava create a chess board pattern using loops
 
 
 
@@ -233,11 +233,29 @@ For example, if your name is Robert Brett Roser, then the output should be R.B. 
 
 
 
+### Exercise 5.1
+
+Write a program to find greatest common divisor (GCD) or highest common factor (HCF) of given two numbers 
+
+
+
 ### Exercise 9000
 
 https://adventofcode.com/2020/day/3
 
 Take your input and just copy paste it into a string to work with
+
+
+
+### Exercise -1
+
+Take integer inputs from user until he/she presses `q` ( Ask to press `q` to quit after every integer input ). Print average and product of all numbers. 
+
+
+
+### Exercise -1.1
+
+Using FeelJava create a chess board pattern using loops
 
 
 

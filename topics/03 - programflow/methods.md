@@ -167,7 +167,7 @@ Write a method that takes a String as parameter and prints the String thrice.The
 
 ### Exercise 3
 
-Implement  a  BMI  calculator  in  the  scope  of  a  method.   Identify  the  needed parameters and return type.
+Implement a BMI calculator in the scope of a method. Identify the needed parameters and return type.
 
 
 
