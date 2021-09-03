@@ -4,7 +4,7 @@
 
 ## Face creator
 
->  The games studio Activition has contacted KEA to get the sharpest minds to work on a problem they have. Sadly DAT21B was not available therefore DAT21A has gotten the task. 
+> The games studio Activition has contacted KEA to get the sharpest minds to work on a problem they have. Sadly DAT21B was not available therefore DAT21A has gotten the task. 
 >
 > Activision is creating a new game but their face generation software has mysteriously dissapeared in a data fire. So now we have to create code for generating random faces. **LOTS** of random faces!
 
@@ -55,9 +55,17 @@ Every 2 seconds generate a new random face usign your `generateFace` method. Hop
 
 
 
+### Create gif
+
+Create a gif showing the changing faces and include that in your upload on Fronter
+
+You can use this tool: https://www.screentogif.com/
+
+
+
 ## Handing in
 
 The project code should be added to a public github repo. Hand in the github link on Fronter!
 
-We will find a judge that will find the best face, and there will be a small price 🏆
+**Should be handed in before the 17/9**
 
