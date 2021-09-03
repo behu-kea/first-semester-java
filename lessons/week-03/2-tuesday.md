@@ -26,9 +26,9 @@ public static double sum(double a, double b) {
 }
 ```
 
-- a) 9
-- b) 9.0
-- c) 36
+- a) `9`
+- b) `9.0`
+- c) `36`
 - d) Compilation error
 
 
