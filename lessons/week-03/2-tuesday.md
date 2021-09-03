@@ -12,65 +12,69 @@ Read and solve the exercises found in [Methods](../../topics/03 - programflow/me
 
 ### Question 1
 
-What is the value of `sum`?
+What is the value of `numberOfCharacters`?
 
-```
-public static void main(String[] args) {
-	int a = 3;
-	int b = 6;
-	double sum = sum(a, b);
-}
+```java
+public class Question1 {
+    public static void main(String[] args) {
+        double numberOfCharacters = getNumberOfCharacters("Kea er sej");
+    }
 
-public static double sum(double a, double b) {
-	System.out.println(a + b);
-}
-```
-
-- a) `9`
-- b) `9.0`
-- c) `36`
-- d) Compilation error
-
-
-
-### Question 1
-
-What is the value of `sum`?
-
-```
-public static void main(String[] args) {
-	int a = 3;
-	int b = 6;
-	double sum = sum(a, b);
-}
-
-public static double sum(double a, double b) {
-	System.out.println(a + b);
+    public static int getNumberOfCharacters(String word) {
+        System.out.println(word.length());
+    }
 }
 ```
 
 - a) `9`
 - b) `9.0`
-- c) `36`
+- c) `10.0`
 - d) Compilation error
 
 
 
 ### Question 2
 
-What is the value of `sum3`
+What is the value of `sum`?
 
-```
-public static void main(String[] args) {
+```java
+public class Question2 {
+  public static void main(String[] args) {
     int a = 3;
     int b = 6;
-    double sum1 = sum(a, b);
-    double sum2 = sum(b, a);
-    double sum3 =  sum1 + sum2;
-}
+    double sum = sum(a, b);
+  }
 
-public static double sum(int a, double b) {
-    return a * b;
+  public static double sum(double a, double b) {
+    System.out.println(a + b);
+  }
+}
+```
+
+- a) `9`
+- b) `9.0`
+- c) `36`
+- d) Compilation error
+
+
+
+### Question 3
+
+What is the value of `sum3`
+
+```java
+public class Question3 {
+  public static void main(String[] args) {
+      int a = 3;
+      int b = 6;
+      double sum1 = sum(a, b);
+      double sum2 = sum(b, a);
+      double sum3 =  sum1 + sum2;
+  }
+
+  public static double sum(int a, double b) {
+      return a * b;
+  }
 }
 ```
 
@@ -81,18 +85,20 @@ public static double sum(int a, double b) {
 
 
 
-### Question 3
+### Question 4
 
 What is the value of `subtraction`
 
-```
-public static void main(String[] args) {
-	int a = 5;
-	int subtraction = (int) isOdd(a);
-}
+```java
+public class Question4 {
+  public static void main(String[] args) {
+    int a = 5;
+    int subtraction = (int) isOdd(a);
+  }
 
-public static double isOdd(int a) {
-	return a % 3;
+  public static double isOdd(int a) {
+    return a % 3;
+  }
 }
 ```
 

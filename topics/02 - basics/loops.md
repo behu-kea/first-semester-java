@@ -117,6 +117,53 @@ The presentation should be around 5 minutes. Have the presentation as you like. 
 
 
 
+### Exercise 1
+
+Solve this Parsons problem
+
+The program will in larger terms
+
+- Ask the user for a number of emojis to be printed
+- With the number of emojis call a method to get the emojis to print
+- Print the emojis
+
+http://parsons.problemsolving.io/puzzle/8568731ac447431fb872b3f23d968391
+
+<!--
+
+```
+public class emojiPrinter {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("How many emoji's would you like?");
+        int numberOfemojis = scanner.nextInt();
+        String pattern = getPattern(numberOfemojis);
+        System.out.println(pattern);
+    }
+
+    public static String getPattern(int numberOfemojis) {
+        String pattern = "";
+        for (int i = 0; i < numberOfemojis; i++) {
+            pattern += "🎉";
+        }
+
+        return pattern;
+    }
+}
+```
+
+-->
+
+Here is the output from running the program
+
+
+
+![Number of Emojis print](../../assets/number-of-emoji-parson.png)
+
+
+
+
+
 ### Exercise 1.1
 
 1. Prints out `Hello World` 3 times

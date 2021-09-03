@@ -2,12 +2,11 @@ import java.util.Scanner;
 
 public class Exercises {
     public static void main(String[] args) {
-        int a = 5;
-        int subtraction = (int) isOdd(a);
+        double numberOfCharacters = getNumberOfCharacters("Kea er sej");
     }
 
-    public static double isOdd(int a) {
-        return a % 3;
+    public static int getNumberOfCharacters(String word) {
+        System.out.println(word.length());
     }
 }
 
