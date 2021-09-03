@@ -139,17 +139,7 @@ System.out.println(hiString); // hiString is not defined within this scope!
 
 ## Exercises
 
-https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=851956
-
-https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=853066
-
-Todays exercises will be done as pair programming! We will set a timer. For the groups if you have found a good pair programming partner then partner up with them. The rest we will randomnly assign. 
-
-
-
-
-
-Continue in the pair programming pairs.
+After one hours of exercises its peer review time!
 
 
 
@@ -183,7 +173,17 @@ Write a method that takes a String as parameter and returns the amount of charac
 
 
 
-### Exercise 3.1 - Flight booking fullname function
+### Exercise 6
+
+Lav en metode der ikke returnerer noget uden parameter kaldet `throwDice`. Dvs. metoden returnerer ikke noget og modtager ingen input. 
+
+Metoden skal generere et tilfældigt tal ml. 1 - 6 og udskrive det på skærmen.
+
+Hvis værdien er 6 skal du skrive `6, Lucky you 🎲`
+
+
+
+### Exercise 7 - Flight booking fullname function
 
  A customer from a flight booking website has asked  for our help creating a specific part of their application:
 
@@ -211,21 +211,15 @@ getFullname("Camilla", "Jensen", "female", true); // returns "Lady Camilla Jense
 getFullname("Benjamin", "Hughes", "male", false); // returns "Benjamin Hughes"
 ```
 
+Now create a small program simulating a bit of a flight booking process using the method you just created. 
+
 *Taken from https://github.com/HackYourFuture-CPH/JavaScript/blob/master/javascript1/week2/homework.md*
 
 
 
-### Exercise 10
-
-Lav en void metode uden parameter kaldet `throwDice`. Dvs. metoden returnerer ikke noget og modtager ingen input. 
-
-Metoden skal generere et tilfældigt tal ml. 1 - 6 og udskrive det på skærmen.
-
-Hvis værdien er 6 skal du skrive `6, Lucky you 🎲`
 
 
-
-### Weather wear
+### Exercise 8 - Weather wear
 
 Create a function (that you have to name) that has temperature as  parameter. Based on the temperature it should return a string with what  the user should wear. The temperature should come from the user
 
@@ -233,7 +227,7 @@ An example is:
 
 ```
 String clothesToWear = youCreateThisFunctionName(18);
-System.out.println(clothesToWear); // Logs out: "shorts and a t-shirt"
+System.out.println(clothesToWear); // Prints out: "shorts and a t-shirt"
 ```
 
 [![Wearing jackets](https://camo.githubusercontent.com/9962d50527fe5a11527943cc192ca91cb28277241d2493509b8acd0234af21a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32367536647279755a4839387a354b75592f67697068792e676966)](https://camo.githubusercontent.com/9962d50527fe5a11527943cc192ca91cb28277241d2493509b8acd0234af21a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32367536647279755a4839387a354b75592f67697068792e676966)
@@ -242,7 +236,7 @@ System.out.println(clothesToWear); // Logs out: "shorts and a t-shirt"
 
 
 
-### Event application
+### Exercise 9 - Event application
 
 Another customer has contacted us. He works for a secret company that rimes with foogle. The customer works on their calendar application.  They need some functionality to help with writing what weekday an event  is held.
 
@@ -263,6 +257,18 @@ You should get the today's day from the system
 Hint: use modulus, investigate how dates work in Java
 
 *Taken from https://github.com/HackYourFuture-CPH/JavaScript/blob/master/javascript1/week2/homework.md*
+
+
+
+### Exercise 10.1
+
+Calculate the sum of digits of a number given by user. 
+
+E.g.
+
+- INUPT: 123. OUPUT : 6 
+
+- INUPT: 12345. OUPUT : 15 
 
 
 
