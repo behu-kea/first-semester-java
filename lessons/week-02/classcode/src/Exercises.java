@@ -16,9 +16,9 @@ public class Exercises {
 
         Scanner scanner = new Scanner(System.in);
 
-        int number = 1;
-        while (number >= 0) {
-            number = scanner.nextInt();
+
+        for (int i = 0; i < -1; i++) {
+            System.out.println(2);
         }
     }
 }
