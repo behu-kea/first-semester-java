@@ -2,7 +2,7 @@
 
 Read and solve the exercises found in [problem solving](../../topics/02 - programflow/array.md)
 
-https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=857580
+Masser af gode rigtige interview spørgsmål her: https://www.byte-by-byte.com/choosing-practice-questions/
 
 
 
