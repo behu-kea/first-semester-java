@@ -6,6 +6,13 @@ https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.
 
 
 
+Hvordan begynder man at løse problemer med kode.
+
+- Nu kender i værktøjerne, men kan ikke genkende hvilket værktøj i skal bruge til at løse problemet
+- Skal jeg lave en løkke? Bruge en if sætning? Skal det være en Streng eller en char. Det skal i øve jer i ved at dele større problemer ned i mindre problemer, lægge planer og tænke
+
+
+
 ## Exercises
 
 
@@ -97,6 +104,18 @@ How do you find all permutations of a string?
 How do you check if two strings are a rotation of each other?
 
 How do you check if a given string is a palindrome?
+
+
+
+**General**
+
+Find the median of two sorted arrays. Click for the solution.
+
+Given two strings, write a function that returns the longest common substring. Click for the solution. 
+
+Compress a string by shortening every repeated char to that char followed by the number of repetitions. 
+
+
 
 
 
