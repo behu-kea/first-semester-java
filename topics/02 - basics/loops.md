@@ -127,7 +127,7 @@ Now explain what it does and what it will output.
 2. Use a loop to print the numbers from 1 to 10
 3. Use a loop to print a `*` 10 times
 4. Use a loop to print the numbers starting from 5 to -5 
-5. Use a loop to print every third number from 5 to 3
+5. Use a loop to print every third number from 5 to 30
 
 *Try using both a `for` loop and a `while` loop*
 
