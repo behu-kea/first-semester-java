@@ -187,7 +187,7 @@ Print multiplication table of 24, 50 and 29 using loop.
 
 Create code that will output these two:
 
-![CleanShot 2021-09-01 at 14.56.23@2x](../../../../screenshots/CleanShot 2021-09-01 at 14.56.23@2x.png)
+![CleanShot 2021-09-01 at 14.56.23@2x](../../assets/loop-exercise-1.png)
 
 ### Exercise ⭐️⭐️
 

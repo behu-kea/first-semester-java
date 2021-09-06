@@ -43,7 +43,26 @@ Hmm okay that's not super nice. What if there were 200 students in the system, t
 
 
 
+## Object orientation
 
+- As applications grows - their code base grows
+- As growth implies complexity, it is beneficial to organise code into 
+  understandable & manageable groupings.
+- Object orientation is a concept - “philosophy” - of writing programs.
+
+
+
+### Thinking object oriented
+
+![Thinking object oriented](../../assets/thinking-object-oriented.png)
+
+
+
+Let's look at creating a student. What parameter could be relevant? What is the blueprint of a Student. 
+
+
+
+![Class object metaphor](../../assets/class-objects-metaphor.png)
 
 
 
