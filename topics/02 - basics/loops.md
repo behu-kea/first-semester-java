@@ -123,7 +123,7 @@ Now explain what it does and what it will output.
 
 ### Exercise 1.1
 
-1. Prints out `Hello World` 3 times
+1. Print out `Hello World` 3 times
 2. Use a loop to print the numbers from 1 to 10
 3. Use a loop to print a `*` 10 times
 4. Use a loop to print the numbers starting from 5 to -5 
