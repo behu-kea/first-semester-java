@@ -81,6 +81,22 @@ System.out.println("The last number is: " + number); // prints 6
 
 ## Exercises
 
+### Exercise 1.1
+
+Find a partner group. One groups investigates `while` loops while the other investigates `do while` loops. 
+
+You have 20 minutes to prepare a presentation for the other group explaining the loop type you got. When preparing focus on these things
+
+- How does the loop type work?
+- Write a practical code example of how to use the loop type
+- In what situations should someone use your loop type?
+
+The presentation should be around 5 minutes. Have the presentation as you like. If slides works for you then use it, if just code works for you the use that, if a document is better then use that. 
+
+
+
+### Exercise 1.2
+
 Read the following code
 
 ```java
@@ -101,78 +117,17 @@ class Variable{
 
 Now explain what it does and what it will output.
 
-
-
-### Exercise 1.1
-
-Find a partner group. One groups investigates `while` loops while the other investigates `do while` loops. 
-
-You have 20 minutes to prepare a presentation for the other group explaining the loop type you got. When preparing focus on these things
-
-- How does the loop type work?
-- Write a practical code example of how to use the loop type
-- In what situations should someone use your loop type?
-
-The presentation should be around 5 minutes. Have the presentation as you like. If slides works for you then use it, if just code works for you the use that, if a document is better then use that. 
-
-
-
-### Exercise 1
-
-Solve this Parsons problem
-
-The program will in larger terms
-
-- Ask the user for a number of emojis to be printed
-- With the number of emojis call a method to get the emojis to print
-- Print the emojis
-
-http://parsons.problemsolving.io/puzzle/8568731ac447431fb872b3f23d968391
-
-<!--
-
-```
-public class emojiPrinter {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("How many emoji's would you like?");
-        int numberOfemojis = scanner.nextInt();
-        String pattern = getPattern(numberOfemojis);
-        System.out.println(pattern);
-    }
-
-    public static String getPattern(int numberOfemojis) {
-        String pattern = "";
-        for (int i = 0; i < numberOfemojis; i++) {
-            pattern += "🎉";
-        }
-
-        return pattern;
-    }
-}
-```
-
--->
-
-Here is the output from running the program
-
-
-
-![Number of Emojis print](../../assets/number-of-emoji-parson.png)
-
-
+*No cheating!*
 
 
 
 ### Exercise 1.1
 
 1. Prints out `Hello World` 3 times
-
 2. Use a for loop to print the numbers from 1 to 10
-
 3. Use a for loop to print a `*` 10 times
-
 4. Use a for loop to print the numbers starting from 5 to -5 
+5. Use a for loop to print every third number from 5 to 3
 
 
 
@@ -182,7 +137,7 @@ Write a method that prints out the statement
 
  `I am now printing for the [Number of iteration]th time`
 
-Run 10 iterations.
+Run 10 iterations
 
 
 
@@ -190,18 +145,17 @@ Run 10 iterations.
 
 Prints a random number of hashtags (`#`) (Maximum 10)
 
-*Hint - try google `java random number between`* 
-
 
 
 ### Exercise 3
+
+Download FeelJava here: https://www.dropbox.com/s/5ji2fmthdm5a2eh/feeljava0.7.jar?dl=1
 
 Using FeelJava and loop of your choosing, create a series of rectangles. The rectangles should change
 
 - Position
 - Size
 - Color
-- Other
 
 This is how you draw a single rectangle 👇
 
@@ -224,8 +178,6 @@ public void drawRectangle(Canvas cv){
 ### Exercise 3.1
 
 Print multiplication table of 24, 50 and 29 using loop.
-
-
 
 
 
@@ -280,6 +232,12 @@ For example, if your name is Robert Brett Roser, then the output should be R.B. 
 
 
 
+### Exercise minus 1.1
+
+Using FeelJava create a chess board pattern using loops
+
+
+
 ### Exercise 5.1
 
 Write a program to find greatest common divisor (GCD) or highest common factor (HCF) of given two numbers 
@@ -291,18 +249,6 @@ Write a program to find greatest common divisor (GCD) or highest common factor (
 https://adventofcode.com/2020/day/3
 
 Take your input and just copy paste it into a string to work with
-
-
-
-### Exercise -1
-
-Take integer inputs from user until he/she presses `q` ( Ask to press `q` to quit after every integer input ). Print average and product of all numbers. 
-
-
-
-### Exercise -1.1
-
-Using FeelJava create a chess board pattern using loops
 
 
 

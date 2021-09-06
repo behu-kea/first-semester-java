@@ -74,6 +74,7 @@ Let's first start with an analogy: Saving word documents
 1. You first make som changes that you would like to save
 2. Now you press `ctrl` + `s` and save a word document. This is saved locally on your own computer
 3. You can now take the document and sync to the cloud (save to the cloud)
+4. The last step is if someone else has access to the document, their document will now sync with the newest changes
 
 Hold these three steps in your head for later!
 
@@ -145,4 +146,30 @@ It means
 
 
 
+### `git pull`
 
+To get the newest changes from git simply use `git pull`. This will pull down all the changes made to a repo so you now have those changes locally on your computer
+
+
+
+### Merge conflicts
+
+Merge conflicts happens when two developers change the same line of code. Now you as a developer has to tell git which you want to keep and which you want to discard. 
+
+
+
+
+
+## Exercises
+
+
+
+### Create a calculator
+
+In your study groups you have to create a calculator collaboratively!
+
+Each member should contribute (via git) with a calculator method. Fx an adder/subtractor/multiplication/whatever calculator method for your calculator. 
+
+The calculator program should take input from the console. Remember to make the program user-friendly with good print messages!
+
+A good plan of action could be to that one person first creates a Java project and a `Calculator.java` file where all team members can work in!
