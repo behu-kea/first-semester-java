@@ -275,6 +275,14 @@ Input letter is Consonant
 
 
 
+### Exercise 3.1
+
+Create a game where two players play against each other. 
+
+Each player has to guess what number (between 1 and 100) the other guessed and then input his real number. When both players have put in the expected number of the other and his number, write who won. 
+
+
+
 ### Exercise 4
 
 A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years.
