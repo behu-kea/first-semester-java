@@ -240,6 +240,8 @@ Can you think of an example using if, else if, else?
 
 ## Exercises
 
+Peer instruction after one hour
+
 
 
 ## Exercise 1 - switch and ternary
@@ -254,3 +256,124 @@ You have 30 minutes to prepare a presentation for the other group explaining eit
 
 The presentation should be around 5-10 minutes. Have the presentation as you like. If slides works for you then use that, if just code works for you the use that, if a document is better then use that. 
 
+
+
+### Exercise 2
+
+Write a Java program to get a number from the user and print whether it is positive or negative.
+
+
+
+### Exercise 3
+
+Write a Java program that takes the user to provide a single  character from the alphabet. Print Vowel or Consonant, depending on the  user input. If the user input is not a letter (between a and z or A and  Z), or is a string of length > 1, print an error message.
+
+*Test Data*
+Input an alphabet: p
+*Expected Output* :
+Input letter is Consonant
+
+
+
+### Exercise 4
+
+A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years.
+Ask user for their salary and year of service and print the net bonus amount.
+
+
+
+### Exercise 3.1 - Kings Island
+
+**Part one**
+
+King’s Island needs a program for its admission booths.  When visitors to the park come up to the booth to 
+purchase their tickets, the worker uses this program to figure out how much to charge them.   You will write 
+this program.  In the first version of the program, there is one ticket price of $30.00.  Senior citizens (age ≥ 65) are given a 
+50% discount.  Write this program as follows.  Import your Scanner.  Declare the needed variables (the person’s 
+age, the base price of a ticket ($30) and the price you will charge).  Input the user’s age, compute the price of 
+the ticket and output the result in a formatted way (that is, using a $).  You do not need to use DecimalFormat 
+for this part of the program but you will as you enhance it so you might want to set this up now.  Save, compile 
+and run your program a few times, asking the user for different ages such as 10, 50, 65, 80 and 0. 
+
+
+
+**Part two**
+
+The park wants to add further alterations to ticket costs.  Children under 5 (less than 5, not less than or equal 
+to) are free.  Ticket prices are now $40 unless the person is from Warren County in which case the tickets are 
+$30.  Senior citizens still receive a 50% discount regardless of their county of residence.  There are two input 
+parameters now, one for age and one for county.  For the county, input this as a String.  See below about how 
+to compare Strings.  Calculate and output the ticket price.  Ticket prices should be either 0, $15, $20, $30 or 
+$40 depending on the person’s age and location. 
+
+
+
+**Part three**
+
+Second, we want to give discounts to people from other counties as follows.  Children under 14 from Clermont 
+County get an 18% discount (over the base price of $40) and senior citizens (>= 65) from Campbell County 
+get an additional 7.5% discount over their senior citizen discount.
+
+
+
+
+
+### Exercise 4
+
+Write a program in Java to make such a pattern like below with a number which will repeat a number in a row.The pattern  is as follows: 
+
+```
+1
+22
+333
+4444
+```
+
+
+
+### Exercise 5
+
+Write a program in Java to display the pattern like a diamond
+
+*Test Data*
+Input number of rows (half of the diamond) : 7 
+*Expected Output* :
+
+```
+      *                                                                          
+     ***                                                                         
+    *****                                                                        
+   *******                                                                       
+  *********                                                                      
+ ***********                                                                     
+*************                                                                    
+ ***********                                                                     
+  *********                                                                      
+   *******                                                                       
+    *****                                                                        
+     ***                                                                         
+      *                     
+ 
+```
+
+
+
+### Exercise 6
+
+Write a program that accepts three numbers from the user and prints  "increasing" if the numbers are in increasing order, "decreasing" if the numbers are in decreasing order, and "Neither increasing or decreasing  order" otherwise.
+
+*Test Data*
+Input first number: 1524 
+Input second number: 2345
+Input third number: 3321
+*Expected Output* :
+
+```
+Increasing order
+```
+
+
+
+### More exercises here
+
+https://www.codesdope.com/practice/java-decide-if-or-else/

@@ -120,6 +120,8 @@ System.out.println("The last user that logged in is " + loggedInUsernames[logged
 
 ## Exercises
 
+After two hours peer instruction!
+
 
 
 ### Exercise 1 - iterating through an array
@@ -217,16 +219,6 @@ System.out.println(exercise2Result); // Marie
 
 
 
-### Exercise 3
-
-Opret et array af typen int array med plads til 10 elementer. 
-
-Lad programmet beregne summen af alle tallene ved at loope igennem arrayet. 
-
-Udskriv resultatet på skærmen.
-
-
-
 ### Exercise 4
 
 Write a method that takes a single parameter:
@@ -251,33 +243,58 @@ skal svaret være 3, fordi der er tre ord i strengen adskilt med mellemrum.
 
 Hint:  
 
-Man kan opdele en streng, som indeholder f.eks. blanktegn ved at bruge  `String` klassens `split()` metode, som opdeler en streng i flere strenge ud fra en given separator, og returnere resultatet i et array. 
+Tænk over hvad der karakteriserer en streng med to ord. Hvordan ved i at der er to ord? Måske i kan skrive noget kode der kan gøre brug af det!
 
-Eksempel på kald af metode, hvor String variablen text ønskes adskilt på blanktegn:  
+
+
+### Exercise 6
+
+Skriv en metode der kan finde og returnere antal strenge, som  indeholder en bestemt bogstavssekvens i et String array. Metodens  signatur skal se således ud: 
 
 ```java
-text.split(" "); 
+public static int findAntal(String[] liste, String sekvens)  
+```
+
+Parameteren kaldet sekvens repræsenterer en bogstavssekvens, som der skal ledes efter i arrayet kaldet liste. 
+
+```java
+System.out.println(findAntal("banan", "an")); // 2
+System.out.println(findAntal("hahaha", "ha")); // 3
 ```
 
 
 
- 
+### Exercise 7
 
-Du bestemmer selv om 
-
-- metoden selv skal udskrive resultatet
-- returnere svaret til main, som herefter udskriver svaret på skærmen
+![Exercise 7](../../assets/Array exercise.png)
 
 
 
+### Exercise 8
 
-
-https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=4434&LocationType=1&ElementID=840032
-
-Der er masser af opgaver her: https://kea-fronter.itslearning.com/Folder/processfolder.aspx?FolderID=844270
-
+Write a Java program to compute the average value of an array of integers except the largest and smallest values.
 
 
 
+### Exercise 9
 
-**MÅSEK PASS BY REFERENCE PASS BY VALUE**
+.Write a Java program to check if the sum of all the 10's in the array is exactly 30. Return false if the condition does not satisfy, otherwise true
+
+
+
+### Exercise 10
+
+Write a Java program to remove the duplicate elements of a given array and return the new length of the array.
+
+Sample array: `[20, 20, 30, 40, 50, 50, 50]`
+
+After removing the duplicate elements the program should return 4 as the new length of the array.
+
+
+
+### Exercise 11
+
+Write a Java program to print all the LEADERS in the array. 
+
+Note: An element is leader if it is greater than all the elements to its right side
+
