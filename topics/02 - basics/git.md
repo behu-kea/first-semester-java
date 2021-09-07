@@ -182,7 +182,7 @@ A good plan of action could be to that one person first creates a Java project a
 
 ### Næste git opgave
 
-Igen i jeres studiegrupper skal i hver lave en java klasse der har løsningen til en af de her opgaver. Des at der kommer til at være 4 java filer (hvis i er 4 i gruppen) med løsningen til hver af disse opgaver. 
+Igen i jeres studiegrupper skal i hver lave en java klasse der har løsningen til en af de her opgaver. Des at der kommer til at være 4 java filer (hvis i er 4 i gruppen) med løsningen til hver af disse opgaver. I må gerne tage nogle andre opgaver fra fx de opgaver vi lavede igår omkring metoder
 
 
 
