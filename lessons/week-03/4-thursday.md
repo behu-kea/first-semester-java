@@ -97,7 +97,7 @@ Your task is to create faces by calling different methods. This is a very open t
 - You should show that you can use different kinds of loops
 - You should use an `if` `else` sentence
 - Use the modules operator `%`
-- The program should take input from the user
+- The first part of the program should take input from the user
 
 
 
@@ -122,6 +122,8 @@ To figure out how to draw different shapes take a look at this article: https://
 Now have a method that can be used to generate new faces. Now we need the randomness!
 
 Every 2 seconds generate a new random face usign your `generateFace` method. Hopefully it will look super awesome 🖼👩‍🎨👨🏼‍🎨
+
+**You should not take input from the user anymore, everything should be random!**
 
 After the `stage.show();` line add this code to continously generate a new face every second:
 
@@ -150,7 +152,10 @@ You can use this tool: https://www.screentogif.com/
 
 ## Handing in
 
-The project code should be added to a public github repo. Hand in the github link on Fronter!
+The project code should be added to a public github repo. Hand in 
+
+- The github link on Fronter!
+- The gif of the changing faces
 
 **Should be handed in before the 17/9**
 
