@@ -251,7 +251,7 @@ On the flight website the user has the possibility to **check a checkbox** that 
 
 Create two extra parameters one that will contain the gender, the other that will indicate if the user wants to be adressed formally or not. 
 
-```
+```java
 getFullname("Camilla", "Jensen", "female", true); // returns "Lady Camilla Jensen"`
 getFullname("Benjamin", "Hughes", "male", false); // returns "Benjamin Hughes"
 ```
@@ -270,7 +270,7 @@ Create a function (that you have to name) that has temperature as  parameter. Ba
 
 An example is:
 
-```
+```java
 String clothesToWear = youCreateThisFunctionName(18);
 System.out.println(clothesToWear); // Prints out: "shorts and a t-shirt"
 ```
@@ -289,7 +289,7 @@ You specify how many days from today an event is being held. The  function then 
 
 Today is Sunday and the event is in 5 days. Therefore the event will be held on a friday.
 
-```
+```java
 // With todays weekday a tuesday
 System.out.println(getEventWeekday(9)); // Prints "Thursday"
 
@@ -311,9 +311,9 @@ Calculate the sum of digits of a number given by user.
 
 E.g.
 
-- INUPT: 123. OUPUT : 6 
+- INPUT: 123. OUPUT: 6
 
-- INUPT: 12345. OUPUT : 15 
+- INPUT: 12345. OUPUT: 15
 
 
 
