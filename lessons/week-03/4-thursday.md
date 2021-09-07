@@ -10,11 +10,81 @@
 
 
 
-In this exercise we will be using FeelJava to create a method that can generate a face. You can watch a small video about FeelJava here: https://www.youtube.com/watch?v=YRSCFqIvUOo
+## Getting started
 
-Download FeelJava here: https://www.dropbox.com/s/5ji2fmthdm5a2eh/feeljava0.7.jar?dl=1
+To begin with you have to create a new Javafx project in IntelliJ. You do that in IntelliJ by clicking File -> New -> Project.. -> JavaFX
 
-Open FeelJava and in the top, click on `graphics -> Circle`. Here is an example of how to draw a circle
+Give the project a name and a location. 
+
+> To make this work with git. Create your repo in GitHub first. Clone that empty repo to your computer. Then when choosing the location simply select the location of the github repo!
+
+Dont change any of the setting and click Next. Dont add any Dependencies and click on Finish.
+
+You will now be taken to a `HelloApplication.java` file. Replace that file with the following code 👇 Now import the missing classes by hovering over a red variable and choosing Add import (i think it's called)
+
+```java
+package com.example.javafx;
+
+import javafx.application.Application;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.canvas.Canvas;
+import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.paint.Color;
+import javafx.stage.Stage;
+
+import java.io.IOException;
+
+public class HelloApplication extends Application {
+    static Canvas canvas = new Canvas(650, 700);
+    static GraphicsContext gc = canvas.getGraphicsContext2D();
+
+    @Override
+    public void start(Stage stage) throws IOException {
+        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
+
+        Group root = new Group();
+        Scene scene = new Scene(root, 600, 600);
+        stage.setTitle("Face");
+        stage.setScene(scene);
+
+        gc.clearRect(0,0,600,600);
+        root.getChildren().add(canvas);
+
+        drawPrimitiveFace();
+
+        stage.show();
+    }
+
+    public static void drawPrimitiveFace() {
+        drawShape();
+        drawMouth(50);
+        drawEyes();
+    }
+
+    public static void drawShape() {
+        gc.strokeOval(150, 150, 300, 300);
+    }
+
+    public static void drawMouth(int mouthSize) {
+        gc.setFill(Color.BLACK);
+        gc.fillOval(280,370,mouthSize,mouthSize);
+    }
+
+    public static void drawEyes() {
+        gc.setFill(Color.BLACK);
+        gc.fillOval(220,220,20,20);
+        gc.fillOval(360,220,20,20);
+    }
+
+    public static void main(String[] args) {
+        launch();
+    }
+}
+```
+
+Try and run this code and you should now see a very crude face. Take a look at the methods i have created to get inspired of how to draw the whole face
 
 ---
 
@@ -53,6 +123,21 @@ Now have a method that can be used to generate new faces. Now we need the random
 
 Every 2 seconds generate a new random face usign your `generateFace` method. Hopefully it will look super awesome 🖼👩‍🎨👨🏼‍🎨
 
+After the `stage.show();` line add this code to continously generate a new face every second:
+
+```java
+Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(0.1), event -> {
+    gc.clearRect(0, 0, 600, 600);
+    try {
+        drawPrimitiveFace();
+    } catch (InterruptedException e) {
+        e.printStackTrace();
+    }
+}));
+timeline.setCycleCount(360);
+timeline.play();
+```
+
 
 
 ### Create gif
@@ -68,4 +153,6 @@ You can use this tool: https://www.screentogif.com/
 The project code should be added to a public github repo. Hand in the github link on Fronter!
 
 **Should be handed in before the 17/9**
+
+There will be a judge that judges the ones that uploaded a gif of the changing faces. There will be a small price 🏆 
 
