@@ -180,10 +180,73 @@ A good plan of action could be to that one person first creates a Java project a
 
 
 
-Hvor tit skal græsset slås
+### Næste git opgave
 
-Om sommerenvokser græsset ca. 0,8 cm om dagen. Skriv en metode,der tager imod 2 inputparametre: hvor langt græsset er lige nu og hvor højt det må være for at skulle slås.
+Igen i jeres studiegrupper skal i hver lave en java klasse der har løsningen til en af de her opgaver. Des at der kommer til at være 4 java filer (hvis i er 4 i gruppen) med løsningen til hver af disse opgaver. 
 
-Metoden skal beregne og returnere hvor mange dage der er til,at græsset skal slås næste gang.Hvor højt græsset er,når det skal slås,kan forstås på 2 måder.1.Græsset skal overstige denne værdi,før vi starter græsslåmaskinen2.Græsset skal slås,inden værdien overstigesDu vælger selv hvilken løsning du vil implementere.Benyt en Scanner til at få input fra brugeren, ogudskrivresultatetpå skærmen.KvadratSkriv en metode, der som parameter modtager et heltal. Metoden skal udskrive et kvadrat på skærmen svarende til heltallet. I det følgende eksempel er tallet 6 modtaget som parameter til metoden:************************************•Udvid metoden, så den også modtager et tegn, som er det tegn, somprintes på skærmen
 
-2Proper caseSkriv en metode,der tager imod en sætningaf ord med mellemrumimellem. Sætningen ændres efter følgende regler:•Ord,somudelukkendeer skrevet medstore bogstaver,skalikke ændres.•Ordpå mere end 3 bogstaverskalskrives med småt, dog med stortbegyndelsesbogstav.•Ord påmax.3 bogstaverskalskrives med sm
+
+#### Hvor tit skal græsset slås
+
+Om sommeren vokser græsset ca. 0,8 cm om dagen. Skriv en metode,der tager imod 2 input parametre: hvor langt græsset er lige nu og hvor højt det må være for at skulle slås.
+
+Metoden skal beregne og returnere hvor mange dage der er til,at græsset skal slås næste gang. Hvor højt græsset er, når det skal slås, kan forstås på 2 måder.
+
+1. Græsset skal overstige denne værdi,før vi starter græsslåmaskinen
+2. Græsset skal slås,inden værdien overstiges
+
+Du vælger selv hvilken løsning du vil implementere. 
+
+Benyt en Scanner til at få input fra brugeren, og udskriv resultatet på skærmen. 
+
+
+
+#### Kvadrat
+
+Skriv en metode, der som parameter modtager et heltal. Metoden skal udskrive et kvadrat på skærmen svarende til heltallet. I det følgende eksempel er tallet 6 modtaget som parameter til metoden:
+
+```
+******
+******
+******
+******
+******
+******
+```
+
+- Udvid metoden, så den også modtager et tegn, som er det tegn, som printes på skærmen
+
+
+
+#### Proper case
+
+Skriv en metode, der tager imod en sætning af ord med mellemrum imellem. Sætningen ændres efter følgende regler:
+
+- Ord, som udelukkende er skrevet medstore bogstaver,skal ikke ændres.
+- Ordpå mere end 3 bogstaver skal skrives med småt, dog med stort begyndelsesbogstav.
+- Ord på max. 3 bogstaver skal skrives med småt
+
+
+
+#### Sortering
+
+Skriv en metode, der indlæser 5 tekststrenge fra tastaturet og udskriver dem på skærmen i alfabetisk faldende orden på skærmen. Hvis der indlæses:
+
+```
+abekat
+musefælde
+ananas
+slut
+solskin
+```
+
+skal der udskrives følgende på skærmen:
+
+```
+solskin
+slut
+musefælde
+ananas
+abekat
+```
+
