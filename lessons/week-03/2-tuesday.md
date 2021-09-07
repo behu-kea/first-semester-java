@@ -10,7 +10,7 @@ Read and solve the exercises found in [Methods](../../topics/03 - programflow/me
 
 
 
-### Question 1
+### Question 1 - 4 minutter
 
 What is the value of `numberOfCharacters`?
 
@@ -33,7 +33,7 @@ public class Question1 {
 
 
 
-### Question 2
+### Question 2 - 4 minutter
 
 What is the value of `sum`?
 
@@ -58,18 +58,18 @@ public class Question2 {
 
 
 
-### Question 3
+### Question 3 - 5 minutter
 
 What is the value of `sum3`
 
 ```java
 public class Question3 {
   public static void main(String[] args) {
-      int a = 3;
-      int b = 6;
+      int a = 4;
+      int b = 2;
       double sum1 = sum(a, b);
       double sum2 = sum(b, a);
-      double sum3 =  sum1 + sum2;
+      double sum3 = sum1 + sum2;
   }
 
   public static double sum(int a, double b) {
@@ -78,9 +78,9 @@ public class Question3 {
 }
 ```
 
-- a) `18`
-- b) `36.0`
-- c) `18.0`
+- a) `8`
+- b) `16.0`
+- c) `8.0`
 - d) Compilation error
 
 

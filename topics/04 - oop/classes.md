@@ -66,3 +66,136 @@ Let's look at creating a student. What parameter could be relevant? What is the 
 
 
 
+**Cookie cutter (blueprint)**
+
+```java
+class Cat {
+    public String name;
+    public int mood;
+    public boolean isHungry;
+    public int energy;
+
+    public void meow() {
+        System.out.println("meow");
+    }
+}
+```
+
+
+
+**Cookies (objects/instance of Student)**
+
+```java
+import java.util.Random;
+import java.util.Scanner;
+
+public class CatStarter {
+    public static void main(String[] args) {
+        Cat figaro = new Cat();
+        figaro.meow();
+        figaro.name = "figaro";
+    }
+}
+```
+
+
+
+### Constructors
+
+
+
+![Constructors](../../assets/constructors.png)
+
+![Variable assignment](../../assets/variable-assignment.png)
+
+
+
+As we saw before we could change the name of `figaro` by writing 
+
+```java
+figaro.name = "figaro";
+```
+
+There is a better way to do this and that is through the constructor. Lets update the `Cat.java` class:
+
+
+
+```java
+class Cat {
+    public String name;
+    public int mood;
+    public boolean isHungry;
+    public int energy;
+
+    public Cat(String name, int mood, boolean isHungry, int energy) {
+        this.name = name;
+        this.mood = mood;
+        this.isHungry = isHungry;
+        this.energy = energy;
+    }
+
+    public void meow() {
+        System.out.println("meow");
+    }
+}
+```
+
+Now we can create a new cat like this
+
+```java
+public class CatStarter {
+    public static void main(String[] args) {
+        Cat figaro = new Cat("figaro", 5, true, 7);
+        figaro.meow();
+        System.out.println(figaro.name); // "figaro"
+    }
+}
+```
+
+
+
+## Encapsulation
+
+Changing to private!
+
+
+
+TL:DR Data & methods are bundled in objects - well implemented encapsulation 
+prevents direct access to the data to prevent unwanted changes in data
+
+I.E Only make acceptable changes of cats available to the users of a cat object
+
+
+
+### But why even have encapsulation?
+
+- A person (object) is born with a CPR-number. It cannot be changed (for the sake of the example) 
+- A cat (object) can maximum have 10 happiness points 
+- What is the disadvantage of public attributes?
+
+
+
+Static hvornår skal det ind? Måske senere
+
+
+
+## Exercises
+
+### Exercise 1
+
+Create a dog class
+
+- 4 attributes
+- 1 method
+- Create 2 instances of dogs using the constructor!
+
+
+
+### Exercise 2
+
+Create a `DogFarm` class that creates and returns `Dog` objects with data inputtet from the user.
+
+The maximum / minimum of mood, energy & hunger is 10 / 0
+
+If a method that raises an attribute to more / less than 10 / 0 - The attribute do not change, but prints out - Cat is at max / min [mood/energy/hunger]
+
