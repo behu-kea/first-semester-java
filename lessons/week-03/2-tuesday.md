@@ -10,7 +10,7 @@ Read and solve the exercises found in [Methods](../../topics/03 - programflow/me
 
 
 
-### Question 1 - 4 minutter
+### Question 1 - 3 minutter
 
 What is the value of `numberOfCharacters`?
 
@@ -33,7 +33,7 @@ public class Question1 {
 
 
 
-### Question 2 - 4 minutter
+### Question 2 - 3 minutter
 
 What is the value of `sum`?
 
@@ -85,7 +85,7 @@ public class Question3 {
 
 
 
-### Question 4
+### Question 4 - 5 minutter
 
 What is the value of `subtraction`
 
