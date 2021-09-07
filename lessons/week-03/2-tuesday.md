@@ -92,7 +92,7 @@ What is the value of `subtraction`
 ```java
 public class Question4 {
   public static void main(String[] args) {
-    int a = 5;
+    int a = 7;
     int subtraction = (int) isOdd(a);
   }
 
@@ -103,6 +103,6 @@ public class Question4 {
 ```
 
 - a) `true`
-- b) `2`
-- c) `2.0`
+- b) `1`
+- c) `1.0`
 - d) Compilation error
