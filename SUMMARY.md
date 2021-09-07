@@ -8,6 +8,7 @@
     - [Strings](topics/02 - basics/strings.md)
     - [Working with inputs](topics/02 - basics/working-with-inputs.md)
     - [Loops](topics/02 - basics/loops.md)
+    - [Git](topics/02 - basics/git.md)
   - 03 - Programflow
     - [Methods](topics/03 - programflow/methods.md)
     - [Array](topics/03 - programflow/array.md)
