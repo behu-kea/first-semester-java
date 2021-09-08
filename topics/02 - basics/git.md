@@ -81,6 +81,14 @@ Hold these three steps in your head for later!
 
 ## Working with git in the terminal
 
+### Basic terminal usage
+
+- `pwd` - Will tell where you are on your computer
+- `ls` - Will list all the files and folder in your current folder
+- `cd` - Will change directory fx 
+
+
+
 ### Initialising your repository
 
 First you initialize a project on GitHub. Now you need to clone the project to your computer using the command `git clone GITHUB_REPO_LINK`
