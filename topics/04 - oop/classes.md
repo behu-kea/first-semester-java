@@ -49,6 +49,7 @@ Hmm okay that's not super nice. What if there were 200 students in the system, t
 - As growth implies complexity, it is beneficial to organise code into 
   understandable & manageable groupings.
 - Object orientation is a concept - “philosophy” - of writing programs.
+- We hide complexity through abstraction
 
 
 
@@ -81,7 +82,7 @@ class Cat {
 }
 ```
 
-
+Here we create a new class called `Cat` with 4 attributes: `name`, `mood`, `isHungry` and `energy`. We also add a method to the class called `meow`
 
 **Cookies (objects/instance of Student)**
 
@@ -98,11 +99,13 @@ public class CatStarter {
 }
 ```
 
+Here we instantiate a new instance/object of the `Cat` class by saying
+
+`Cat figaro = new Cat();`. `Cat figaro` means create a variable with the name of figaro, the type should be `Cat`. To create the object we say `new Cat();`. This will create a new object.
+
 
 
 ### Constructors
-
-
 
 ![Constructors](../../assets/constructors.png)
 
@@ -116,7 +119,7 @@ As we saw before we could change the name of `figaro` by writing
 figaro.name = "figaro";
 ```
 
-There is a better way to do this and that is through the constructor. Lets update the `Cat.java` class:
+There is a better way to do this using the constructor. Lets update the `Cat.java` class:
 
 
 
@@ -140,6 +143,23 @@ class Cat {
 }
 ```
 
+The constructor is this part: 
+
+```java
+public Cat(String name, int mood, boolean isHungry, int energy) {
+  this.name = name;
+  this.mood = mood;
+  this.isHungry = isHungry;
+  this.energy = energy;
+}
+```
+
+It works like a method. In a constructor we say public and then the name of the class and then create it kind of like a method (without the return type). `String name, int mood` and so on are the parameters of the constructor. 
+
+The parameters will be replaced with the arguments you create the object with. Just like how arguments and parameters work in methods. 
+
+`this.name = name;` `this` refers to the instance of the object. `figaro` and `this` is the same thing but inside a class we use `this` to refer to the instance of the object! That means that we set the name (`"figaro"`) that came from creating a new object to be the name of the object. 
+
 Now we can create a new cat like this
 
 ```java
@@ -154,32 +174,37 @@ public class CatStarter {
 
 
 
-## Encapsulation
+## Enum
 
-Changing to private!
+An `enum` is a special "class" that represents a group of  **constants** (unchangeable variables, like `final` variables)
 
+We create an enum by making a new java class and writing the following:
 
+```java
+enum Level {
+  LOW,
+  MEDIUM,
+  HIGH
+}
+```
 
-TL:DR Data & methods are bundled in objects - well implemented encapsulation 
-prevents direct access to the data to prevent unwanted changes in data
+Lets say we wanted to represent rock, paper, scissors. Since there cannot be any other hands to play than those three it would make a lot of sence to represent this as a `enum`
 
-I.E Only make acceptable changes of cats available to the users of a cat object
-
-
-
-### But why even have encapsulation?
-
-- A person (object) is born with a CPR-number. It cannot be changed (for the sake of the example) 
-- A cat (object) can maximum have 10 happiness points 
-- What is the disadvantage of public attributes?
-
-
-
-Static hvornår skal det ind? Måske senere
+```java
+enum RockPaperScissor {
+  Rock,
+  Paper,
+  Scissor
+}
+```
 
 
 
 ## Exercises
+
+Hvis ikke nok, kig på Codelab's opgaver!
+
+
 
 ### Exercise 1
 
@@ -199,3 +224,24 @@ The maximum / minimum of mood, energy & hunger is 10 / 0
 
 If a method that raises an attribute to more / less than 10 / 0 - The attribute do not change, but prints out - Cat is at max / min [mood/energy/hunger]
 
+
+
+### Exercise 3 - Robot factory
+
+![Robot factory](../../assets/robot-factory.png)
+
+
+
+### Exercise 4 - Lampeopgave 
+
+1. Skriv en klasse der hedder Lampe. 
+
+2. En lampe har en boolean instansvariabel der angiver om den er tændt eller slukket. 
+
+3. Når man laver et nyt lampe-objekt skal der være en konstruktør hvor man kan vælge om lampen som udgangspunkt er tændt eller slukket, samt en  tom konstruktør hvor lampen som udgangspunkt er slukket (dette kaldes  ”overload” af konstruktøren). 
+
+4. Skriv en metode der hedder trykPåKontakt, som tænder lampen hvis den er slukket, og slukker lampen hvis den er tændt. 
+
+5. Lav en klasse (du kan fx kalde den Værelse) med en main-metode hvor du  instantierer forskellige lampeobjekter (skrivebordslampe, sengelampe el. lign.) og tester om de virker som de skal. 
+
+6. Lav en static variabel i Lampe-klassen som tæller hvor mange lamper der er lavet

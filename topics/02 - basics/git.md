@@ -10,7 +10,6 @@ Today we will be learning git which is a tool for collaborating on code and othe
 - Installing git
 - Creating repositories
 - Commit / Add / Pull / Push
-- CodeWithMe > Git for collaboration
 
 
 
