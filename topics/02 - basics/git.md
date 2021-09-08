@@ -190,7 +190,9 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 **Remember to give the other collaborators access to your repo!**
 
-> Go to your github repo. Click setting -> Manage access -> Invite collaborators
+> Go to your github repo. Click setting -> Manage access -> Invite collaborators. 
+>
+> If the GitHub repo already has 
 
 In your study groups you have to create a calculator collaboratively!
 

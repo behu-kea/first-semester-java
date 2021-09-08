@@ -22,9 +22,9 @@ Dont change any of the setting and click Next. Dont add any Dependencies and cli
 
 You will now be taken to a `HelloApplication.java` file. Replace that file with the following code 👇 Now import the missing classes by hovering over a red variable and choosing Add import (i think it's called)
 
-```java
-package com.example.javafx;
+**Remember to add your package! Otherwise there will be errors **
 
+```java
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Group;
@@ -37,19 +37,22 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 public class HelloApplication extends Application {
-    static Canvas canvas = new Canvas(650, 700);
+    static int width = 600;
+    static int height = 600;
+  	static Canvas canvas = new Canvas(width, height);
     static GraphicsContext gc = canvas.getGraphicsContext2D();
+
 
     @Override
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
 
         Group root = new Group();
-        Scene scene = new Scene(root, 600, 600);
+        Scene scene = new Scene(root, width, height);
         stage.setTitle("Face");
         stage.setScene(scene);
 
-        gc.clearRect(0,0,600,600);
+        gc.clearRect(0, 0, width, height);
         root.getChildren().add(canvas);
 
         drawPrimitiveFace();
@@ -129,7 +132,7 @@ After the `stage.show();` line add this code to continously generate a new face 
 
 ```java
 Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(0.1), event -> {
-    gc.clearRect(0, 0, 600, 600);
+    gc.clearRect(0, 0, width, height);
     try {
         drawPrimitiveFace();
     } catch (InterruptedException e) {

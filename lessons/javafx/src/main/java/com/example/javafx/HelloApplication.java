@@ -17,19 +17,21 @@ import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
 public class HelloApplication extends Application {
-    static Canvas canvas = new Canvas(650, 700);
+    static int width = 600;
+    static int height = 600;
+    static Canvas canvas = new Canvas(width, height);
     static GraphicsContext gc = canvas.getGraphicsContext2D();
-
+    
     @Override
     public void start(Stage stage) throws IOException, InterruptedException {
         FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
 
         Group root = new Group();
-        Scene scene = new Scene(root, 600, 600);
+        Scene scene = new Scene(root, width, height);
         stage.setTitle("Face");
         stage.setScene(scene);
 
-        gc.clearRect(0, 0, 600, 600);
+        gc.clearRect(0, 0, width, height);
         root.getChildren().add(canvas);
 
         drawPrimitiveFace();
@@ -37,7 +39,7 @@ public class HelloApplication extends Application {
 
 
         Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(1), event -> {
-            gc.clearRect(0, 0, 600, 600);
+            gc.clearRect(0, 0, width, height);
             try {
                 drawPrimitiveFace();
             } catch (InterruptedException e) {
