@@ -85,7 +85,7 @@ Hold these three steps in your head for later!
 
 - `pwd` - Will tell where you are on your computer
 - `ls` - Will list all the files and folder in your current folder
-- `cd` - Will change directory fx 
+- `cd` - Will change directory fx `cd java-exercises` will change directory to `java-exercises`
 
 
 
@@ -176,6 +176,10 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 
 ### Create a calculator
+
+**Remember to give the other collaborators access to your repo!**
+
+> Go to your github repo. Click setting -> Manage access -> Invite collaborators
 
 In your study groups you have to create a calculator collaboratively!
 
