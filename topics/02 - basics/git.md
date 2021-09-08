@@ -81,11 +81,22 @@ Hold these three steps in your head for later!
 
 ## Working with git in the terminal
 
+
+
+### Steps to make this work
+
+1. Create new repo on GitHub.com
+2. Clone the repo down to you local machine using `git clone GITHUB_REPO_LINK`. Lets say it saved under `c/users/benjamin/documents/kea/java-projects`
+3. Create a new IntelliJ project. Where you select the location, select the folder with the repo you just cloned down! In the above example that would be `c/users/benjamin/documents/kea/java-projects`
+4. Now you should be able to use IntelliJ's github functionality!
+
+
+
 ### Basic terminal usage
 
 - `pwd` - Will tell where you are on your computer
 - `ls` - Will list all the files and folder in your current folder
-- `cd` - Will change directory fx `cd java-exercises` will change directory to `java-exercises`
+- `cd` - Will change directory fx `cd java-exercises` will change directory to `java-exercises`. You can also go up a level by writing `cd ..`
 
 
 
