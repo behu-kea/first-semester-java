@@ -1,4 +1,5 @@
 # Monday
 
-## TBA
+- Midtvejsevaluering
+- Delphi
 
