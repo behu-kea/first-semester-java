@@ -210,9 +210,11 @@ Hvis ikke nok, kig på Codelab's opgaver!
 
 Create a dog class
 
-- 4 attributes
-- 1 method
+- 4 attributes that you choose
+- 1 method that you choose
 - Create 2 instances of dogs using the constructor!
+
+Now call the method on the two dog objects
 
 
 

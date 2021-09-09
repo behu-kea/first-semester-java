@@ -25,6 +25,129 @@ Because we dont want to repeat ourselves. D.R.Y. - Dont repeat Yourself
 
 
 
+### Lets try and create this without inheritance
+
+
+
+**User.java**
+
+```java
+public class User {
+    public String username;
+    public String password;
+
+    public User(String username, String password) {
+        this.username = username;
+        this.password = password;
+    }
+
+    public String generateNewPassword() {
+        return "asd123";
+    }
+
+    public boolean putInBasket() {
+        return true;
+    }
+}
+```
+
+
+
+**PremiumUser.java**
+
+```java
+public class PremiumUser {
+    public String username;
+    public String password;
+
+    public PremiumUser(String username, String password) {
+        this.username = username;
+        this.password = password;
+    }
+
+    public String generateNewPassword() {
+        return "asd123";
+    }
+
+    public boolean putInBasket(int discount) {
+        return true;
+    }
+}
+```
+
+
+
+**AdminUser.java**
+
+```java
+public class AdminUser {
+    public String username;
+    public String password;
+    public String email;
+
+    public AdminUser(String username, String password, String email) {
+        this.username = username;
+        this.password = password;
+        this.email = email;
+    }
+
+    public String generateNewPassword() {
+        return "asd123";
+    }
+
+    public String showStatistics() {
+        return "Fancy statistics";
+    }
+}
+```
+
+This code should not be to foreign for you. We create 3 classes that have different attributes. **But** we are repeating ourselves quite a lot. 
+
+
+
+
+
+### Now lets try with inheritance
+
+**User.java**
+
+`User.java` looks exactly the same as before!
+
+
+
+**PremiumUser.java**
+
+```java
+public class PremiumUserInheritance extends User {
+    public PremiumUserInheritance(String username, String password) {
+        super(username, password);
+    }
+
+    public boolean putInBasket(int discount) {
+        return true;
+    }
+}
+```
+
+
+
+**AdminUser.java**
+
+```java
+public class AdminUserInheritance extends User {
+    public String email;
+
+    public AdminUserInheritance(String username, String password, String email) {
+        super(username, password);
+        this.email = email;
+    }
+
+    public String showStatistics() {
+        return "Fancy statistics";
+    }
+}
+```
+
 ### Override
 
 
