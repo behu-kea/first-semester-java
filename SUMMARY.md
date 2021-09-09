@@ -14,8 +14,8 @@
     - [Boolean and Conditionals](topics/03 - programflow/conditionals-boolean.md)
     - [Debugging](topics/03 - programflow/debugging.md)
   - 04 - Object Oriented programming
-  - 05 - Datastructures and algorithms
-  - 06 - Software Development
+  - 06 - Datastructures and algorithms
+  - 07 - Software Development
 - Lessons
   - Week 34
     - [Monday](lessons/week-01/1-monday.md)

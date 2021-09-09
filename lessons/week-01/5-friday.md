@@ -4,9 +4,9 @@
 
 ## 📣 The winners
 
-### Best sketchers:
+### Best sketchers: All groups guessed everything correct
 
-### Best guessers:
+### Best guessers: All groups guessed everything correct
 
 
 

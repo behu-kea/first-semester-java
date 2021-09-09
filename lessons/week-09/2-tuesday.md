@@ -1,4 +1,3 @@
 # Tuesday
 
-## TBA
-
+- 
