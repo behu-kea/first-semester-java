@@ -6,6 +6,12 @@ Lucikly IntelliJ has some tools that can help us with the process!
 
 
 
+Watch this video as support 👇
+
+https://youtu.be/o_zc6tiyH2w
+
+
+
 ## IntelliJ debugger
 
 The Debugger is a tool that can help understanding your code. It works by indicating a place or multiple places in the code you want the code to stop and figure out what the values of our variables are. These places are called breakpoints. 

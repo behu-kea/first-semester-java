@@ -4,6 +4,14 @@ Conditionals is a way for a computer to handle decisions. Given some condition t
 
 
 
+Watch these videos as support 👇
+
+https://youtu.be/FeRTS6A6KvA
+
+https://youtu.be/YT2vWyJw2AM
+
+
+
 ## Boolean
 
 A boolean is a Java type that stores either `true` or `false`. 

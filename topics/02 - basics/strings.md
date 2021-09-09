@@ -1,5 +1,11 @@
 # Strings
 
+Watch this video as support 👇
+
+https://youtu.be/9R9nVa_MWPA
+
+
+
 A string is a data type used for handling text. Strings are always sourrounded by double quotes. Here is an example:
 
 ```java

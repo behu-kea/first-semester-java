@@ -10,6 +10,12 @@ There are different ways of creating loops in programming languages. We will loo
 
 
 
+Watch this video as support 👇
+
+https://youtu.be/YXAEOICescQ
+
+
+
 ## For loop
 
 The for loop is the most used loop and one you see quite often. The syntax is a bit weird, but let's run through an example:

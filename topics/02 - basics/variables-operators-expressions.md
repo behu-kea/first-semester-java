@@ -6,6 +6,12 @@ Today we will be working with operators and variables.
 
 
 
+Watch this video as support 👇
+
+https://youtu.be/JlXJ0eCPteo
+
+
+
 ## Variables
 
 A variable is a container for some value (data). As the image shows below we can save the number 22 (value) in a variable we call `x`. In Java that would look like this:

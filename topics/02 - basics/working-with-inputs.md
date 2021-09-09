@@ -1,5 +1,9 @@
 # Workin with inputs
 
+Watch this video as support 👇
+
+https://youtu.be/RbEjqqeYy1s
+
 
 
 Most software programs need to take some kind of input from the user. Maybe its the users name, age og the number of search results the user want to see. In Java we can also get input from the user. So lets learn how that works:

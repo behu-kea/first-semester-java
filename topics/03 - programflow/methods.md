@@ -12,6 +12,12 @@ When writing Java we often times have to do repetitive tasks.
 
 
 
+Watch this video as support 👇
+
+https://youtu.be/K9E43BJ2UQ8
+
+
+
 ## Lets begin with a good old metaphor
 
 Imagine you have a huge machine. The machine has lots of things you can control. Like a lever, 3 buttons, a pulley and wheel and much more. All of this affects what happens inside the machine. It works by giving the machine some input. Now the input is transformed through the machine and in the end you get an output. 
