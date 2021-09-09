@@ -51,8 +51,6 @@ When coming up with a name, try and describe what the variable contains/represen
 ```java
 // Stores budget for house renovation
 int Myintegervalue = 60000;
-
-
 ```
 
 `Myintegervalue` is not good! Wrong way of writing the name. Should have been `myIntegerValue`. Also the naming is not great, since the variable represent a budget, maybe a name like `budget` or more precisely `houseRenovationBudget` would be better. 
@@ -210,6 +208,8 @@ With the same person from the previous task go through these exercises
 
 ### Exercise 1.1
 
+It is important to know in what orede Java executes operations. So some of the next exercises will focus on learning exactly that. 
+
 In what order will Java calculate these different expressions?
 
 ```java
@@ -247,7 +247,7 @@ Convert 100 Fahrenehit to Celcius
 
 ### Exercise 3
 
-Print the following message, with the same format:
+Print the following message, with the same format as below in **one** `System.out.println`!:
 
 ````
 Software development
@@ -290,6 +290,8 @@ Compute the area and the perimeter of the rectangle and print the results
 
 Write a Java program to print the area and perimeter of a circle. 
 
+
+
 ```Test Data:
 Radius = 7.5
 Expected Output
@@ -320,3 +322,7 @@ How would you represent all the different data that is stored here?
 If you come to here, see if there are any of your classmates that needs help! 
 
 If not continue with the exercise: https://behu.gitbook.io/java-first-semester/topics/basics/strings#execise-4
+
+
+
+*For next time 1. semester class: More focus on modulus! More focus on casting (auomatic and up and down casting)*

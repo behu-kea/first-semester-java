@@ -2,82 +2,71 @@
 
 
 
-## Peer instruction
-
-Conditional, arrays, loops, methods, everything
+## Mandatory assignment
 
 
 
-### Exercise 1
+## Part one - Desert Island
 
-Which of the following correctly declares and initialises an array?
-
-1. `int array[] = {1,2,3,4,5};`
-2. `short array[] = new short[4];`
-3. `char array = {'a', 'b', 'c', 'd', 'e'};`
-4. `double array[] = new double{11.1, 22.2, 33.3};`
-5. `String array[] = new String[]{"Java", "Fortran", "C++"}`
+Download the assignment description here: https://github.com/behu-kea/first-semester-java/blob/master/lessons/week-04/Desert%20Island.docx
 
 
 
-### Exercise 2
+### Part two - Rock Paper Scissors
 
-What are the values of salaryand taxesafter execution of the following code? 
+You have to create a rock, paper, scissors game. The game should have two modes:
 
-```java
-double taxes, salary = 50000.0;
-if (salary > 15000.0) {
-    taxes = salary * 0.40;
-} else {
-    taxes = salary * 0.30;
-}
-salary -= 25000.00;
-```
-
-1. `50000.0, 20000.0`
-2. `50000.0, 15000.0`
-3. `25000.0, 20000.0`
-4. `25000.0, 15000.0 `
-5. None of the above
+1. Multiplayer - person vs person
+2. Singleplayer - person vs computer
 
 
 
-### Exerise 3
+### Multiplayer
 
-Which of the following correctly increments all the elements of `array`
+When playing in the multiplayer mode, the game should ask for the two players name. 
 
-1. `for (int i = 0; i < array.length(); i++) array[i]++;`
-2. `for (int i = 0; i < array.length; i++) array[i]++;`
-3. `for (int i = 0; i < array.length; i++) array[i++]++;`
-4. `array[0..array.length]++;`
-5. `array++;`
+Now the users will play 3 rounds. After the rounds a message should be printed that shows either who won or a message saying the game was a draw. 
 
 
 
-### Exercise 4
+### Singleplayer
 
-What will the value of `array` be?
-
-```java
-public class Test {
-    public static void main(String[] args) {
+When playing in singleplayer mode the user is playing against a computer. The user puts in his name and they now play three rounds. After the rounds a message should be printed that shows either who won or a message saying the game was a draw. 
 
 
-        int iArray[] = {3, 4, 5, 6, 7};
-        myMethod(iArray);
-    }
 
-    static void myMethod(int a[]) {
-        for (int i = 1; i < a.length - 1; i++) {
-            a[i] /= 2;
-        }
-    }
-}
-```
+#### Player decides number of rounds
 
-1. `3, 4, 5, 6, 7`
-2. `1, 2, 2, 3, 3`
-3. `3, 2, 2, 3, 3 `
-4. `1, 2, 2, 3, 7`
-5. `3, 2, 2, 3, 7`
+Let the player decide the number of rounds
+
+
+
+### *Optional tasks*
+
+#### No draws
+
+Make it so two players (person vs person and person vs computer) has to find a winner in each round. No draws!
+
+
+
+#### Intelligent computer
+
+Instead of just randomnly choosing sign (rock, paper or scissors). Look at the history of the other player and make a better informed selection. You could fx check
+
+- Which sign does the oponent use the most?
+- Which signs does the user play after he has played another sign. Fx he often plays rock after he has played scissor
+- Which signs does the user play after the opponent played another sign. Fx he often plays rock after the oponent played scissor
+- Maybe a combination
+- Try do some research on the topic:
+  -  https://www.reddit.com/r/LearnUselessTalents/comments/24dwag/how_to_win_at_rockpaperscissors_a_first_large/
+  - https://www.inverse.com/mind-body/rock-paper-scissors-not-sports
+  - https://arstechnica.com/science/2014/05/win-at-rock-paper-scissors-by-knowing-thy-opponent/
+
+
+
+#### Rounds
+
+Instead of just playing 10 games, what people often do is play 3 plays and then does a best of three games. Now you dont win by having most correct guesses but won the most games.
+
+*What if the game ends in a draw? Is that okay or should the finish to they have found a winner?*
 

@@ -8,6 +8,7 @@
     - [Strings](topics/02 - basics/strings.md)
     - [Working with inputs](topics/02 - basics/working-with-inputs.md)
     - [Loops](topics/02 - basics/loops.md)
+    - [Git](topics/02 - basics/git.md)
   - 03 - Programflow
     - [Methods](topics/03 - programflow/methods.md)
     - [Array](topics/03 - programflow/array.md)
@@ -63,6 +64,6 @@
     - [Project Time](lessons/week-08/project-time.md)
   - Week 42-50
   - [TBA](/tba.md)
-- [Semesterplan](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=917809)
+- [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 

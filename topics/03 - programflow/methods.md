@@ -139,17 +139,52 @@ System.out.println(hiString); // hiString is not defined within this scope!
 
 ## Exercises
 
-https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=851956
-
-https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=853066
-
-Todays exercises will be done as pair programming! We will set a timer. For the groups if you have found a good pair programming partner then partner up with them. The rest we will randomnly assign. 
+After one hours of exercises its peer review time!
 
 
 
+### Exercise 1.3
+
+Solve this Parsons problem
+
+The program will in larger terms
+
+- Ask the user for a number of emojis to be printed
+- With the number of emojis call a method to get the emojis to print
+- Print the emojis
+
+http://parsons.problemsolving.io/puzzle/8568731ac447431fb872b3f23d968391
+
+<!--
+
+```
+public class emojiPrinter {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("How many emoji's would you like?");
+        int numberOfemojis = scanner.nextInt();
+        String pattern = getPattern(numberOfemojis);
+        System.out.println(pattern);
+    }
+
+    public static String getPattern(int numberOfemojis) {
+        String pattern = "";
+        for (int i = 0; i < numberOfemojis; i++) {
+            pattern += "🎉";
+        }
+
+        return pattern;
+    }
+}
+```
+
+-->
+
+Here is the output from running the program
 
 
-Continue in the pair programming pairs.
+
+![Number of Emojis print](../../assets/number-of-emoji-parson.png)
 
 
 
@@ -161,19 +196,13 @@ Write a method that takes three integers as parameter, sums the integers and ret
 
 ### Exercise 2
 
-Write a method that takes a String as parameter and prints the String thrice.The method does not return a value.
+Write a method that takes a String as parameter and prints the String twice. The method does not return a value.
 
 
 
 ### Exercise 3
 
-Implement  a  BMI  calculator  in  the  scope  of  a  method.   Identify  the  needed parameters and return type.
-
-
-
-### Exercise 3.1
-
-
+Implement a BMI calculator method. Identify the needed parameters and return type.
 
 
 
@@ -185,79 +214,112 @@ Write a method that takes a String as parameter and returns the String in full u
 
 ### Exercise 5
 
-Write  a  method  that  takes  a  String  as  parameter  and  returns  the  amount  of characters in the given String.
-
-*Hint:  Use a method called `[string].length();`to identify the length of a String.*
+Write a method that takes a String as parameter and returns the amount of characters in the given String.
 
 
 
 ### Exercise 6
 
-Lav en `void` metode, der tager to strenge som parametre og udskriver disse på skærmen på samme linje adskilt af et mellemrum.
-
-
-
-### Exercise 7
-
-Lav en void metode, som skriver en personlig velkomsthilsen inkl. dags dato på skærmen. Du kan lave en af disse varianter: 
-
--  Dags dato hardkodes i main og gives som argument, når metoden kaldes. 
-
-- Dags dato genereres automatisk inde i metoden på følgende måde  (LocalDate klassen1 skal importeres, men det hjælper IntelliJ med):  
-
- ```java
- LocalDate today = LocalDate.now();
- ```
-
-
-
-### Exercise 8
-
-Du skal have dit program til at foretage flg. output til skærm med  kun ét metodekald i main (du har metoderne nedenfor til rådighed) 
-
- 
-
- ```java
- public static void m1() {
-     System.out.print("Der ");
- }
- 
- public static void m2() {
-     m1();
-     System.out.print("var ");
- }
- 
- public static void m3() {
-     m2();
-     System.out.print("engang");
- }
- ```
-
-
-
-### Exercise 9
-
-Lav en metode, der modtager en streng og returner et heltal, der angiver strengens længde. 
-
-Hint: String klassen har en metode `length()` til netop dette formål. 
-
-Eksempel: 
-
-```java
-String text = "Hello World";
-int antalTegn = text.length(); 
-```
-
-
-
-### Exercise 10
-
-Lav en void metode uden parameter kaldet `throwDice`. Dvs. metoden returnerer ikke noget og modtager ingen input. 
+Lav en metode der ikke returnerer noget uden parameter kaldet `throwDice`. Dvs. metoden returnerer ikke noget og modtager ingen input. 
 
 Metoden skal generere et tilfældigt tal ml. 1 - 6 og udskrive det på skærmen.
+
+Hvis værdien er 6 skal du skrive `6, Lucky you 🎲`
+
+
+
+### Exercise 7 - Flight booking fullname function
+
+ A customer from a flight booking website has asked  for our help creating a specific part of their application:
+
+When a user books a flight they **write their firstname and surname**, but when the ticket is printed a **fullname should be displayed**. It is our responsibility to create that.
+
+Create a function called `getFullname` that returns a fullname. It should have two parameters: `firstname` and `surname`.
+
+```java
+String fullname = getFullname("Benjamin", "Hughes"); 
+System.out.println(fullname) // "Benjamin Hughes"
+```
+
+ `firstname` and `surname` should come from the user
+
+
+
+#### Formal fullname
+
+On the flight website the user has the possibility to **check a checkbox** that **indicates** if the user wants to be **adressed formally**. They also specify their gender. Lets also change `getFullname` to include support for formal name.
+
+Create two extra parameters one that will contain the gender, the other that will indicate if the user wants to be adressed formally or not. 
+
+```java
+getFullname("Camilla", "Jensen", "female", true); // returns "Lady Camilla Jensen"`
+getFullname("Benjamin", "Hughes", "male", false); // returns "Benjamin Hughes"
+```
+
+Now create a small program simulating a bit of a flight booking process using the method you just created. 
+
+*Taken from https://github.com/HackYourFuture-CPH/JavaScript/blob/master/javascript1/week2/homework.md*
+
+
+
+
+
+### Exercise 8 - Weather wear
+
+Create a function (that you have to name) that has temperature as  parameter. Based on the temperature it should return a string with what  the user should wear. The temperature should come from the user
+
+An example is:
+
+```java
+String clothesToWear = youCreateThisFunctionName(18);
+System.out.println(clothesToWear); // Prints out: "shorts and a t-shirt"
+```
+
+[![Wearing jackets](https://camo.githubusercontent.com/9962d50527fe5a11527943cc192ca91cb28277241d2493509b8acd0234af21a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32367536647279755a4839387a354b75592f67697068792e676966)](https://camo.githubusercontent.com/9962d50527fe5a11527943cc192ca91cb28277241d2493509b8acd0234af21a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32367536647279755a4839387a354b75592f67697068792e676966)
+
+*Taken from https://github.com/HackYourFuture-CPH/JavaScript/blob/master/javascript1/week2/homework.md*
+
+
+
+### Exercise 9 - Event application
+
+Another customer has contacted us. He works for a secret company that rimes with foogle. The customer works on their calendar application.  They need some functionality to help with writing what weekday an event  is held.
+
+You specify how many days from today an event is being held. The  function then figures out what weekday the event is being held. Here is  an example:
+
+Today is Sunday and the event is in 5 days. Therefore the event will be held on a friday.
+
+```java
+// With todays weekday a tuesday
+System.out.println(getEventWeekday(9)); // Prints "Thursday"
+
+// With todays weekday a Friday
+System.out.println(getEventWeekday(2)); // Prints "Sunday"
+```
+
+You should get the today's day from the system
+
+Hint: use modulus, investigate how dates work in Java
+
+*Taken from https://github.com/HackYourFuture-CPH/JavaScript/blob/master/javascript1/week2/homework.md*
+
+
+
+### Exercise 10.1
+
+Calculate the sum of digits of a number given by user. 
+
+E.g.
+
+- INPUT: 123. OUPUT: 6
+
+- INPUT: 12345. OUPUT: 15
 
 
 
 ### Exercise 11
 
-Lav en metode, der modtager en streng, og returnerer strengen skrevet med store bogstaver.
+A three digit number is called Armstrong number if sum of cube of its digit is equal to number itself. 
+
+E.g.- 153 is an Armstrong number because (1<sup>3 </sup>)+(5<sup>3 </sup>)+(3<sup>3 </sup>) = 153. Write all Armstrong numbers between 100 to 500.
+
