@@ -165,7 +165,7 @@ public class AdminUser extends User {
 There are two key parts to this! 
 
 - `extends` - Tells Java that the `PremiumUser` and `AdminUser` should extend the functionality of `User`. In other words they will inherit the functionality of `User`!
-- `super(username, password)` - You know how the constructor works (hopefully). In order to use the `User` class we must first initialize it. Just like `User user = new User("per", "123");` but when extending a class we do it using `super`. When `super(username, password)` has been called then the `AdminUser` can access `username`, `password` and the `generateNewPassword` method. 
+- `super(username, password)` - You know how the constructor works (hopefully). In order to use the `User` class we must first initialize it. Just like `User user = new User("per", "123");` but when extending a class we do it using `super`. When `super(username, password)` has been called then the `AdminUser` can access `username`, `password` and the `generateNewPassword` method. `super` referes to the instance of the base class `User`. So it is possible to fx say `super.generateNewPassword()` just like you can say `user.generateNewPassword()`
 - The last thing we do is to take the `email` from the constructor and set that to `this.email`.
 
 

@@ -154,7 +154,7 @@ public Cat(String name, int mood, boolean isHungry, int energy) {
 }
 ```
 
-It works like a method. In a constructor we say public and then the name of the class and then create it kind of like a method (without the return type). `String name, int mood` and so on are the parameters of the constructor. 
+The constructor is a method that constructs the object. In a constructor we say public and then the name of the class (without the return type). `String name, int mood` and so on are the parameters of the constructor. 
 
 The parameters will be replaced with the arguments you create the object with. Just like how arguments and parameters work in methods. 
 
