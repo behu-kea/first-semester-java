@@ -84,6 +84,8 @@ class Cat {
 
 Here we create a new class called `Cat` with 4 attributes: `name`, `mood`, `isHungry` and `energy`. We also add a method to the class called `meow`
 
+
+
 **Cookies (objects/instance of Student)**
 
 ```java
@@ -105,7 +107,7 @@ Here we instantiate a new instance/object of the `Cat` class by saying
 
 
 
-### Constructors
+### Constructor
 
 ![Constructors](../../assets/constructors.png)
 
@@ -143,24 +145,7 @@ class Cat {
 }
 ```
 
-The constructor is this part: 
-
-```java
-public Cat(String name, int mood, boolean isHungry, int energy) {
-  this.name = name;
-  this.mood = mood;
-  this.isHungry = isHungry;
-  this.energy = energy;
-}
-```
-
-The constructor is a method that constructs the object. In a constructor we say public and then the name of the class (without the return type). `String name, int mood` and so on are the parameters of the constructor. 
-
-The parameters will be replaced with the arguments you create the object with. Just like how arguments and parameters work in methods. 
-
-`this.name = name;` `this` refers to the instance of the object. `figaro` and `this` is the same thing but inside a class we use `this` to refer to the instance of the object! That means that we set the name (`"figaro"`) that came from creating a new object to be the name of the object. 
-
-Now we can create a new cat like this
+Let's create a new object using the constructor
 
 ```java
 public class CatStarter {
@@ -171,6 +156,31 @@ public class CatStarter {
     }
 }
 ```
+
+The constructor is a method that constructs the object. 
+
+When we create a new object we say `Cat figaro = new Cat("figaro", 5, true, 7)`; So we call this method 👉 `Cat("figaro", 5, true, 7)` . The method that is called is the constructor! The constructor looks like this:
+
+```java
+public Cat(String name, int mood, boolean isHungry, int energy) {
+  this.name = name;
+  this.mood = mood;
+  this.isHungry = isHungry;
+  this.energy = energy;
+}
+```
+
+The constructor takes parameters but does not have a return type!
+
+The parameters will be replaced with the arguments you create the object with. Just like how arguments and parameters work in methods. 
+
+
+
+### This
+
+`this` refers to the instance of the object. 
+
+ `figaro` and `this` is the same thing but inside a class we use `this` to refer to the instance of the object! That means that we set the name (`"figaro"`) that came from creating a new object to be the name of the object. 
 
 
 

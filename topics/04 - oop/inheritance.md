@@ -165,12 +165,34 @@ public class AdminUser extends User {
 There are two key parts to this! 
 
 - `extends` - Tells Java that the `PremiumUser` and `AdminUser` should extend the functionality of `User`. In other words they will inherit the functionality of `User`!
-- `super(username, password)` - You know how the constructor works (hopefully). In order to use the `User` class we must first initialize it. Just like `User user = new User("per", "123");` but when extending a class we do it using `super`. When `super(username, password)` has been called then the `AdminUser` can access `username`, `password` and the `generateNewPassword` method. `super` referes to the instance of the base class `User`. So it is possible to fx say `super.generateNewPassword()` just like you can say `user.generateNewPassword()`
+- `super` see below
 - The last thing we do is to take the `email` from the constructor and set that to `this.email`.
 
 
 
-### Let's use is!
+### `super`
+
+`super` refers to the instance of the parent class. It works like `this`. The difference is that `this` referes to the object of the class where `super` refers to the object of the parent class!
+
+Lets look at the example above again
+
+In order to get the attributes and methods of the `User` class we have to initialize the object using the constructor! This we do by writing
+
+```java
+super(username, password);
+```
+
+This is the same as doing this: `new User("benjamin", "asd123")`!
+
+So when we have called `super(username, password);` the `AdminUser` now has access to the attributes and method of `User`!
+
+It is possible to write `super.generateNewPassword()` because `super` simply refers to the parent class which is `User`.
+
+
+
+
+
+### Let's use the new inherited classes!
 
 ```java
 public class Main {
@@ -216,8 +238,8 @@ public class AdminUser extends User {
 
 There are two relevant things here
 
-1. The `@override` annotation tells Java that  the child class (`AdminUser` is a child of `User`) method overrides the base class (`User`) method
-2. `public String generateNewPassword() {` - simply writing the same method overrides the method from the base class. `@override` is not necessary, but it's good practice to have it!
+1. The `@override` annotation tells Java that  the child class (`AdminUser` is a child of `User`) method overrides the parent class (`User`) method
+2. `public String generateNewPassword() {` - simply writing the same method overrides the method from the parent class. `@override` is not necessary, but it's good practice to have it!
 
 
 
