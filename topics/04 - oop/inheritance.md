@@ -44,10 +44,6 @@ public class User {
     public String generateNewPassword() {
         return "asd123";
     }
-
-    public boolean putInBasket() {
-        return true;
-    }
 }
 ```
 
@@ -101,7 +97,7 @@ public class AdminUser {
 }
 ```
 
-This code should not be to foreign for you. We create 3 classes that have different attributes. **But** we are repeating ourselves quite a lot. 
+This code should not be to foreign for you. We create 3 classes that have different attributes. **But** we are repeating ourselves quite a lot. That is **always** a bad sign when programming!
 
 
 
@@ -109,17 +105,35 @@ This code should not be to foreign for you. We create 3 classes that have differ
 
 ### Now lets try with inheritance
 
+lets try and simplify the code using inheritance
+
+
+
 **User.java**
 
-`User.java` looks exactly the same as before!
+```java
+public class User {
+    public String username;
+    public String password;
+
+    public User(String username, String password) {
+        this.username = username;
+        this.password = password;
+    }
+
+    public String generateNewPassword() {
+        return "asd123";
+    }
+}
+```
 
 
 
 **PremiumUser.java**
 
 ```java
-public class PremiumUserInheritance extends User {
-    public PremiumUserInheritance(String username, String password) {
+public class PremiumUser extends User {
+    public PremiumUser(String username, String password) {
         super(username, password);
     }
 
@@ -134,10 +148,10 @@ public class PremiumUserInheritance extends User {
 **AdminUser.java**
 
 ```java
-public class AdminUserInheritance extends User {
+public class AdminUser extends User {
     public String email;
 
-    public AdminUserInheritance(String username, String password, String email) {
+    public AdminUser(String username, String password, String email) {
         super(username, password);
         this.email = email;
     }
@@ -148,7 +162,62 @@ public class AdminUserInheritance extends User {
 }
 ```
 
+There are two key parts to this! 
+
+- `extends` - Tells Java that the `PremiumUser` and `AdminUser` should extend the functionality of `User`. In other words they will inherit the functionality of `User`!
+- `super(username, password)` - You know how the constructor works (hopefully). In order to use the `User` class we must first initialize it. Just like `User user = new User("per", "123");` but when extending a class we do it using `super`. When `super(username, password)` has been called then the `AdminUser` can access `username`, `password` and the `generateNewPassword` method. 
+- The last thing we do is to take the `email` from the constructor and set that to `this.email`.
+
+
+
+### Let's use is!
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        User mieParker = new User("Mie Parker", "fairydust");
+        System.out.println(mieParker.generateNewPassword()); // asd123
+        PremiumUser jonPedersen = new PremiumUser("Jon pedersen", "shhh!");
+        jonPedersen.putInBasket(200); // true
+        AdminUser jensFraIt = new AdminUser("Jens pedersen", "password123", "jens-fra-it@cmoneycorp.com");
+        jensFraIt.showStatistics(); // Fancy statistics
+    }
+}
+```
+
+
+
 ### Override
+
+In the example above there is a method called `generateNewPassword` it simply returns the same password for each user objects. So if a `user`, `PremiumUser` or `AdminUser` gets a new password they would get the same password. This is off course a problem. In a real world scenario the `generateNewPassword` off course would generate a new password. **But** let's use this as an opportunity to talk about overriding methods. 
+
+In the `generateNewPassword` what if the `PremiumUser` and the `AdminUser` could override the `generateNewPassword` method. Let's do that for the `AdminUser` 👇
+
+```java
+public class AdminUser extends User {
+    public String email;
+
+    public AdminUser(String username, String password, String email) {
+        super(username, password);
+        this.email = email;
+    }
+
+    public String showStatistics() {
+        return "Fancy statistics";
+    }
+
+    @Override
+    public String generateNewPassword() {
+        return "new admin password";
+    }
+}
+
+```
+
+There are two relevant things here
+
+1. The `@override` annotation tells Java that  the child class (`AdminUser` is a child of `User`) method overrides the base class (`User`) method
+2. `public String generateNewPassword() {` - simply writing the same method overrides the method from the base class. `@override` is not necessary, but it's good practice to have it!
 
 
 
