@@ -235,7 +235,30 @@ The is a relationships is fx
 
 ### Has a 
 
+This meant that a class references another class. Fx what if the a `Cat` has a favourite food that is another class?
 
+```java
+class Cat {
+    public String name;
+    public int mood;
+    public boolean isHungry;
+    public int energy;
+  	public Food favoriteFood;
+
+  public Cat(String name, int mood, boolean isHungry, int energy, Food favoriteFood) {
+      this.name = name;
+      this.mood = mood;
+      this.isHungry = isHungry;
+      this.energy = energy;
+    	this.favoriteFood = favoriteFood;
+  }
+
+  public void meow() {
+      System.out.println("meow");
+  }
+}
+```
+Now the cat **has a** favorite food. 
 
 
 
