@@ -260,3 +260,7 @@ for (Geometry geometry : geometries) {
 
 The loop first prints out `314.1592` then `100.0`
 
+
+
+## Exercises
+

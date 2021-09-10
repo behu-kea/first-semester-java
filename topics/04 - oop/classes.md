@@ -220,9 +220,22 @@ System.out.println(figaro); // Cat{name='figaro', mood=5, isHungry=true, energy=
 
 ## Relationships
 
-Has a 
+There are different relationships between objects. The replationships can help decide how we should structure our application. 
 
-Is a
+
+
+### Is a
+
+The is a relationships is fx
+
+- An Apple is a fruit. So we could maybe have base class `fruit` and `apple` as child class
+- A Volvo is a car. So again a class `volvo` inherits from `Car`
+
+
+
+### Has a 
+
+
 
 
 
