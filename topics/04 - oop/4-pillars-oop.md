@@ -31,11 +31,11 @@ Let's first talk about Encapsulation!
 Let's again use the `User` class from earlier!
 
 ```java
-public class UserInheritance {
+public class User {
     public String username;
     public String password;
 
-    public UserInheritance(String username, String password) {
+    public User(String username, String password) {
         this.username = username;
         this.password = password;
     }
@@ -63,25 +63,12 @@ Accessing the attributes `username` and `password` is not good because all the d
 
 ### Let's improve this using encapsulation
 
-
-
-
-
-Let's make it a bit more concrete and real world 👇
-
-
-
-### Concrete encapsulation with cpr-number
-
-Imagine that a `User` has a cpr-number. It should not be possible to change the cpr-number! Lets also make the other attributes `private`
-
 ```java
-public class UserInheritance {
+public class User {
     private String username;
     private String password;
-    private String cprNumber;
 
-    public UserInheritance(String username, String password) {
+    public User(String username, String password) {
         this.username = username;
         this.password = password;
     }
@@ -92,12 +79,106 @@ public class UserInheritance {
 }
 ```
 
-Now this is not possible:
+Now we have used the access modifier `private` instead. This means that `username` and `password` now only can be accessed within the class!
 
 ```java
 User mieParker = new User("Mie Parker", "fairydust");
 System.out.println(mieParker.username); // Java error
 System.out.println(mieParker.password); // Java error
+System.out.println(mieParker.generateNewPassword()); // asd123
+```
+
+So what if we still want to access or change `username` or `password` from outside the class using an object. Then we use getter's and setter's
+
+
+
+### Getters and setters
+
+
+
+#### Getter method
+
+Getter methods are methods that give access to the some `private` attribute. 
+
+```java
+public String getUsername() {
+	return username;
+}
+```
+
+It's simply a method that returns the `private` attribute. 
+
+
+
+#### Setter method
+
+Setter methods are methods that give access to set/change some `private` attribute. 
+
+```java
+public void setUsername(String username) {
+  this.username = username;
+}
+```
+
+It is a method that changes the `private` attribute. 
+
+
+
+#### Let's use it
+
+```java
+User mieParker = new User("Mie Parker", "fairydust");
+System.out.println(mieParker.getUsername()); // Mie Parker
+mieParker.setUsername("mieP");
+System.out.println(mieParker.getUsername()); // MieP
+```
+
+
+
+### Encapsulation best practice
+
+How should you then use this moving forward?
+
+Here are some best practices 👇
+
+- **Always** set all attributes as `private`
+- Make getter and setter methods for the relevant attributes. Consider each one!
+- Think about access modifiers for methods. If a method should only be used within the class, make it `private`. Otherwise make it `public`
+
+
+
+### Final user version
+
+```java
+public class User {
+    private String username;
+    private String password;
+
+    public User(String username, String password) {
+        this.username = username;
+        this.password = password;
+    }
+
+    public String generateNewPassword() {
+        return "asd123";
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+}
 ```
 
 
