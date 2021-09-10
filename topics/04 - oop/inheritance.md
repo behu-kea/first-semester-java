@@ -238,37 +238,12 @@ public class AdminUser extends User {
 
 There are two relevant things here
 
-1. The `@override` annotation tells Java that  the child class (`AdminUser` is a child of `User`) method overrides the parent class (`User`) method
+1. The `@override` annotation tells Java that  the child class method (`AdminUser` is a child of `User`)  overrides the parent class method (`User`) 
 2. `public String generateNewPassword() {` - simply writing the same method overrides the method from the parent class. `@override` is not necessary, but it's good practice to have it!
 
 
 
 Now at least the individual child classes have their own `generateNewPassword` method
-
-
-
-## Encapsulation
-
-Changing to private!
-
-
-
-TL:DR Data & methods are bundled in objects - well implemented encapsulation 
-prevents direct access to the data to prevent unwanted changes in data
-
-I.E Only make acceptable changes of cats available to the users of a cat object
-
-
-
-### But why even have encapsulation?
-
-- A person (object) is born with a CPR-number. It cannot be changed (for the sake of the example) 
-- A cat (object) can maximum have 10 happiness points 
-- What is the disadvantage of public attributes?
-
-
-
-Static hvornår skal det ind? Måske senere
 
 
 

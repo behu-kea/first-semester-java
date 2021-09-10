@@ -147,6 +147,10 @@ Here are some best practices 👇
 
 
 
+Another example: A User that has a cpr attribute should not be changed
+
+
+
 ### Final user version
 
 ```java
@@ -187,3 +191,4 @@ public class User {
 
 ## Polymorphism
 
+Gå igennem en liste af objekter der overholder et interface. Kalde deres metode. Metoderne opfører sig forskelligt slev om de hedder det samme
