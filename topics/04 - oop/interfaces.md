@@ -120,7 +120,7 @@ elephant.sleep(); //Zzz
 
 Static variables can be accessed using just the class name. No need to instantiate the class! Static variables are shared among all instances of a class. 
 
-Example is fx the `String.format`method
+Example is fx the `String.format` method
 
 Typically refers to common property
 

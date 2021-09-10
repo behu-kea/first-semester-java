@@ -176,7 +176,7 @@ The parameters will be replaced with the arguments you create the object with. J
 
 
 
-### This
+### `this`
 
 `this` refers to the instance of the object. 
 
@@ -215,6 +215,14 @@ In IntelliJ there is a shortcut for generating the `toString` method automatical
 Cat figaro = new Cat("figaro", 5, true, 7);
 System.out.println(figaro); // Cat{name='figaro', mood=5, isHungry=true, energy=7}
 ```
+
+
+
+## Relationships
+
+Has a 
+
+Is a
 
 
 

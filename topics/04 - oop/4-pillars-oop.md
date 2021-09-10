@@ -191,4 +191,72 @@ public class User {
 
 ## Polymorphism
 
-Gå igennem en liste af objekter der overholder et interface. Kalde deres metode. Metoderne opfører sig forskelligt slev om de hedder det samme
+Gå igennem en liste af objekter der overholder et interface. Kalde deres metode. Metoderne opfører sig forskelligt selv om de hedder det samme
+
+Polymorphism means that entities behave differently based on the context. In Java it means a bit more specifically that we can create the same task in different ways!
+
+Let's take an example:
+
+We create a `Geometry` interface that has a method called `getArea`. All geometries have areas but how they implement that area depends on the geometry
+
+```java
+interface Geometry {
+	double getArea();
+}
+```
+
+
+
+Let's create a `Rectangle` and a `Circle` class that implements `Geometry`
+
+```java
+public class Rectangle implements Geomerty{
+    private double height;
+    private double width;
+
+    public Rectangle(double height, double width) {
+        this.height = height;
+        this.width = width;
+    }
+
+    @Override
+    public double getArea() {
+        return height * width;
+    }
+}
+```
+
+
+
+```java
+public class Circle implements Geomerty{
+    private double radius;
+
+    public Circle(double radius) {
+        this.radius = radius;
+    }
+
+    @Override
+    public double getArea() {
+        return Math.pow(radius, 2) * Math.PI;
+    }
+}
+```
+
+
+
+Now we create two objects:
+
+```java
+Circle circle = new Circle(10);
+Rectangle rectangle = new Rectangle(10, 10);
+
+Geometry[] geometries = {circle, rectangle};
+for (Geometry geometry : geometries) {
+    double area = geometry.getArea();
+    System.out.println(area); 
+}
+```
+
+The loop first prints out `314.1592` then `100.0`
+
