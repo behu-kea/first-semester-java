@@ -23,7 +23,7 @@ The smallest value is 25.0
 
 ## Task 2
 
-Write a method that as a parameter gets a number. It should then print to the console of the number is negative, positive or zero
+Write a method that as a parameter gets a number. It should then print to the console if the number is negative, positive or zero
 
 
 
