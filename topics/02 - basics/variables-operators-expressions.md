@@ -135,6 +135,19 @@ bookTitle = "From the sea";
 
 
 
+### `final`
+
+The `final` keyword means that a variable cannot be changed! 
+
+```java
+final String name = "benjamin";
+name = "peter"; // Java throws an error!!
+```
+
+It is typically used for constants or things that cannot change lke a cpr-number fx or social security number
+
+
+
 ### Exercise 1
 
 With the person sitting next to you. Create a new Java class called `Person.java`. Use the code below as a start

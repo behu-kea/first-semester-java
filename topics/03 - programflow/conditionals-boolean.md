@@ -250,6 +250,8 @@ Can you think of an example using if, else if, else?
 
 Peer instruction after one hour
 
+**TALK ABOUT FINAL**
+
 
 
 ## Exercise 1 - switch and ternary

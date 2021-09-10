@@ -184,6 +184,40 @@ The parameters will be replaced with the arguments you create the object with. J
 
 
 
+### `toString`
+
+Printing out the values inside an object can be very helpful! But when we `println` an object it gives us `Cat@4f023edb`. This print the name of the class and the Dashcode. We can't really use this for anything. 
+
+```java
+Cat figaro = new Cat("figaro", 5, true, 7);
+System.out.println(figaro); // Cat@4f023edb
+```
+
+In order to print an object's attributes we have to create a `toString` method 👇
+
+```java
+@Override
+public String toString() {
+    return "Cat{" +
+            "name='" + name + '\'' +
+            ", mood=" + mood +
+            ", isHungry=" + isHungry +
+            ", energy=" + energy +
+            '}';
+}
+```
+
+In the `toString` method we simply return a string with the values we would like to show. Ignore the `@override` annotation for now. You will learn that soon!
+
+In IntelliJ there is a shortcut for generating the `toString` method automatically. 
+
+```java
+Cat figaro = new Cat("figaro", 5, true, 7);
+System.out.println(figaro); // Cat{name='figaro', mood=5, isHungry=true, energy=7}
+```
+
+
+
 ## Enum
 
 An `enum` is a special "class" that represents a group of  **constants** (unchangeable variables, like `final` variables)
