@@ -89,7 +89,11 @@ All methods that are utilizing and reading a file by a scanner **must** handle t
 
 **End product:**
 
-A console based analysis program that scans large data-sets and provides the user with insight
+A console based program that reads a data-set and provides the user with detailed insight about movies
+
+## Data
+
+ [movies.csv](reading-a-file.assets/movies.csv) 
 
 ## Components
 
@@ -106,7 +110,7 @@ Implements methods such that you can find the answers to the following questions
 - What movie has the longest name?
 - How many movies are from the Star Trek franchise?
 - What is the average length for a movie in hours?
-- What is the maximum amount of words in a movie title?
+- What is the highest amount of words in a movie title from the list?
   - Example:
   - Wagon master has 2 words
   - Tie Me Up! Tie Me Down! has 6 words
@@ -117,7 +121,7 @@ Implements methods such that you can find the answers to the following questions
 
 - What year won the most awards?
 - How many movies are sequals?
-- What movie has the most unique konsonant?
+- What movie has the most unique consonant?
 
 #### (Optional) Menu
 
