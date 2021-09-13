@@ -64,7 +64,7 @@
     - [Project Time](lessons/week-08/project-time.md)
   - Week 42-50
   - [TBA](/tba.md)
-- Projects
+- Projects 
   - [Processing 🖼](projects/processing.md)
   - [Crypto converter 📊](projects/crypto-converter.md)
   - [Face creator 😀](projects/face-creator.md) or [methods project 😀](projects/methods-project.md)

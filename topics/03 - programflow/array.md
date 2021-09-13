@@ -110,6 +110,19 @@ System.out.println(names.length); // 4
 
 
 
+### Creating array with set number of elements
+
+```java
+int[] numbers = new int[10];
+String[] strings = new String[9];
+```
+
+Here we are first creating an array `numbers` with 10 elements. Afterwards we create an array `strings` with 9 elements. But the array have nothing in them yet
+
+>  The elements in the array allocated by *new* will automatically be initialized to **zero** (for numeric types), **false** (for boolean), or **null** (for reference types)
+
+
+
 ### Real world example of arrays
 
 ```java
