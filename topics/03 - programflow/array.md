@@ -161,19 +161,9 @@ The presentation should be around 5-10 minutes. Have the presentation as you lik
 
 
 
-### Exercise 1.2
+### Exercise 1.1
 
 Figure out what this method does **without running it!**
-
-- For each line make a comment that describes these things: You can read more about describing your programs [here](https://github.com/hackyourfuturebelgium/welcome-to-js/tree/master/describing-programs)
-
-  ```
-  // what code is written in line of the program?
-  //  why is this line of code here?
-  //  what variables does it use?
-  //  how does it relate to other lines?
-  //  ... anything else you notice?
-  ```
 
 - Improve the variable names so they make more sense for you
 - When you have figured out what the method does, give the method a better name
@@ -194,30 +184,47 @@ static char[] doSomething(char abc[]) {
 
 
 
+### Exercise 1.2 - Level 1
+
+Create an array with 6 strings. Print the first element. You define what string should be in the array!
 
 
-### Exercise 1.1
 
-Solve the 2 first exercises in Array-1 from CodingBat: https://codingbat.com/java/Array-1
+### Exercise 1.21 - Level 1
+
+1. Create an array with 6 integers
+2. Change the second element in the array to a new value
+
+
+
+### Exercise 1.22 - Level 1
+
+1. Create an array with 4 `boolean`
+2. Change the last element to `true`
+
+
+
+### Exercise 1.3 - Level 1
+
+Solve this exercises in Array-1 from CodingBat: https://codingbat.com/java/Array-1
 
 - firstLast6
-- commondEnd
 
 
 
-### Exercise 1.2
+### Exercise 1.4 - Level 2
 
 ```java
 String[] names = new Array(){"Peter", "Sarita", "Jens", "Julie", "Jens"};
 ```
 
-Remove names that is `Jens` 
+Change all elements with the string `Jens` to `Jens 🔥`
 
-Use a normal for loop to remove all Person with first name Jens from the above list.
+Use a normal for loop to change all occurences of jens in the above lislist.
 
 
 
-### Exercise 2
+### Exercise 2 - Level 2
 
 Write a method that takes two parameters:
 
@@ -229,7 +236,7 @@ The method prints the String on the *nth* index.
 Here is an example of how to use the method:
 
 ```java
-String[] names = {"Camilla", "Per", "Cecilie", "Marie"};
+String[] abc = {"Camilla", "Per", "Cecilie", "Marie"};
 String exercise2Result = exercise2(names, 3);
 System.out.println(exercise2Result); // Marie
 ```
@@ -238,7 +245,7 @@ System.out.println(exercise2Result); // Marie
 
 
 
-### Exercise 4
+### Exercise 4 - Level 2
 
 Write a method that takes a single parameter:
 
@@ -248,7 +255,7 @@ The method returns the lowest value from the array
 
 
 
-### Exercise 5
+### Exercise 5 - Level 2
 
 Lav en metode, der tager en String som parameter og udskriver hvor mange ord strengen består af. 
 
@@ -266,7 +273,15 @@ Tænk over hvad der karakteriserer en streng med to ord. Hvordan ved i at der er
 
 
 
-### Exercise 6
+### Exercise 1.3 - Level 2
+
+Solve this exercises in Array-1 from CodingBat: https://codingbat.com/java/Array-1
+
+- commondEnd
+
+
+
+### Exercise 6 - Level 3
 
 Skriv en metode der kan finde og returnere antal strenge, som  indeholder en bestemt bogstavssekvens i et String array. Metodens  signatur skal se således ud: 
 
@@ -283,25 +298,25 @@ System.out.println(findAntal("hahaha", "ha")); // 3
 
 
 
-### Exercise 7
+### Exercise 7 - Level 3
 
 ![Exercise 7](../../assets/Array exercise.png)
 
 
 
-### Exercise 8
+### Exercise 8 - Level 3
 
 Write a Java program to compute the average value of an array of integers except the largest and smallest values.
 
 
 
-### Exercise 9
+### Exercise 9 - Level 3
 
-.Write a Java program to check if the sum of all the 10's in the array is exactly 30. Return false if the condition does not satisfy, otherwise true
+Write a Java program to check if the sum of all the 10's in the array is exactly 30. Return false if the condition does not satisfy, otherwise true
 
 
 
-### Exercise 10
+### Exercise 10 - Level 3
 
 Write a Java program to remove the duplicate elements of a given array and return the new length of the array.
 
@@ -311,7 +326,7 @@ After removing the duplicate elements the program should return 4 as the new len
 
 
 
-### Exercise 11
+### Exercise 11 - Level 3
 
 Write a Java program to print all the LEADERS in the array. 
 
