@@ -15,7 +15,9 @@
     - [Boolean and Conditionals](topics/03 - programflow/conditionals-boolean.md)
     - [Debugging](topics/03 - programflow/debugging.md)
   - 04 - Object Oriented programming
-  - 06 - Datastructures and algorithms
+  - 06 - Algorithms & Data structure
+    -  [reading-a-file.md](topics/06 - algorithms/reading-a-file.md)
+    -  [searching.md](topics/06 - algorithms/searching.md) 
   - 07 - Software Development
 - Lessons
   - Week 34
@@ -62,13 +64,19 @@
     - [Friday](lessons/week-07/5-friday.md)
   - Week 41
     - [Project Time](lessons/week-08/project-time.md)
-  - Week 42-50
+  - Week 42
+    -  [1-monday.md](lessons/week-09/1-monday.md)
+    -  [2-tuesday.md](lessons/week-09/2-tuesday.md) 
+    -  [3-wednesday.md](lessons/week-09/3-wednesday.md)
+    -  [4-thursday.md](lessons/week-09/4-thursday.md) 
+    -  [5-friday.md](lessons/week-09/5-friday.md) 
   - [TBA](/tba.md)
 - Projects 
   - [Processing 🖼](projects/processing.md)
   - [Crypto converter 📊](projects/crypto-converter.md)
   - [Face creator 😀](projects/face-creator.md) or [methods project 😀](projects/methods-project.md)
   - [Games project 🎲](projects/games-project.md)
+  - [Hangman.md 😵](projects/hangman.md) 
 - [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
