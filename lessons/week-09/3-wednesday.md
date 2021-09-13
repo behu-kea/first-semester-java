@@ -1,4 +1,4 @@
-# Linear search, Binary search
+# Linear search, Binary search & Hangman
 
 ### 1. Linear search
 
