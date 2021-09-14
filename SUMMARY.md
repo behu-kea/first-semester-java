@@ -74,7 +74,7 @@
 - Projects 
   - [Processing 🖼](projects/processing.md)
   - [Crypto converter 📊](projects/crypto-converter.md)
-  - [Face creator 😀](projects/face-creator.md) or [methods project 😀](projects/methods-project.md)
+  - [Face creator 😀](projects/face-creator.md) or [methods project](projects/methods-project.md)
   - [Games project 🎲](projects/games-project.md)
   - [Hangman.md 😵](projects/hangman.md) 
 - [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
