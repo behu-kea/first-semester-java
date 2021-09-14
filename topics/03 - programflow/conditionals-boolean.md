@@ -303,17 +303,6 @@ boolean arrayLargerThanFour = exercise2(names); // false
 
 
 
-### Exercise 2.1 - Level 1
-
-Write a method that accepts an array. If the array has more than 4 items the method should return `true` otherwise `false`. Fx
-
-```java
-String[] names = {"benjamin", "ahmad"};
-boolean arrayLargerThanFour = exercise2(names); // false
-```
-
-
-
 ### Exercise 2.2 - Level 1
 
 Write a method that accepts a number. It should return  `true` if the number is positive but `false` if it is negative. 
