@@ -250,8 +250,6 @@ Can you think of an example using if, else if, else?
 
 Peer instruction after one hour
 
-**TALK ABOUT FINAL**
-
 
 
 ## Exercise 1 - switch and ternary
@@ -322,7 +320,7 @@ Write a Java program that takes the user to provide a single  character from the
 ```
 Input an alphabet: 
 p
-Input letter p is a Consonant
+Input letter p is a consonant
 ```
 
 
