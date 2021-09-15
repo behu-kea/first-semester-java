@@ -22,6 +22,10 @@ See if everyone can get to both encode (word to code) and decode (code to word)
 
 Caesar cypher works similar to number cypher. Now instead of just encoding a message to numbers, we encode them to new characters. But the new characters are shifted 3 to the right. Watch this video that explains the process super well: https://youtu.be/o6TPx1Co_wg
 
+This video is also really good: https://www.youtube.com/watch?v=sMOZf4GN3oc
+
+https://youtu.be/Kf9KjCKmDcU
+
 Now you will have to make a physical Caesar cypher 👇
 
 Here are some examples:
@@ -113,6 +117,8 @@ char CharacterYEncoded = ceasarCharacterEncoder('y');
 System.out.println(CharacterYEncoded); // b
 ```
 
+> Consider using modulus for this task
+
 
 
 ### `ceasarCharacterDecoder`
@@ -128,6 +134,8 @@ System.out.println(CharacterEEncoded); // b
 char CharacterBEncoded = ceasarCharacterEncoder('b');
 System.out.println(CharacterBEncoded); // y
 ```
+
+> Consider using modulus for this task
 
 
 

@@ -16,7 +16,7 @@ A number cypher takes a word and converts all charcters to numbers. The numbers 
 
 
 
-Use the methods you created yesterday to solve the following problems
+Use the methods you created yesterday to solve the following problems!
 
 
 
@@ -26,10 +26,10 @@ Create a method called `numberCypherEncoder` that takes a `String` and encodes t
 
 ```java
 String benEncoded = numberCypherEncoder("ben");
-System.out.println(benEncoded); //2;5;14
+System.out.println(benEncoded); // 2;5;14
 
 String helloEncoded = numberCypherEncoder("hello");
-System.out.println(helloEncoded); //8;5;12;12;15
+System.out.println(helloEncoded); // 8;5;12;12;15
 ```
 
 
@@ -40,38 +40,75 @@ Create a method called `numberCypherDecoder` that takes a `String` and encodes t
 
 ```java
 String benEncoded = numberCypherEncoder("2;5;14");
-System.out.println(benEncoded); //ben
+System.out.println(benEncoded); // ben
 
 String helloEncoded = numberCypherEncoder("8;5;12;12;15");
-System.out.println(helloEncoded); //hello
+System.out.println(helloEncoded); // hello
 ```
-
-
-
-
-
-
-
-1. Bare bogstaver om til tal. number cipher
-   1. Vi skal lave bogstav om til et tal
 
 
 
 ## Ceasar cypher
 
-
-
-1. Shifter 
-
-
-
-## Visionaire cypher
-
-Visionare - kodeord. Shifter den fx "ba" så skifter den det første b 2 bogstaver
+https://www.youtube.com/watch?v=sMOZf4GN3oc
 
 
 
-## Enigma cypher
+### Encoder
 
-1. 
+Create a method called `ceasarEncoder` it takes a `String` and returns a new `String` with the encoded message. Here is an example of the output:
+
+```java
+String helloEncodedCeasar = ceasarEncoder("hello");
+System.out.println(helloEncodedCeasar); // khoor
+```
+
+
+
+### Decoder
+
+Create a method called `ceasarDecoder` it takes a `String` and returns a new `String` with the encoded message. Here is an example of the output:
+
+```java
+String khoorDecodedCeasar = ceasarDecoder("khoor");
+System.out.println(khoorDecodedCeasar); // hello
+```
+
+
+
+### Test test test
+
+Go [here](https://www.dcode.fr/caesar-cipher) to test if your Ceasar cypher code works
+
+
+
+
+
+# Vigenère cipher - Advanced level *optional*
+
+Skriv en decoder og en encoder for Vigenère cipher. Studer selv hvordan Vigenère cipher virker
+
+Her er et eksempel på hvordan man ville bruge den:
+
+```java
+String messageToEncode = "hello";
+String key = "kea";
+String helloEncodedVigenere = vigenereEncoder(messageToEncode, key);
+System.out.println(helloEncodedVigenere); // rilvs
+
+String messageToDecode = "rilvs";
+String key = "kea";
+String rilvsDecodedVigenere = vigenereDecoder(messageToDecode, key);
+System.out.println(rilvsDecodedVigenere); // hello
+```
+
+
+
+Du kan teste om det du har skrevet virker med den her side: https://cryptii.com/pipes/vigenere-cipher
+
+
+
+## Enigma cypher - Expert level *optional*
+
+Write an encoder and a decoder for the Enigma cypher. 
 
