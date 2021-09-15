@@ -4,5 +4,7 @@ System sequence diagrams is a way to visualize input and output events related t
 
 System events should be expressed at the abstract level of intention. 
 
+
+
 ![Crypto system Sequence diagram](../../assets/crypto-system-sequence.png)
 
