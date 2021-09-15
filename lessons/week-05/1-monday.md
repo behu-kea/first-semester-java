@@ -19,7 +19,7 @@ Hvordan begynder man at løse problemer med kode.
 
 Write a Java program to find the length of the longest consecutive elements sequence from a given unsorted array of integers.
 
-Sample array: `[49, 1, 3, 200, 2, 4, 70, 5]`The longest consecutive elements sequence is `[1, 2, 3, 4, 5]`, therefore the program will return its length 5.
+Sample array: `[49, 1, 3, 200, 2, 4, 70, 5]`. The longest consecutive elements sequence is `[1, 2, 3, 4, 5]`, therefore the program will return its length 5.
 
 
 
@@ -71,7 +71,7 @@ Pair is (7, 8), Maximum Product: 56
 
 **Arrays**
 
-How do you find the missing number in a given integer array of 1 to 100?
+How do you find the missing number in a given integer array of 1 to 10?
 
 How do you find the duplicate number on a given integer array?
 
@@ -109,7 +109,7 @@ How do you check if a given string is a palindrome?
 
 Find the median of two sorted arrays. Click for the solution.
 
-Given two strings, write a function that returns the longest common substring. Click for the solution. 
+Given two strings, write a function that returns the longest common substring. 
 
 Compress a string by shortening every repeated char to that char followed by the number of repetitions. 
 
