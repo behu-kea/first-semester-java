@@ -73,3 +73,15 @@ Instead of just randomnly choosing sign (rock, paper or scissors). Look at the h
   -  https://www.reddit.com/r/LearnUselessTalents/comments/24dwag/how_to_win_at_rockpaperscissors_a_first_large/
   -  https://www.inverse.com/mind-body/rock-paper-scissors-not-sports
   -  https://arstechnica.com/science/2014/05/win-at-rock-paper-scissors-by-knowing-thy-opponent/
+
+
+
+### Drawing what you picked with ascii art!
+
+Make the game a bit more visual (in the terminal), fx print a hand with ascii art when a hand has been selected. 
+
+
+
+### Your idea here
+
+Be creative, come up with something fun 🎉
