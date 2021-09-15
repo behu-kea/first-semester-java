@@ -85,3 +85,11 @@ Make the game a bit more visual (in the terminal), fx print a hand with ascii ar
 ### Your idea here
 
 Be creative, come up with something fun 🎉
+
+
+
+## Handin on fronter
+
+Link to handin on fronter: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=925430
+
+Hand in using git
