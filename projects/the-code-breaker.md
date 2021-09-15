@@ -16,6 +16,10 @@ A number cypher takes a word and converts all charcters to numbers. The numbers 
 
 
 
+Use the methods you created yesterday to solve the following problems
+
+
+
 ### Encoder
 
 Create a method called `numberCypherEncoder` that takes a `String` and encodes that `String`
