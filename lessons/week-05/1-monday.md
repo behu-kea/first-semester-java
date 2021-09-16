@@ -15,6 +15,12 @@ Hvordan begynder man at løse problemer med kode.
 
 
 
+
+
+
+
+<!--
+
 ### Exercise 1
 
 Write a Java program to find the length of the longest consecutive elements sequence from a given unsorted array of integers.
@@ -120,3 +126,5 @@ Compress a string by shortening every repeated char to that char followed by the
 Implement fizz buzz in Java
 
 https://leetcode.com/problems/fizz-buzz/
+
+-->
