@@ -38,15 +38,15 @@ Hello -> khoor
 
 
 
-![Cæsar 1](../../../cæsar-1.png)
+![Cæsar 1](../../assets/cæsar-1.png)
 
-![Cæsar 2](../../../cæsar-2.png)
+![Cæsar 2](../../assets/cæsar-2.png)
 
-![Cæsar 3](../../../cæsar-3.png)
+![Cæsar 3](../../assets/cæsar-3.png)
 
-![Cæsar 4](../../../cæsar4.png)
+![Cæsar 4](../../assets/cæsar4.png)
 
-![Cæsar 5](../../../cæsar-5.png)
+![Cæsar 5](../../assets/cæsar-5.png)
 
 Try to both encode a message and decode a message. That means
 
