@@ -1,8 +1,8 @@
 # Monday
 
-Masser af gode rigtige interview spørgsmål her: https://www.byte-by-byte.com/choosing-practice-questions/
 
 
+Read [problem solving](../../topics/introduction/problem-solving.md)
 
 Hvordan begynder man at løse problemer med kode.
 
@@ -28,6 +28,10 @@ https://github.com/behu-kea/first-semester-java/blob/master/assets/Opgave%20-%20
 
 
 <!--
+
+Masser af gode rigtige interview spørgsmål her: https://www.byte-by-byte.com/choosing-practice-questions/
+
+
 
 ### Exercise 1
 
