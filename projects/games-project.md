@@ -10,6 +10,8 @@ Download the assignment description here: https://github.com/behu-kea/first-seme
 
 ### Part two - Rock Paper Scissors
 
+> Remember to use methods for this assignment
+
 You have to create a rock, paper, scissors game. The game should have two modes:
 
 1. Multiplayer - person vs person
@@ -19,15 +21,27 @@ You have to create a rock, paper, scissors game. The game should have two modes:
 
 ### Multiplayer
 
-When playing in the multiplayer mode, the game should ask for the two players name. 
+When playing in the multiplayer mode, the game should ask for the two players names 
 
-Now the users will play 3 rounds. After the rounds a message should be printed that shows either who won or a message saying the game was a draw. 
+Now the users will play 1 round of rock paper scissor
+
+After the round a message should be printed that shows either who won or a message saying the game was a draw 
 
 
 
 ### Singleplayer
 
-When playing in singleplayer mode the user is playing against a computer. The user puts in his name and they now play three rounds. After the rounds a message should be printed that shows either who won or a message saying the game was a draw. 
+When playing in singleplayer mode the user is playing against a computer. The user puts in his name and they now play one round. 
+
+After the rounds a message should be printed that shows either who won or a message saying the game was a draw. 
+
+
+
+## Advanced level - optional
+
+### 3 rounds
+
+A game consists of 3 rounds
 
 
 
@@ -37,15 +51,15 @@ Let the player decide the number of rounds
 
 
 
-### *Optional tasks*
+## Expert level - optional
 
 #### No draws
 
-Make it so two players (person vs person and person vs computer) has to find a winner in each round. No draws!
+Make it so that two players (person vs person and person vs computer) has to find a winner in each round. No draws, they keep playing until someone has lost!
 
 
 
-#### Intelligent computer
+#### Intelligent computer - *optional*
 
 Instead of just randomnly choosing sign (rock, paper or scissors). Look at the history of the other player and make a better informed selection. You could fx check
 
@@ -60,9 +74,20 @@ Instead of just randomnly choosing sign (rock, paper or scissors). Look at the h
 
 
 
-#### Rounds
+### Drawing what you picked with ascii art!
 
-Instead of just playing 10 games, what people often do is play 3 plays and then does a best of three games. Now you dont win by having most correct guesses but won the most games.
+Make the game a bit more visual (in the terminal), fx print a hand with ascii art when a hand has been selected. 
 
-*What if the game ends in a draw? Is that okay or should the finish to they have found a winner?*
 
+
+### Your idea here
+
+Be creative, come up with something fun 🎉
+
+
+
+## Handin on fronter
+
+Link to handin on fronter: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=925430
+
+Hand in using git

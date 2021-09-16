@@ -33,7 +33,7 @@ System.out.println(taxes + ", " + salary);
 
 ### Question 2
 
-What are the values of salaryand taxesafter execution of the following code? 
+What are the values of salary and taxes after execution of the following code? 
 
 ```java
 double taxes = 50000.0;

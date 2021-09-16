@@ -218,6 +218,84 @@ System.out.println(figaro); // Cat{name='figaro', mood=5, isHungry=true, energy=
 
 
 
+### `import` a class
+
+
+
+### Method overload
+
+It is possible to create methods with the same name, when the parameters are different! 
+
+```java
+class CalculateSquare {
+    public void square() {
+        System.out.println("No Parameter Method Called");
+    }
+
+    public int square(int number) {
+        return number * number;
+    }
+
+    public float square(float number) {
+        return number * number;
+    }
+
+    public double square(double number) {
+        return number * number;
+    }
+
+    public static void main(String[] args) {
+        CalculateSquare obj = new CalculateSquare();
+        obj.square();
+        obj.square(5);
+        obj.square(2.5);
+    }
+}
+```
+
+So these methods have the same name `square` but because their parameters are different they are seen as different mathods. When one of the methods gets called, then relevant methods will be found based on the argument. Fx
+
+```java
+obj.square(5);
+```
+
+This will be directed to this method, becaus we are callin the method with an integer
+
+```java
+public int square(int number) {
+		return number * number;
+}
+```
+
+The same can be done with a constructor!
+
+```java
+public class UserInheritance {
+    private String username;
+    private String password;
+
+  	// First constructor takes two strings
+    public UserInheritance(String username, String password) {
+        this.username = username;
+        this.password = password;
+    }
+
+  	// The second constructor takes nothing
+    public UserInheritance() {
+      	this.username = "abd";
+    }
+}
+```
+
+Here we use the different constructors
+
+```java
+UserInheritance mieParker = new UserInheritance("Mie Parker", "fairydust");
+UserInheritance otherUser = new UserInheritance();
+```
+
+
+
 ## Relationships
 
 There are different relationships between objects. The replationships can help decide how we should structure our application. 
@@ -290,23 +368,37 @@ enum RockPaperScissor {
 
 ## Exercises
 
-Hvis ikke nok, kig på Codelab's opgaver!
-
 
 
 ### Exercise 1
 
-Create a dog class
+Create a `Dog` class. The class should have
 
 - 4 attributes that you choose
 - 1 method that you choose
 - Create 2 instances of dogs using the constructor!
 
-Now call the method on the two dog objects
+Now call the method on the two dog objects. 
 
 
 
-### Exercise 2
+### Exercise 2 - Lampeopgave 
+
+1. Skriv en klasse der hedder Lampe. 
+
+2. En lampe har en boolean instansvariabel der angiver om den er tændt eller slukket. 
+
+3. Når man laver et nyt lampe-objekt skal der være en konstruktør hvor man kan vælge om lampen som udgangspunkt er tændt eller slukket, samt en tom konstruktør hvor lampen som udgangspunkt er slukket (dette kaldes  ”overload” af konstruktøren). 
+
+4. Skriv en metode der hedder `turnOn`, som tænder lampen hvis den er slukket, og slukker lampen hvis den er tændt. 
+
+5. Lav en klasse (du kan fx kalde den `Room`) med en main-metode hvor du  instantierer forskellige lampeobjekter (skrivebordslampe, sengelampe el. lign.) og tester om de virker som de skal. 
+
+6. Lav en static variabel i Lampe-klassen som tæller hvor mange lamper der er lavet
+
+
+
+### Exercise 3
 
 Create a `DogFarm` class that creates and returns `Dog` objects with data inputtet from the user.
 
@@ -316,22 +408,6 @@ If a method that raises an attribute to more / less than 10 / 0 - The attribute 
 
 
 
-### Exercise 3 - Robot factory
+### Exercise 4 - Robot factory
 
 ![Robot factory](../../assets/robot-factory.png)
-
-
-
-### Exercise 4 - Lampeopgave 
-
-1. Skriv en klasse der hedder Lampe. 
-
-2. En lampe har en boolean instansvariabel der angiver om den er tændt eller slukket. 
-
-3. Når man laver et nyt lampe-objekt skal der være en konstruktør hvor man kan vælge om lampen som udgangspunkt er tændt eller slukket, samt en  tom konstruktør hvor lampen som udgangspunkt er slukket (dette kaldes  ”overload” af konstruktøren). 
-
-4. Skriv en metode der hedder trykPåKontakt, som tænder lampen hvis den er slukket, og slukker lampen hvis den er tændt. 
-
-5. Lav en klasse (du kan fx kalde den Værelse) med en main-metode hvor du  instantierer forskellige lampeobjekter (skrivebordslampe, sengelampe el. lign.) og tester om de virker som de skal. 
-
-6. Lav en static variabel i Lampe-klassen som tæller hvor mange lamper der er lavet

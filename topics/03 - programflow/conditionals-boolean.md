@@ -250,8 +250,6 @@ Can you think of an example using if, else if, else?
 
 Peer instruction after one hour
 
-**TALK ABOUT FINAL**
-
 
 
 ## Exercise 1 - switch and ternary
@@ -268,44 +266,119 @@ The presentation should be around 5-10 minutes. Have the presentation as you lik
 
 
 
-### Exercise 2
+## Exercise 1.1 
 
-Write a Java program to get a number from the user and print whether it is positive or negative.
+Read this method and figure out what it does (without a computer). 
 
+Try and 
 
+- Rename some of the variables
+- Figure out how to call it
+- Figure out how to assign the return value to a new variable. Then print that variable
 
-### Exercise 3
+```java
+public static boolean abc(String word) {
+    boolean a = false;
+    int b = word.length() - 1;
+    if (word.charAt(b) == 'n' && word.charAt(b-1) == 'a') {
+        a = true;
+    }
 
-Write a Java program that takes the user to provide a single  character from the alphabet. Print Vowel or Consonant, depending on the  user input. If the user input is not a letter (between a and z or A and  Z), or is a string of length > 1, print an error message.
-
-*Test Data*
-Input an alphabet: p
-*Expected Output* :
-Input letter is Consonant
-
-
-
-### Exercise 3.1
-
-Create a game where two players play against each other. 
-
-Each player has to guess what number (between 1 and 100) the other guessed and then input his real number. When both players have put in the expected number of the other and his number, write who won. 
-
+    return a;
+}
+```
 
 
-### Exercise 4
+
+### Exercise 2 - Level 1
+
+Write a method that accepts an array. If the array has more than 4 items the method should return `true` otherwise `false`. Fx
+
+```java
+String[] names = {"benjamin", "ahmad"};
+boolean arrayLargerThanFour = exercise2(names); // false
+```
+
+
+
+### Exercise 2.2 - Level 1
+
+Write a method that accepts a number. It should return  `true` if the number is positive but `false` if it is negative. 
+
+Now use the method you created.  
+
+- Get a number from a user (in the main method)
+- Use the method created above to pass in the number as an argument. 
+- Capture the return value into a variable and print that variable out!
+
+
+
+### Exercise 3 - Level 2
+
+Write a Java program that takes the user to provide a single  character from the alphabet. Print Vowel or Consonant, depending on the  user input. If the user input is not a letter (between a and z or A and  Z), or is a string of length > 1, print an error message. Fx: 
+
+```
+Input an alphabet: 
+p
+Input letter p is a consonant
+```
+
+
+
+### Exercise 6 - Level 2
+
+Write a program that accepts three numbers from the user and prints  "increasing" if the numbers are in increasing order, "decreasing" if the numbers are in decreasing order, and "Neither increasing or decreasing  order" otherwise.
+
+```
+Input first number: 
+1524 
+Input second number: 
+2345
+Input third number: 
+3321
+Increasing order
+```
+
+
+
+### Exercise 4 - Level 2
 
 A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years.
 Ask user for their salary and year of service and print the net bonus amount.
 
 
 
-### Exercise 3.1 - Kings Island
+### Exercise 3.1 - Level 3
+
+Create a game where two players play against each other. 
+
+Each player has to guess what number (between 1 and 100) the other person guessed. The person that guesses closest to the other persons guess wins. 
+
+When both players have put in the expected number of the other and his number, write who won. 
+
+```
+Player 1 what number do you think player 2 will guess?
+34
+Player 2 what number do you think player 1 will guess?
+56
+Player 1 what number will you guess?
+76
+Player 2 what number will you guess?
+95
+Player 1 was 61 off, player 2 was 20 off. 
+Player 2 wins 🏆
+```
+
+The players off course can not see each other guesses (maybe you can print a lot of new lines after each guess)
+
+
+
+### Exercise 3.1 - Kings Island - Level 3
 
 **Part one**
 
 King’s Island needs a program for its admission booths.  When visitors to the park come up to the booth to 
-purchase their tickets, the worker uses this program to figure out how much to charge them.   You will write 
+purchase their tickets, the worker uses this program to figure out how much to charge them. You will write 
 this program.  In the first version of the program, there is one ticket price of $30.00.  Senior citizens (age ≥ 65) are given a 
 50% discount.  Write this program as follows.  Import your Scanner.  Declare the needed variables (the person’s 
 age, the base price of a ticket ($30) and the price you will charge).  Input the user’s age, compute the price of 
@@ -334,11 +407,9 @@ get an additional 7.5% discount over their senior citizen discount.
 
 
 
+### Exercise 4 - Level 2
 
-
-### Exercise 4
-
-Write a program in Java to make such a pattern like below with a number which will repeat a number in a row.The pattern  is as follows: 
+Write a program in Java to make such a pattern like below with a number which will repeat a number in a row.The pattern is as follows: 
 
 ```
 1
@@ -351,13 +422,13 @@ Write a program in Java to make such a pattern like below with a number which wi
 
 ### Exercise 5
 
-Write a program in Java to display the pattern like a diamond
+Write a program in Java to display the pattern like a diamond. Fx
 
-*Test Data*
-Input number of rows (half of the diamond) : 7 
 *Expected Output* :
 
 ```
+Input number of rows (half of the diamond):
+7
       *                                                                          
      ***                                                                         
     *****                                                                        
@@ -372,22 +443,6 @@ Input number of rows (half of the diamond) : 7
      ***                                                                         
       *                     
  
-```
-
-
-
-### Exercise 6
-
-Write a program that accepts three numbers from the user and prints  "increasing" if the numbers are in increasing order, "decreasing" if the numbers are in decreasing order, and "Neither increasing or decreasing  order" otherwise.
-
-*Test Data*
-Input first number: 1524 
-Input second number: 2345
-Input third number: 3321
-*Expected Output* :
-
-```
-Increasing order
 ```
 
 
