@@ -2,7 +2,7 @@
 
 
 
-Read [problem solving](../../topics/introduction/problem-solving.md)
+Read [problem solving](../../topics/01 - introduction/problem-solving.md)
 
 Hvordan begynder man at løse problemer med kode.
 
