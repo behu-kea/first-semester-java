@@ -2,6 +2,12 @@
 
 https://www.youtube.com/watch?v=tJE-5nIOXKI
 
+We will today be creating a tamagotchi. A tamagotchi is a virtual pet that you can interact with. It was quite a big deal.
+
+
+
+
+
 Create a game that can spawn a `cat` or a `dog`. 
 
 

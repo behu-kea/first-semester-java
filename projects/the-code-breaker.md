@@ -8,6 +8,8 @@ Back in the day, like waaaaay back in the day the Romans had a problem. Getting 
 
 In this homework we will be working with how to decode and how to encode messages. 
 
+https://www.youtube.com/watch?v=Kf9KjCKmDcU
+
 
 
 ## Number cypher
@@ -51,6 +53,8 @@ System.out.println(helloEncoded); // hello
 ## Ceasar cypher
 
 https://www.youtube.com/watch?v=sMOZf4GN3oc
+
+https://www.youtube.com/watch?v=o6TPx1Co_wg
 
 
 
