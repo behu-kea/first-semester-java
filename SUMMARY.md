@@ -78,7 +78,8 @@
     - [Face creator 😀](projects/face-creator.md) 
     - [Methods project](projects/methods-project.md)
   - [Games project 🎲](projects/games-project.md)
-  - [Hangman.md 😵](projects/hangman.md) 
+  - [Hangman.md 😵](projects/hangman.md)
+  - [The code breaker 😵](projects/the-code-breaker.md) 
 - [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
