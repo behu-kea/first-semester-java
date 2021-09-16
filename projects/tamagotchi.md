@@ -13,7 +13,7 @@ A tamagotchi had to be kept alive. You could feed it, play with it, dress it etc
 We have to create 4 different classes
 
 1. `Game` - Class that initiates a game and takes user input
-2. `Tamagotchi` - Super class for creating tamagotchis
+2. `Tamagotchi` - Super class for  `Cat` and `Dog`
 3. `Cat` - A class that inherits from `Tamagotchi`
 4. `Dog` - A class that also inherits from `Tamagotchi`
 
@@ -25,11 +25,18 @@ This class can be seen as the "main" class. It takes data from a user and now cr
 
 
 
-
-
 ### `Tamagotchi` class
 
+Is the super class for `Cat` and `Dog`. 
 
+It has the following attributes
+
+- Name
+- Age
+- Mood
+- Energy
+- Hunger
+- 
 
 
 
@@ -40,6 +47,12 @@ This class can be seen as the "main" class. It takes data from a user and now cr
 Create a game that can spawn a `cat` or a `dog`. 
 
 
+
+
+
+## Optional tasks
+
+Get the name for each pet and use it somehow
 
 
 
