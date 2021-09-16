@@ -15,7 +15,15 @@ Hvordan begynder man at løse problemer med kode.
 
 
 
+Opgave 1:
 
+https://github.com/behu-kea/first-semester-java/blob/master/assets/Opgave%20-%20CardValueGuess.pdf
+
+
+
+Opgave 2:
+
+https://github.com/behu-kea/first-semester-java/blob/master/assets/Opgave%20-%20CardValueGuess.pdf
 
 
 
