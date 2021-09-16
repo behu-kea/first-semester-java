@@ -1,8 +1,8 @@
 # Monday
 
-Masser af gode rigtige interview spørgsmål her: https://www.byte-by-byte.com/choosing-practice-questions/
 
 
+Read [problem solving](../../topics/introduction/problem-solving.md)
 
 Hvordan begynder man at løse problemer med kode.
 
@@ -12,6 +12,24 @@ Hvordan begynder man at løse problemer med kode.
 
 
 ## Exercises
+
+
+
+Opgave 1:
+
+https://github.com/behu-kea/first-semester-java/blob/master/assets/Opgave%20-%20CardValueGuess.pdf
+
+
+
+Opgave 2:
+
+https://github.com/behu-kea/first-semester-java/blob/master/assets/Opgave%20-%20CardValueGuess.pdf
+
+
+
+<!--
+
+Masser af gode rigtige interview spørgsmål her: https://www.byte-by-byte.com/choosing-practice-questions/
 
 
 
@@ -120,3 +138,5 @@ Compress a string by shortening every repeated char to that char followed by the
 Implement fizz buzz in Java
 
 https://leetcode.com/problems/fizz-buzz/
+
+-->
