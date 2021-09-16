@@ -70,6 +70,8 @@
     -  [3-wednesday.md](lessons/week-09/3-wednesday.md)
     -  [4-thursday.md](lessons/week-09/4-thursday.md) 
     -  [5-friday.md](lessons/week-09/5-friday.md) 
+  - Week 43
+    -  [1-monday.md](lessons/week-10/1-monday.md) 
   - [TBA](/tba.md)
 - Projects 
   - [Processing 🖼](projects/processing.md)

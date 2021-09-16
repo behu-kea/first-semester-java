@@ -1,5 +1,3 @@
-
-
 # Face creator
 
 > The games studio Activition has contacted KEA to get the sharpest minds to work on a problem they have. Sadly DAT21B was not available therefore DAT21A has gotten the task. 
