@@ -30,3 +30,9 @@ public int[] getRandomIntegers(int n){
 - The method should follow the logic of binary search: https://www.youtube.com/watch?v=T98PIp4omUA
   - If the number is found - return the index position
   - if the number is not found return -1
+
+
+
+## Hangman
+
+Project Description: [hangman.md](../../projects/hangman.md)
