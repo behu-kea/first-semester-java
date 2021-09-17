@@ -59,7 +59,7 @@ Hmm okay that's not super nice. What if there were 200 students in the system, t
 
 
 
-Let's look at creating a student. What parameter could be relevant? What is the blueprint of a Student. 
+Let's look at creating a cat. What parameter could be relevant? What is the blueprint of a cat? 
 
 
 
@@ -89,9 +89,6 @@ Here we create a new class called `Cat` with 4 attributes: `name`, `mood`, `isHu
 **Cookies (objects/instance of Student)**
 
 ```java
-import java.util.Random;
-import java.util.Scanner;
-
 public class CatStarter {
     public static void main(String[] args) {
         Cat figaro = new Cat();
@@ -215,10 +212,6 @@ In IntelliJ there is a shortcut for generating the `toString` method automatical
 Cat figaro = new Cat("figaro", 5, true, 7);
 System.out.println(figaro); // Cat{name='figaro', mood=5, isHungry=true, energy=7}
 ```
-
-
-
-### `import` a class
 
 
 
