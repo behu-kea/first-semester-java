@@ -19,7 +19,7 @@
     - [Method overload](topics/04 - oop/method-overload.md)
     - [Enum](topics/04 - oop/enum)
     - [Class diagrams, sequence diagrams](topics/04 - oop/class-diagram.md)
-    - [Inheritance](topics/04 - oop/i)
+    - [Inheritance](topics/04 - oop/inheritance.md)
     - [Interfaces](topics/04 - oop/interfaces.md)
     - [4 pillars of OOP](topics/04 - oop/4-pillars-oop.md)
   - 06 - Algorithms & Data structure
