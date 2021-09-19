@@ -209,6 +209,53 @@ public class Main {
 
 
 
+
+
+## Relationships
+
+There are different relationships between objects. The replationships can help decide how we should structure our application. 
+
+
+
+### Is a
+
+The is a relationships is fx
+
+- An Apple is a fruit. So we could maybe have base class `fruit` and `apple` as child class
+- A Volvo is a car. So again a class `volvo` inherits from `Car`
+
+
+
+### Has a 
+
+This meant that a class references another class. Fx what if the a `Cat` has a favourite food that is another class?
+
+```java
+class Cat {
+    public String name;
+    public int mood;
+    public boolean isHungry;
+    public int energy;
+  	public Food favoriteFood;
+
+  public Cat(String name, int mood, boolean isHungry, int energy, Food favoriteFood) {
+      this.name = name;
+      this.mood = mood;
+      this.isHungry = isHungry;
+      this.energy = energy;
+    	this.favoriteFood = favoriteFood;
+  }
+
+  public void meow() {
+      System.out.println("meow");
+  }
+}
+```
+
+Now the cat **has a** favorite food. 
+
+
+
 ### Override
 
 In the example above there is a method called `generateNewPassword` it simply returns the same password for each user objects. So if a `user`, `PremiumUser` or `AdminUser` gets a new password they would get the same password. This is off course a problem. In a real world scenario the `generateNewPassword` off course would generate a new password. **But** let's use this as an opportunity to talk about overriding methods. 

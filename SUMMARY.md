@@ -15,6 +15,13 @@
     - [Boolean and Conditionals](topics/03 - programflow/conditionals-boolean.md)
     - [Debugging](topics/03 - programflow/debugging.md)
   - 04 - Object Oriented programming
+    - [Classes, objects, constructor](topics/04 - oop/classes.md)
+    - [Method overload](topics/04 - oop/method-overload.md)
+    - [Enum](topics/04 - oop/enum)
+    - [Class diagrams, sequence diagrams](topics/04 - oop/class-diagram.md)
+    - [Inheritance](topics/04 - oop/inheritance.md)
+    - [Interfaces](topics/04 - oop/interfaces.md)
+    - [4 pillars of OOP](topics/04 - oop/4-pillars-oop.md)
   - 06 - Algorithms & Data structure
     -  [reading-a-file.md](topics/06 - algorithms/reading-a-file.md)
     -  [searching.md](topics/06 - algorithms/searching.md) 
