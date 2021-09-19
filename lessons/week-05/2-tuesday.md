@@ -2,7 +2,7 @@
 
 #### Visual paradigm
 
-Going forward we will be drawing diagrams to design & document code. A professional tool to do that can be found here: 
+Going forward we will be drawing diagrams to design & document code. 
 
 Download visual paradigm and use the following academic license by following this guide:
 
