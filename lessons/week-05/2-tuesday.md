@@ -12,9 +12,9 @@ Download visual paradigm and use the following academic license by following thi
 
 #### Exercise 1 - Document program:
 
-- Finish the diagram such that it documents the Crypto Converter program
+- Finish the diagram such that it documents the Crypto Converter program:  [system-sequence-diagrams.md](../../topics/03 - programflow/system-sequence-diagrams.md)
 
-#### Exercise 2 - refactor code:
+#### Exercise 2 - Refactor code:
 
 - Implement error handling as a try/catch in your Crypto Converter
 - If the user enters input that does not contain numbers

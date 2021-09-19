@@ -8,11 +8,11 @@ This is why we will be walking through a tough set of requirements today - step 
 
 An approach to divide a problem into sub problems is the: Understand, plan, divide method: [problem-solving.md](../../topics/01 - introduction/problem-solving.md) 
 
+<!--
+
 In this lecture we will be applying: Understand, plan & divide into a programming context.
 
 https://github.com/behu-kea/first-semester-java/blob/master/assets/Opgave%20-%20CardValueGuess.pdf
-
-<!--
 
 ## Exercises
 
