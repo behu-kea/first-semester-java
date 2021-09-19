@@ -38,7 +38,7 @@ private void add(E e, Object[] elementData, int s) {
 
 ## The task
 
-The task is to implement the functionality of **either** a Stack or Queue data structure. The interface are already defined, you should pick one of the two and implement the data structure. The Stack or Queue should rely on an array as their internal data structure.
+The task is to implement the functionality of **either** a Stack or Queue data structure for storing cat objects. The interface are already defined, you should pick one of the two and implement the data structure. The Stack or Queue should rely on an array as their internal data structure.
 
 For the basic requirements to be fulfilled, the stack or queue should contain *n* data-members decided at object initialization - as a parameter in the constructor.
 
@@ -48,9 +48,7 @@ Implement a resizeable Stack or Queue with a circular array as described in:
 
 https://youtu.be/8sjFA-IX-Wwa
 
-#### The interfaces
-
-The starting point can be forked from: 
+#### The interfaces & Starting point
 
 ###### ArrayCatQueue
 

@@ -6,55 +6,19 @@ Software development & programming consists mainly of two parts - understanding 
 
 This is why we will be walking through a tough set of requirements today - step by step - and engineer a solution to match. To solve any problem of a certain complexity, it is required to divide the problem into smaller sub-problems and engineer solutions for that. In the end, the sum of solutions to the sub-problems will solve the larger scale problem. 
 
-As a novice programmer getting stuck on a problem is the norm. Getting stuck is both frustrating & discouraging:
+An approach to divide a problem into sub problems is the: Understand, plan, divide method: [problem-solving.md](../../topics/01 - introduction/problem-solving.md) 
 
-> Every student struggles. When they try to guess what will be the hardest parts of their journey, they usually describe configuring servers, learning how memory works, or writing code to save information.
->
-> But the hardest part is less technical and more psychological.
->
-> The hardest part is *getting unstuck*.
->
-> The experience of encountering annoying and unexpected problems is a daily occurrence for software developers, and a lot of beginners are simply not aware of these challenges that will arise.
->
-> Without the right mentality, a regular barrage of difficult and surprising problems can make learning how to code frustrating. Some developers even start to doubt their own abilities, which can feed into impostor syndrome.
->
-> Books, online tutorials, and group classroom-style training don't teach as effectively as mentorship. These resources cannot tailor an individual student's learning. They don't teach students how to ask the right questions or how to break down complex problems and think about them in different ways. And they aren't good at keeping students on track, accountable, and motivated.
->
-> The Internet has some wonderful resources for getting started on this skill yourself. Read about the most effective way to improve programming skills on Programmers Stack Exchange. Quora discusses the appropriate length of time to be stuck on a problem.
->
-> **1.** **Write your question down succinctly**
->
-> Describe your MCVE. An MCVE attempts to reproduce the problem in the smallest amount of code possible. This helps isolate the cause, and narrow down exactly what you're trying to solve. Oftentimes, just understanding what *is* the exact problem is the biggest step toward getting unstuck.
->
-> **2.** **Describe the problem aloud**
->
-> It's so easy to get stuck in your head when you're programming. Sometimes, simply talking out your problem will help you think more clearly, and find a logical solution. It frees up your brain, and can be the simple solution to getting unstuck.
->
-> **3.** **Search and post on Stack Overflow**
->
-> Stack Overflow is a developer's best friend. More likely, your question has been asked and answered on the site, so make sure to do a quick search before getting too hard on yourself. Everyone gets stuck, and Stack Overflow proves it. If you're looking for something more hands on, I recommend Bloc's online coding bootcamp.Their camps are an amazing way to work with a world-class curriculum and 1-on-1 with an mentor that'll help teach you how to get unstuck, and techniques for becoming a more thoughtful programmer.
->
-> **4. Take a break!**
->
-> Often, stepping away from your monitor and freeing your thoughts will bring you new perspectives on how to solve a problem. This is especially true when coding. Get your mind away from the issue by going for a walk or participating in an unrelated activity.
->
->  A.J Agrawal, CEO of Verma Media & Alumnify
-
-
-
-## Exercises
-
-Opgave 1:
+In this lecture we will be applying: Understand, plan & divide into a programming context.
 
 https://github.com/behu-kea/first-semester-java/blob/master/assets/Opgave%20-%20CardValueGuess.pdf
+
+<!--
+
+## Exercises
 
 Opgave 2:
 
 https://github.com/behu-kea/first-semester-java/blob/master/assets/Opgave%20-%20CardValueGuess.pdf
-
-
-
-<!--
 
 Masser af gode rigtige interview spørgsmål her: https://www.byte-by-byte.com/choosing-practice-questions/
 
