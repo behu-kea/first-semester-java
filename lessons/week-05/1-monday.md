@@ -46,7 +46,7 @@ As a novice programmer getting stuck on a problem is the norm. Getting stuck is 
 
 Opgave 1:
 
-https://github.com/behu-kea/first-semester-java/blob/master/assets/Opgave%20-%20CardValueGuess.pdf
+https://github.com/behu-kea/first-semester-java/blob/master/assets/Opgave%20-%20DiceGuess.pdf
 
 Opgave 2:
 
