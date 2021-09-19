@@ -8,7 +8,7 @@ This is why we will be walking through a tough set of requirements today - step 
 
 As a novice programmer getting stuck on a problem is the norm. Getting stuck is both frustrating & discouraging:
 
-###### **The curious case of FizzBuzz**
+##### **The curious case of FizzBuzz**
 
 ![image-20210919165929655](1-monday.assets/image-20210919165929655.png)
 
