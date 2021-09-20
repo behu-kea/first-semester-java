@@ -50,7 +50,7 @@ Source: http://www.imranghory.org/
 
 ### Dice Guess
 
-Todays project-challenge is the game of dice-guess. In this game, the computer will roll an imaginary dice & the user will be guessing whether the dice is even or odd.
+Todays project is the game of dice-guess. In this game, the computer will roll an imaginary dice & the user will be guessing whether the dice is even or odd.
 
 In your study groups:
 
