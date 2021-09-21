@@ -37,3 +37,7 @@ isValidInput receives two parameters: String cpr & String password.
 
 - If cpr does not adhere to a valid cpr number - the method will throw a new InputMismatchException
 - If InputMismatchException is thrown - the program will inform the user and request another input
+
+#### Extra Extra Credit: Google Interview question
+
+Ask in class if you want a challenge Google uses in their interview process
