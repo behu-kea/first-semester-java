@@ -27,16 +27,14 @@ This class can be seen as the "main" class. It takes data from a user and now cr
 
 ### `Tamagotchi` class
 
-Is the super class for `Cat` and `Dog`. 
+Is the super class for `Cat` and `Dog`. It contains the more general characteristics of `Cat` and `Dog`
 
-It has the following attributes
+It couldhave some of the following attributes
 
-- Name
-- Age
-- Mood
-- Energy
-- Hunger
-- 
+- `name`
+- `age`
+- `mood`
+- `energy`
 
 
 
