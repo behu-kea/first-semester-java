@@ -35,22 +35,60 @@ It couldhave some of the following attributes
 - `age`
 - `mood`
 - `energy`
+- ...
 
 
 
-### 
+And some of the following methods
+
+- `play()`
+- `feed()`
+- `sleep(6)`
+- ...
 
 
 
-Create a game that can spawn a `cat` or a `dog`. 
 
 
+### `Cat` and `Dog`
+
+The `Cat` and `Dog` should extend `Tamagotchi`!
+
+You come up with what attributes and methods relevant for a `Cat` and a `Dog`
+
+Fx a `Dog` could maybe `bark()`. It's up to you
+
+One requirement is that both `Cat` and `Dog` should at some point `override` a method from `Tamagotchi`!
+
+
+
+## Your task
+
+Your task is now to create a Tamagotchi that is fun to play with using the above requirements! Create a new game object using the `Game` class that can spawn a `cat` or a `dog` or both
+
+
+
+## Requirements
+
+- `Game` class
+- `Tamagotchi` class
+- `Cat` and `Dog` classes that extends `Tamagotchi`
+- In the `Cat` and `Dog` classes there should be at least one override method
+- Draw a class diagram of all you classes and create a sequence diagram of one specific use case
 
 
 
 ## Optional tasks
 
-Get the name for each pet and use it somehow
+- Get the name for each pet from the user and use it somehow. Maybe you can get other input from the user
+- Make the pet objects interact with each other
+- Create more class that just `Cat` and `Dog`
+- Make it possible for time to pass in the game! Fx if a pet has not gotten food in some time it becomes hungry. You could fx do that by in the `Game` class creating a `tick` method that simulates that time has elapsed. This `tick` method can then be called each second that then affects the pets stats
+- Your idea here!
+
+
+
+
 
 
 
