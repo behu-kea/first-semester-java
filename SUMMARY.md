@@ -14,6 +14,7 @@
     - [Array](topics/03 - programflow/array.md)
     - [Boolean and Conditionals](topics/03 - programflow/conditionals-boolean.md)
     - [Debugging](topics/03 - programflow/debugging.md)
+    - [system-sequence-diagrams.md](topics/03 - programflow/system-sequence-diagrams.md) 
   - 04 - Object Oriented programming
     - [Classes, objects, constructor](topics/04 - oop/classes.md)
     - [Method overload](topics/04 - oop/method-overload.md)
