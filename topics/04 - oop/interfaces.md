@@ -34,7 +34,7 @@ class Car implements GameObject {
   @Override
   public boolean draw(Canvas canvas) {
     canvas.drawCircle(); // wheel one
-   	canvas.drawCircle(); // wheel two
+    canvas.drawCircle(); // wheel two
     // etc
     return carHasBeenDrawn; // true
   }
