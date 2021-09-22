@@ -86,6 +86,17 @@ Go [here](https://www.dcode.fr/caesar-cipher) to test if your Ceasar cypher code
 
 
 
+### *Optional*
+
+Change the direction and the number of characters to shift!
+
+Optimize the decoder and encoder functions so the direction and number of characters to shift can be put as arguments to the functions:
+
+```java
+String helloEncodedCeasar = ceasarEncoder("hello", "left", 13);
+String somewordDecodedCeasar = ceasarDecoder("someword", "left", 13);
+```
+
 
 
 # Vigenère cipher - Advanced level *optional*
