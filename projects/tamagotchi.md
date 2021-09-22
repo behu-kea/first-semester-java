@@ -52,8 +52,6 @@ And some of the following methods
 
 
 
-
-
 ### `Cat` and `Dog`
 
 The `Cat` and `Dog` should extend `Tamagotchi`!
@@ -78,15 +76,16 @@ One requirement is that both `Cat` and `Dog` should at some point `override` a m
 
 ## Your task
 
+A user should be able to create either a `Cat` or a `Dog` with a name. That pet will then be created with random values. 
+
 Your task is now to create a Tamagotchi that is fun to play with using the above requirements! Create a new game object using the `Game` class that can spawn a `cat`, a `dog` or both
 
 
 
 ## Optional tasks
 
-- Get the name for each pet from the user and use it somehow. Maybe you can get other input from the user
 - Make the pet objects interact with each other
-- Create more class that just `Cat` and `Dog`
+- Create more pets than just `Cat` and `Dog`
 - Make it possible for time to pass in the game! Fx if a pet has not gotten food in some time it becomes hungry. You could fx do that by in the `Game` class creating a `tick` method that simulates that time has elapsed. This `tick` method can then be called each second that then affects the pets stats
 - Your idea here!
 
