@@ -6,7 +6,7 @@ Let's take an example from the game development world: We want to create game ob
 
 ```java
 interface GameObject {
-	void move();
+  void move();
   boolean draw(Canvas canvas);
 }
 ```
