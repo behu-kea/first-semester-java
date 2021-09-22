@@ -87,7 +87,7 @@
 - Projects 
   - [Processing 🖼](projects/processing.md)
   - [Crypto converter 📊](projects/crypto-converter.md)
-  - Methods project
+  - Methods project 📠
     - [Face creator 😀](projects/face-creator.md) 
     - [Methods project](projects/methods-project.md)
   - [Games project 🎲](projects/games-project.md)
