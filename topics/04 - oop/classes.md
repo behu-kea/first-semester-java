@@ -1,5 +1,11 @@
 # Classes
 
+Watch this video as support 👇
+
+https://youtu.be/QfIAWFebDjE
+
+
+
 You have now learned all the necessary building blocks of Java. `String`, `int`, `forloop`, `methods`, `conditional` these are all blocks that we need to build Java. **But** in order to write code that is 
 
 - Better structured

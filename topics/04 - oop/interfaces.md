@@ -1,5 +1,11 @@
 # Interfaces
 
+Watch this video as support 👇
+
+https://youtu.be/yk0e6R3RcDo
+
+
+
 An interface is a contract of what a class should look like when it will be created. It will tell what methods should be in a class, their and and their return type. You can see it as a specification or a contract of what a class should contain
 
 Let's take an example from the game development world: We want to create game objects that can be moved around and drawn. Obviously depending on what you draw or what you move the implementation will be different. A car moves and draws differently than a player. 

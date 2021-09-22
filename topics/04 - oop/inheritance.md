@@ -1,5 +1,11 @@
 # Inheritance
 
+Watch this video as support 👇
+
+https://youtu.be/yXzoxxIYfgQ
+
+
+
 
 
 ## 4 pillars of OOP inheritance
