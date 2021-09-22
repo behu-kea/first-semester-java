@@ -20,7 +20,7 @@ Here we have defined an `interface` called `GameObject`. When a class `implement
 
 ## Let's implement two different classes using the interface
 
-When implementing an interface we use the `@override` annotation
+When implementing an interface we use the `implements` keyword, not `extends`! Another thing to note is that we use the `@override` annotation. This is used to show that we over
 
 ```java
 class Car implements GameObject {
@@ -73,9 +73,9 @@ The two classes `Car` and `Player` both adhere to the interface. That means they
 
 ## Abstract class
 
-An abstract class is a class that can not be instantiated! 
+An abstract class is a class that can not be instantiated! Let's take an example with `Animal`. Animal is an abstract category. making a `new Animal` does not make sense. Because we want animals like `Elephant`, `Cat` or `Dog`. You have to be a specific animal and not just an `Animal`. In this case we can use abstract classes because instantiating `Animal` does not make sense.
 
-It can contain both attributes and method with the method implementation. But no instantiation!
+Abstract classes can contain both attributes and method with the method implementation. But no instantiation!
 
 ```java
 abstract class Animal {
@@ -114,48 +114,4 @@ elephant.animalSound(); //Elephant sounds
 elephant.sleep(); //Zzz
 ```
 
-
-
-## Static keyword
-
-Static variables can be accessed using just the class name. No need to instantiate the class! Static variables are shared among all instances of a class. 
-
-Example is fx the `String.format` method
-
-Typically refers to common property
-
-Cannot reach `this`!
-
-
-
-### When to use static?
-
-- `main` method must be static
-- When you want to have a variable that describes something about the class itself, not the individual objects of that class
-- When you want to have a variable that *always* has the same value for *every* object of the class, forever and ever.
-- If you have a method that does not use any instance variables or instance methods, you should *probably* make it `static`
-
-
-
-```java
-public class Elephant extends Animal {
-  	public static String animalName = "Elephant";
-    @Override
-    public void animalSound() {
-				System.out.println("Elephant sounds");
-    }
-}
-```
-
-
-
-```java
-System.out.println(Elephant.animalName); // Elephant
-```
-
-No need for instantiating the `Elephant` class. `animalName` is available on the class itself 😱
-
-
-
-## Exercises
 
