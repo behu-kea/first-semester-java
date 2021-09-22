@@ -13,7 +13,7 @@ interface GameObject {
 
 Here we have defined an `interface` called `GameObject`. When a class `implements` this interface it should have two methods
 
-1. One called `move` that should return a `int`.
+1. One called `move` that should not return anything.
 2. One called `draw` that should return a `boolean`.
 
 
@@ -27,7 +27,7 @@ class Car implements GameObject {
   private double speed = 0;
 
   @Override
-	public void move() {
+  public void move() {
     this.speed = this.speed + 100; // a car moves quick
   }
   
@@ -48,7 +48,7 @@ class Player implements GameObject {
   private double speed = 0;
   
   @Override
-	public void move() {
+  public void move() {
     this.speed = this.speed + 10; // a player moves slow
   }
   
