@@ -18,7 +18,7 @@
   - 04 - Object Oriented programming
     - [Classes, objects, constructor](topics/04 - oop/classes.md)
     - [Method overload](topics/04 - oop/method-overload.md)
-    - [Enum](topics/04 - oop/enum)
+    - [Enum](topics/04 - oop/enum.md)
     - [Class diagrams, sequence diagrams](topics/04 - oop/class-diagram.md)
     - [Inheritance](topics/04 - oop/inheritance.md)
     - [Interfaces](topics/04 - oop/interfaces.md)
