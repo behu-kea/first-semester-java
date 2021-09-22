@@ -8,6 +8,10 @@ A tamagotchi had to be kept alive. You could feed it, play with it, dress it etc
 
 
 
+![Tamagotchi](https://assets.partyking.org/img/products/1300/tamagotchi-original-1.jpg)
+
+
+
 ## Tamagotchi details
 
 We have to create 4 different classes
@@ -54,17 +58,11 @@ And some of the following methods
 
 The `Cat` and `Dog` should extend `Tamagotchi`!
 
-You come up with what attributes and methods relevant for a `Cat` and a `Dog`
+You come up with what attributes and methods (plus parameters) relevant for a `Cat` and a `Dog`
 
 Fx a `Dog` could maybe `bark()`. It's up to you
 
 One requirement is that both `Cat` and `Dog` should at some point `override` a method from `Tamagotchi`!
-
-
-
-## Your task
-
-Your task is now to create a Tamagotchi that is fun to play with using the above requirements! Create a new game object using the `Game` class that can spawn a `cat` or a `dog` or both
 
 
 
@@ -74,7 +72,13 @@ Your task is now to create a Tamagotchi that is fun to play with using the above
 - `Tamagotchi` class
 - `Cat` and `Dog` classes that extends `Tamagotchi`
 - In the `Cat` and `Dog` classes there should be at least one override method
-- Draw a class diagram of all you classes and create a sequence diagram of one specific use case
+- Draw a class diagram of all your classes and create a sequence diagram of one specific use case
+
+
+
+## Your task
+
+Your task is now to create a Tamagotchi that is fun to play with using the above requirements! Create a new game object using the `Game` class that can spawn a `cat`, a `dog` or both
 
 
 
@@ -88,19 +92,5 @@ Your task is now to create a Tamagotchi that is fun to play with using the above
 
 
 
-
-
-
-
-https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=789203
-
-
-
-Lav en opgave om Klasser, objekter, nedarvning, klassediagrammer og sekvensdiagrammer
-
-Catmagocci use that!
-
-https://assignment.itslearning.com/Annotations/AnnotationApp.aspx?AnnotationAccessArea=1&AnnotationOfUserId=0&IsReadOnly=True&LearningObjectId=230496988&LearningObjectInstanceId=330305439&MobileBrowser=NotDefined&SourceUniqueId=aacd5059-4ca8-44f1-a3f2-7793af6da5ae&UserId=149582647&ViewUniqueId=aacd5059-4ca8-44f1-a3f2-7793af6da5ae
-
-Tick
+## Handin
 
