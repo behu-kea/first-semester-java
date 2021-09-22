@@ -22,20 +22,16 @@ Cannot reach `this`!
 
 
 ```java
-public class Elephant extends Animal {
-  	public static String animalName = "Elephant";
-    @Override
-    public void animalSound() {
-				System.out.println("Elephant sounds");
-    }
+public class Student {
+  public static String schoolName = "KEA";
 }
 ```
 
 
 
 ```java
-System.out.println(Elephant.animalName); // Elephant
+System.out.println(Student.schoolName); // KEA
 ```
 
-No need for instantiating the `Elephant` class. `animalName` is available on the class itself 😱
+No need for instantiating the `Student` class. `schoolName` is available on the class itself 😱
 
