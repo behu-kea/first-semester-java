@@ -99,10 +99,10 @@ We have to use it like this:
 
 ````java
 public class Elephant extends Animal {
-    @Override
-    public void animalSound() {
-				System.out.println("Elephant sounds");
-    }
+  @Override
+  public void animalSound() {
+    System.out.println("Elephant sounds");
+  }
 }
 ````
 
