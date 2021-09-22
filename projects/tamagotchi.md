@@ -94,3 +94,17 @@ Your task is now to create a Tamagotchi that is fun to play with using the above
 
 ## Handin
 
+Hand in on fronter here: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=927870
+
+Hand in via git!
+
+
+
+## Handin checklist
+
+- Have you tested that the code works?
+- Have you written comments to the code?
+- Have you thought of a good structure?
+- Is the code easy to understand and read?
+- Does the variablename make sense?
+- Are the methods not too big
