@@ -101,7 +101,7 @@ What would you now like to do?
 3 - sleep
 1
 
-Miaui McLickALot is running af a ball, now her energy went down 1 and her hunger went up 1
+Miaui McLickALot is running afters a ball, now her energy went down 1 and her hunger went up 1
 What would you now like to do?
 1 - play
 2 - feed
