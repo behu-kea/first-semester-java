@@ -56,7 +56,11 @@ Aggregation implies that two classes are associated, it brings in more details r
 
 Dependency relationship implies that two elements are dependent on each other. It is used to reflect that one class **interacts with another one**, receives an instance this class as a **method parameter**. Compared to Association, Dependency relationship is weaker.
 
-![img](https://miro.medium.com/max/1162/1*lzJ5w5EqgdM07-5L4Mbq4A.png)
+![img](../../assets/arrows-dependency.png)
+
+
+
+
 
 
 
