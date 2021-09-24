@@ -30,7 +30,7 @@ An Association reflects relation between two classes. Use Association arrow when
 
 ### Inheritance
 
-Use Inheritance when you want to show that one class inherits from another one.
+Use Inheritance when you want to show that one class inherits from another one. Forms a is-a relationship.
 
 ![img](../../assets/arrows-inheritance.png)
 
@@ -40,6 +40,10 @@ Use Inheritance when you want to show that one class inherits from another one.
 
 Composition implies that two classes are associated and it adds the following details: within a Composition sub-objects are **strongly dependent** on a whole. Objects of the types are **instantiated together** and have **common lifecycle**.
 
+A human needs a heart to live and a heart needs a human body to function  on. In other words when the classes (entities) are dependent on each  other and their life span are same (if one dies then another one too)  then its a composition.
+
+
+
 ![img](../../assets/arrows-composition.png)
 
 
@@ -47,6 +51,8 @@ Composition implies that two classes are associated and it adds the following de
 ### Aggregation
 
 Aggregation implies that two classes are associated, it brings in more details regarding the nature of the relationship: the **child can exist independently** of the parent.
+
+The best way to understand this relationship is to call it a “has a” or  “is part of” relationship. For example, consider the two classes: Wallet and Money. A wallet “has” money. But money doesn’t neccessarily need to have a wallet so it’s a one directional relationship.
 
 ![img](../../assets/arrows-aggregation.png)
 
