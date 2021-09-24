@@ -8,7 +8,7 @@ A tamagotchi had to be kept alive. You could feed it, play with it, dress it etc
 
 
 
-![Tamagotchi](https://assets.partyking.org/img/products/1300/tamagotchi-original-1.jpg)
+![T](https://assets.partyking.org/img/products/1300/tamagotchi-original-1.jpg)
 
 
 
@@ -31,19 +31,19 @@ This class can be seen as the "main" class. It takes data from a user and now cr
 
 ### `Tamagotchi` class
 
-Is the super class for `Cat` and `Dog`. It contains the more general characteristics of `Cat` and `Dog`
+Is the super class for `Cat` and `Dog`. It contains the more general characteristics of `Cat` and ``
 
-It couldhave some of the following attributes
+It **could** have some of the following attributes
 
 - `name`
-- `age`
-- `mood`
+- age
+- `ood
 - `energy`
-- ...
+- .
 
 
 
-And some of the following methods
+And it **could** have some of the following methods. But its up to you!
 
 - `play()`
 - `feed()`
@@ -56,7 +56,7 @@ And some of the following methods
 
 The `Cat` and `Dog` should extend `Tamagotchi`!
 
-You come up with what attributes and methods (plus parameters) relevant for a `Cat` and a `Dog`
+You come up with what attributes and methods (p) relevant for a `Cat` and a `Dog`
 
 Fx a `Dog` could maybe `bark()`. It's up to you
 
@@ -106,4 +106,4 @@ Hand in via git!
 - Have you thought of a good structure?
 - Is the code easy to understand and read?
 - Does the variablename make sense?
-- Are the methods not too big
+- Are the methods n
