@@ -82,6 +82,47 @@ Your task is now to create a Tamagotchi that is fun to play with using the above
 
 
 
+## Example
+
+```
+Hello, would you like to create a dog or a cat? Press 1 for dog and 2 for cat
+1
+
+Ahh you would like to create a cat, what should the name of the cat be?
+Miaui McLickALot
+
+Okay, here is you cat Miaui McLickALot
+ /\_/\
+( o.o )
+ > ^ <
+What would you now like to do?
+1 - play
+2 - feed
+3 - sleep
+1
+
+Miaui McLickALot is running af a ball, now her energy went down 1 and her hunger went up 1
+What would you now like to do?
+1 - play
+2 - feed
+3 - sleep
+3
+
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_)  
+Miaui McLickALot now has full energy!
+What would you now like to do?
+1 - play
+2 - feed
+3 - sleep
+```
+
+This is just an example please come up with your own virtual pet 😸
+
+
+
 ## Optional tasks
 
 - Make the pet objects interact with each other
