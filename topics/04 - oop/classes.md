@@ -243,23 +243,20 @@ Now call the method on the two dog objects.
 
 ### Exercise 2 - Lampeopgave 
 
-1. Skriv en klasse der hedder Lampe. 
-
-2. En lampe har en boolean instansvariabel der angiver om den er tændt eller slukket. 
-
-3. Når man laver et nyt lampe-objekt skal der være en konstruktør hvor man kan vælge om lampen som udgangspunkt er tændt eller slukket, samt en tom konstruktør hvor lampen som udgangspunkt er slukket (dette kaldes  ”overload” af konstruktøren). 
-
-4. Skriv en metode der hedder `turnOn`, som tænder lampen hvis den er slukket, og slukker lampen hvis den er tændt. 
-
-5. Lav en klasse (du kan fx kalde den `Room`) med en main-metode hvor du  instantierer forskellige lampeobjekter (skrivebordslampe, sengelampe el. lign.) og tester om de virker som de skal. 
-
-6. Lav en static variabel i Lampe-klassen som tæller hvor mange lamper der er lavet
+1. Skriv en klasse der hedder `Lamp`. 
+2. `Lamp` har en boolean instansvariabel der angiver om den er tændt eller slukket. 
+3. Når man laver et nyt `lamp`-objekt skal der være en constructor hvor man kan vælge om lampen som udgangspunkt er tændt eller slukket
+4. Skriv en metode der hedder `toggleLight`, som tænder lampen hvis den er slukket, og slukker lampen hvis den er tændt. 
+5. Lav en klasse (du kan fx kalde den `Room`) med en main-metode hvor du instantierer forskellige lampeobjekter (skrivebordslampe, sengelampe el. lign.) og tester om de virker som de skal. 
+6. Lav en attribut i `Lamp` der holder øje med hvor mange gange lamp er blevet togglet
+7. Lav en metode der returnerer antal gange lampen er togglet.
+8. Lav en static variabel i `Lamp`-klassen som tæller hvor mange lamper der er lavet
 
 
 
 ### Exercise 3
 
-Create a `DogFarm` class that creates and returns `Dog` objects with data inputtet from the user.
+Create a `DogFarm` class that creates and returns `Dog` objects with data input from the user.
 
 The maximum / minimum of mood, energy & hunger is 10 / 0
 
