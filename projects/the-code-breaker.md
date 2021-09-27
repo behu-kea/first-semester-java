@@ -129,12 +129,6 @@ Write an encoder and a decoder for the Enigma cypher.
 
 
 
-
-
-
-
-
-
 ## Handin
 
 Hand in on fronter here: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=929446
