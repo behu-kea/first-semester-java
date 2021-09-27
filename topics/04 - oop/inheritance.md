@@ -363,7 +363,7 @@ method.
 
 ### Exercise 2
 
-First create a `Person` class. A person class tracks age and name of a person
+First create a `Person` class. A Person class tracks age and name of a person
 
 Now create a 
 
