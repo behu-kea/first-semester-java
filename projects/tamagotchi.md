@@ -147,4 +147,3 @@ Hand in via git!
 - Have you thought of a good structure?
 - Is the code easy to understand and read?
 - Does the variablename make sense?
-- Are the methods n

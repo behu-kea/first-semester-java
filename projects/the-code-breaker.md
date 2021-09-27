@@ -127,3 +127,29 @@ Du kan teste om det du har skrevet virker med den her side: https://cryptii.com/
 
 Write an encoder and a decoder for the Enigma cypher. 
 
+
+
+
+
+
+
+
+
+## Handin
+
+Hand in on fronter here: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=929446
+
+Hand in via git!
+
+
+
+## Handin checklist
+
+- Have you tested that the code works?
+- Have you written comments to the code?
+- Have you thought of a good structure?
+- Is the code easy to understand and read?
+- Does the variablename make sense?
+
+
+
