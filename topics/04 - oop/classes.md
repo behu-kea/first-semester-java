@@ -251,7 +251,13 @@ Create the classes *Car* and *Driver*. The functionality of the methods does not
 
 ### Exercise 1.2 - level 1
 
-Create a class called Employee that includes three pieces of information as instance variables - a first name, a last name and a monthly salary (double). Your class should have a constructor that initializes the three instance variables. If the monthly 
+Create a class called Employee that includes three pieces of information as instance variables 
+
+- A first name
+- A last name
+- A monthly salary (double).
+
+Your class should have a constructor that initializes the three instance variables. If the monthly 
 salary is not positive, set it to 0.0. Create two Employee objects and display each object’s yearly salary. Then give each 
 Employee a 10% raise and display each Employee’s yearly salary again.
 
@@ -272,11 +278,13 @@ Employee a 10% raise and display each Employee’s yearly salary again.
 
 ### Exercise 3 - level 2
 
-Create a `DogFarm` class that creates and returns `Dog` objects with data input from the user.
+Create a `DogFarm` class that has a method that creates and returns `Dog` objects with data input from the user.
 
 The maximum / minimum of mood, energy & hunger is 10 / 0
 
 If a method that raises an attribute to more / less than 10 / 0 - The attribute do not change, but prints out - Cat is at max / min [mood/energy/hunger]
+
+In the main method. Initiate a `DogFarm` object now create a couple of dogs using. 
 
 
 
