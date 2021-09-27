@@ -8,11 +8,11 @@ public class Main {
         printMessage();
 */
         Student samuelStudent = new Student("samuel", 22);
-        //System.out.println(samuelStudent.getName());
-
+        System.out.println(samuelStudent);
+        System.out.println(samuelStudent.lol);
         Admin jensNedeFraItKælderen = new Admin();
         //System.out.println(jensNedeFraItKælderen.createNewStudent());
-
+/*
         Coffee arabicCoffee =  new Coffee("Arabic", 12, CoffeeColor.DARK);
         System.out.println(arabicCoffee);
         arabicCoffee.buyCoffee();
