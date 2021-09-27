@@ -359,3 +359,14 @@ method.
 - Create a `Truck` instance
 - Create an instance of `Car` class and initialize all the fields with appropriate values. Display the sale prices of all instance.
 
+
+
+### Exercise 2
+
+First create a `Person` class. A person class tracks age and name of a person
+
+Now create a 
+
+Employee inherits from Person
+
+Person
