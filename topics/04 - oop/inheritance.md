@@ -302,6 +302,25 @@ Now at least the individual child classes have their own `generateNewPassword` m
 
 ### Exercise 1
 
+Create a `Garment` class. A `Garment` can have a `price` and a `name`. 
+
+Add some specific garment classes like fx `Trousers`. `Trousers` can fx have a `length`, `color` etc. 
+
+In a `main` method create a couple of garments and print their value
+
+
+
+### Exercise 2
+
+Create a new class called `Computer`. Before you add any more code, know that you will need to add two additional classes: `Laptop` and `SmartPhone`. 
+
+1. For a parent class add 3 properties, 2 methods, and a constructor.
+2. For a child class add *at least* 1 additional property and 1 additional method.
+
+
+
+### Exercise 3
+
 #### `Car`
 
 Create a super class called `Car`. The `Car` class has the following fields and methods. 
@@ -340,7 +359,7 @@ If a `manufacturerDiscount` is set then the salesPrice will be that much cheaper
 
 Create a subclass of `Car` class and name it as `Sedan`. The `Sedan` class has the following fields and methods. 
 
-- `length` 
+- `length`
 - `getSalePrice()`
 
 If the `length` is more than 20 meters then 5% discount otherwise 10% discount
@@ -361,12 +380,30 @@ method.
 
 
 
-### Exercise 2
 
-First create a `Person` class. A Person class tracks age and name of a person
 
-Now create a 
+### Exercise 4
 
-Employee inherits from Person
+We have to create the classes for a School. 
 
-Person
+This school have different employees 👇
+
+- Teacher
+- Janitor
+- Headmaster
+- It admin
+
+There are also classes. A class can have a list of students and a name. 
+
+A school can have a list of classes and a list of employees.
+
+Try and think about the different classes you would need to solve this problem. First write the plan down. 
+
+When you have a plan start writing the actual classes to solve this problem. 
+
+The functionality insinde the methods is not important, but the classes and the class structure is!
+
+For the employees, make a parent class. Think about what sepcific attributes you would have for the different roles
+
+
+
