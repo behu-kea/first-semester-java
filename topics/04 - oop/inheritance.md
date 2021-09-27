@@ -196,8 +196,6 @@ It is possible to write `super.generateNewPassword()` because `super` simply ref
 
 
 
-
-
 ### Let's use the new inherited classes!
 
 ```java
@@ -212,8 +210,6 @@ public class Main {
     }
 }
 ```
-
-
 
 
 
@@ -302,12 +298,64 @@ Now at least the individual child classes have their own `generateNewPassword` m
 
 ## Exercises
 
-Write  an  abstract  class  called  ”Animal”.   An  animal  has  3  attributes:  `name`, `nrOfLegs`  & ` isMammal`.  Animals  can  also  produce  sounds  (represented  as  astring of the sound), and every animal produces a unique sound.
-
-Create 3 animal classes that all extends the abstract Animal class and overridesthe method produces their unique sound.
-
-Create an array, add your animals to the list and print every animals sound
 
 
+### Exercise 1
 
-![CleanShot 2021-09-09 at 14.58.34@2x](../../assets/inheritance-exercises.png)
+#### `Car`
+
+Create a super class called `Car`. The `Car` class has the following fields and methods. 
+
+- `speed`
+- `regularPrice`
+- `color`
+- `getSalePrice()`
+
+
+
+#### `Truck`
+
+Create a sub class of `Car` class and name it as `Truck`. The `Truck` class has the following fields and methods. 
+
+- `weight`
+- `getSalePrice()`
+
+If the weight of a `Truck` is more than 2000 kg then there is a discount of 10% otherwise 20%
+
+
+
+#### `Ford`
+
+Create a subclass of `Car` class and name it as `Ford`. The `Ford` class has the following fields and methods 
+
+- `year`
+- `manufacturerDiscount`
+- `getSalePrice()`
+
+If a `manufacturerDiscount` is set then the salesPrice will be that much cheaper
+
+
+
+#### `Sedan`
+
+Create a subclass of `Car` class and name it as `Sedan`. The `Sedan` class has the following fields and methods. 
+
+- `length` 
+- `getSalePrice()`
+
+If the `length` is more than 20 meters then 5% discount otherwise 10% discount
+
+
+
+#### `AutoShop`
+
+Create `AutoShop` class which contains the `main()` method. Perform the following within the `main()` 
+method. 
+
+- Create an instance of `Sedan` class and initialize all the fields with appropriate values. Use `super(...)` method in 
+  the constructor for initializing the fields of the superclass. 
+- Create two instances of the `Ford` class and initialize all the fields with appropriate values. `Use super(...)` 
+  method in the constructor for initializing the fields of the super class. 
+- Create a `Truck` instance
+- Create an instance of `Car` class and initialize all the fields with appropriate values. Display the sale prices of all instance.
+

@@ -121,3 +121,20 @@ elephant.sleep(); //Zzz
 ```
 
 
+
+## Exercises
+
+
+
+### Exercise 1
+
+Write  an  abstract  class  called  `Animal`.   An  animal  has  3  attributes:  `name`, `nrOfLegs`  & ` isMammal`.  Animals  can  also  produce  sounds  (represented  as  astring of the sound), and every animal produces a unique sound.
+
+Create 3 animal classes that all extends the abstract Animal class and overridesthe method produces their unique sound.
+
+Create an array, add your animals to the list and print every animals sound
+
+
+
+![CleanShot 2021-09-09 at 14.58.34@2x](../../assets/inheritance-exercises.png)
+
