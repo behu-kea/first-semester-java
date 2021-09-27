@@ -229,7 +229,7 @@ System.out.println(figaro); // Cat{name='figaro', mood=5, isHungry=true, energy=
 
 
 
-### Exercise 1
+### Exercise 1 - level 1
 
 Create a `Dog` class. The class should have
 
@@ -241,7 +241,7 @@ Now call the method on the two dog objects.
 
 
 
-## Exercise 1.1
+### Exercise 1.1 - level 1
 
 There is a car, which has attributes *model* and *price*, and the car has functionalities *start*, *stop* and *move*. Also, there is a driver, having attributes *name* and *age*, and the behaviour *drive*.
 
@@ -249,7 +249,15 @@ Create the classes *Car* and *Driver*. The functionality of the methods does not
 
 
 
-### Exercise 2 - Lampeopgave 
+### Exercise 1.2 - level 1
+
+Create a class called Employee that includes three pieces of information as instance variables - a first name, a last name and a monthly salary (double). Your class should have a constructor that initializes the three instance variables. If the monthly 
+salary is not positive, set it to 0.0. Create two Employee objects and display each object’s yearly salary. Then give each 
+Employee a 10% raise and display each Employee’s yearly salary again.
+
+
+
+### Exercise 2 - Lampeopgave - level 2
 
 1. Skriv en klasse der hedder `Lamp`. 
 2. `Lamp` har en boolean instansvariabel der angiver om den er tændt eller slukket. 
@@ -262,7 +270,7 @@ Create the classes *Car* and *Driver*. The functionality of the methods does not
 
 
 
-### Exercise 3
+### Exercise 3 - level 2
 
 Create a `DogFarm` class that creates and returns `Dog` objects with data input from the user.
 
@@ -272,6 +280,6 @@ If a method that raises an attribute to more / less than 10 / 0 - The attribute 
 
 
 
-### Exercise 4 - Robot factory
+### Exercise 4 - Robot factory - level 3
 
 ![Robot factory](../../assets/robot-factory.png)
