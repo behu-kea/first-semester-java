@@ -300,7 +300,7 @@ Now at least the individual child classes have their own `generateNewPassword` m
 
 
 
-### Exercise 1
+### Exercise 1 - level 1
 
 Create a `Garment` class. A `Garment` can have a `price` and a `name`. 
 
@@ -310,7 +310,7 @@ In a `main` method create a couple of garments and print their value
 
 
 
-### Exercise 2
+### Exercise 2 - level 1
 
 Create a new class called `Computer`. Before you add any more code, know that you will need to add two additional classes: `Laptop` and `SmartPhone`. 
 
@@ -319,7 +319,7 @@ Create a new class called `Computer`. Before you add any more code, know that yo
 
 
 
-### Exercise 3
+### Exercise 3 - level 2
 
 #### `Car`
 
@@ -382,7 +382,7 @@ method.
 
 
 
-### Exercise 4
+### Exercise 4 - level 3
 
 We have to create the classes for a School. 
 
@@ -393,7 +393,7 @@ This school have different employees 👇
 - Headmaster
 - It admin
 
-There are also classes. A class can have a list of students and a name. 
+There are also classes (as in a school class not a java class). A class can have a list of students and a name. 
 
 A school can have a list of classes and a list of employees.
 
