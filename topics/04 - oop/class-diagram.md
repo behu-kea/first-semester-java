@@ -109,3 +109,9 @@ Create the Java code for this diagram
 Create the code for this diagram
 
 ![https://cdn-images-1.medium.com/max/1600/1*TYRSuON0vVxy8olllrBVEw.png](../../assets/class-diagram-4.png)
+
+
+
+### Exercise 4
+
+https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=858632
