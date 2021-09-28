@@ -376,7 +376,7 @@ method.
 - Create two instances of the `Ford` class and initialize all the fields with appropriate values. `Use super(...)` 
   method in the constructor for initializing the fields of the super class. 
 - Create a `Truck` instance
-- Create an instance of `Car` class and initialize all the fields with appropriate values. Display the sale prices of all instance.
+- Create an instance of `Car` class and initialize all the fields with appropriate values. Display the sale prices of all instances.
 
 
 
