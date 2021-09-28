@@ -14,9 +14,13 @@ Methods are also called operation or behaviour.
 
 
 
-## Multiplicity
+Class diagram made in visual Paradigm
 
-![multiplicities](../../assets/multiplicities.png)
+![CleanShot 2021-09-28 at 13.15.48@2x](../../assets/class-diagram-visual-paradigm.png)
+
+
+
+
 
 
 
@@ -24,11 +28,25 @@ Methods are also called operation or behaviour.
 
 ![img](../../assets/class-diagram-arrows.png)
 
+There are lots of different relationsships between classes in a class diagram. Please just focus on the inheritance and association! If you would like to get super nerdy, then you can dive into the specific relations below 👇
+
+
+
+
+
+## Multiplicity
+
+![multiplicities](../../assets/multiplicities.png)
+
+
+
+
+
 ### Directed association
 
 An Association reflects relation between two classes. Use Association arrow when two classes **need to communicate** and either (or both) class(es) **hold reference** to the second one. Association relationship is *“stronger”* than Dependency relationship, it implies a closer connection between entities.
 
-![img](../../assets/directed-association.png)
+
 
 
 
@@ -44,7 +62,9 @@ Use Inheritance when you want to show that one class inherits from another one. 
 
 Composition implies that two classes are associated and it adds the following details: within a Composition sub-objects are **strongly dependent** on a whole. Objects of the types are **instantiated together** and have **common lifecycle**.
 
-A human needs a heart to live and a heart needs a human body to function  on. In other words when the classes (entities) are dependent on each  other and their life span are same (if one dies then another one too)  then its a composition.
+A human needs a heart to live and a heart needs a human body to function  on. In other words when the classes (entities) are dependent on each other and their life span are same (if one dies then another one too)  then its a composition.
+
+A hand is **composed of** fingers
 
 
 
@@ -75,8 +95,6 @@ Dependency relationship implies that two elements are dependent on each other. I
 
 
 
-
-![One of the best demonstration of Generalization In Class Diagram Example](../../assets/class-diagram-arrow-1.png)
 
 Class diagram made in Visual Paradigm
 
