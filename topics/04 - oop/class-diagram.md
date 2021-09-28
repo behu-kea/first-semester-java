@@ -34,27 +34,29 @@ There are lots of different relationsships between classes in a class diagram. P
 
 
 
-## Multiplicity
-
-![multiplicities](../../assets/multiplicities.png)
-
-
-
-
-
-### Directed association
-
-An Association reflects relation between two classes. Use Association arrow when two classes **need to communicate** and either (or both) class(es) **hold reference** to the second one. Association relationship is *“stronger”* than Dependency relationship, it implies a closer connection between entities.
-
-
-
 
 
 ### Inheritance
 
 Use Inheritance when you want to show that one class inherits from another one. Forms a is-a relationship.
 
-![img](../../assets/arrows-inheritance.png)
+
+
+### Association
+
+Indicates that there is a connection between two classes. 
+
+
+
+## Multiplicity
+
+![multiplicities](../../assets/multiplicities.png)
+
+
+
+### Directed association
+
+An Association reflects relation between two classes. Use Association arrow when two classes **need to communicate** and either (or both) class(es) **hold reference** to the second one. Association relationship is *“stronger”* than Dependency relationship, it implies a closer connection between entities.
 
 
 
