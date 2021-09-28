@@ -1,16 +1,30 @@
 # Sequence diagram
 
-A sequence diagram shows a sequence of messages between objects. 
+A sequence diagram shows how objects in a system or classes interact with each other. 
+
+They show the sequence of events
 
 
 
-## Generate sequence diagrams in IntelliJ
+## Lifelines
 
-It's a bit buggy, but sometimes works
-
-Preferences -> plugins -> sequenceDiagram in marketplace
+Shows the actors over time. Moving down the line means that more time has passed. 
 
 
 
-## Generating sequence diagrams in Visual Paradigm
+## Exercises
+
+
+
+### Exercise 1
+
+Explain and write down with your own words what this sequence diagram does.
+
+![diagram](../../assets/sequence-diagram-exercise-1.png)
+
+
+
+### Exercise 2
+
+Take a previous project you made and make at least two sequence diagrams.
 
