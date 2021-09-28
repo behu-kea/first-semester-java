@@ -1,27 +1,11 @@
 public class School {
     private String name;
-    private Student[] students;
+    public SchoolClass[] classes;
 
-    public void setStudent(Student[] students) {
-        this.students = students;
-    }
-
-    public Student[] getStudent() {
-        return students;
-    }
-
-    public School(String name, Student[] students) {
+    public School(String name, SchoolClass[] classes) {
         this.name = name;
-        this.students = students;
+        this.classes = classes;
     }
 
-    public String getName() {
-        return name;
-    }
-
-
-    public void setName(String name) {
-        this.name = name;
-    }
 
 }

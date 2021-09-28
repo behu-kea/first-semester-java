@@ -32,10 +32,6 @@ There are lots of different relationsships between classes in a class diagram. P
 
 
 
-
-
-
-
 ### Inheritance
 
 Use Inheritance when you want to show that one class inherits from another one. Forms a is-a relationship.
@@ -48,19 +44,23 @@ Indicates that there is a connection between two classes.
 
 
 
-## Multiplicity
+### Multiplicity/cardinality
 
 ![multiplicities](../../assets/multiplicities.png)
 
 
 
-### Directed association
+
+
+### If you really want to nerd out about relations
+
+#### Directed association
 
 An Association reflects relation between two classes. Use Association arrow when two classes **need to communicate** and either (or both) class(es) **hold reference** to the second one. Association relationship is *“stronger”* than Dependency relationship, it implies a closer connection between entities.
 
 
 
-### Composition
+#### Composition
 
 Composition implies that two classes are associated and it adds the following details: within a Composition sub-objects are **strongly dependent** on a whole. Objects of the types are **instantiated together** and have **common lifecycle**.
 
@@ -74,7 +74,7 @@ A hand is **composed of** fingers
 
 
 
-### Aggregation
+#### Aggregation
 
 Aggregation implies that two classes are associated, it brings in more details regarding the nature of the relationship: the **child can exist independently** of the parent.
 
@@ -84,7 +84,7 @@ The best way to understand this relationship is to call it a “has a” or  “
 
 
 
-### Dependency
+#### Dependency
 
 Dependency relationship implies that two elements are dependent on each other. It is used to reflect that one class **interacts with another one**, receives an instance this class as a **method parameter**. Compared to Association, Dependency relationship is weaker.
 
@@ -94,13 +94,26 @@ Dependency relationship implies that two elements are dependent on each other. I
 
 
 
+## Exercises
 
 
 
+### Exercise 1
 
-Class diagram made in Visual Paradigm
-
-
-
+![Exercise 1](../../assets/class-diagram-exercise-1.png)
 
 
+
+### Exercise 2
+
+Create the Java code for this diagram
+
+![Class diagram exercise 2](../../assets/class-diagram-2.png)
+
+
+
+### Exercise 3
+
+Create the code for this diagram
+
+![https://cdn-images-1.medium.com/max/1600/1*TYRSuON0vVxy8olllrBVEw.png](../../assets/class-diagram-4.png)
