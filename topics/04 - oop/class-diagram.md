@@ -6,17 +6,21 @@ A class diagram is a way to visualize your classes. It can be very helpful to ge
 
 
 
-![Class diagram explanation visual paradigm](../../assets/class-diagram-visual-paradigm.png)
+Class diagram made in IntelliJ
 
 ![Class diagram explanation](../../assets/class-diagram-explanation.png)
 
+Methods are also called operation or behaviour. 
 
 
 
+## Multiplicity
+
+![multiplicities](../../assets/multiplicities.png)
 
 
 
-## Arrows
+## Ralations - arrows
 
 ![img](../../assets/class-diagram-arrows.png)
 
@@ -73,3 +77,10 @@ Dependency relationship implies that two elements are dependent on each other. I
 
 
 ![One of the best demonstration of Generalization In Class Diagram Example](../../assets/class-diagram-arrow-1.png)
+
+Class diagram made in Visual Paradigm
+
+
+
+
+
