@@ -1,8 +1,10 @@
 # Class diagrams
 
+This video is super good: https://www.youtube.com/watch?v=UI6lqHOVHic&t=478s
+
+
+
 A class diagram is a way to visualize your classes. It can be very helpful to get an overview of the code that has been created. especially thinking about how different classes interact with each other. 
-
-
 
 
 
@@ -20,11 +22,7 @@ Class diagram made in visual Paradigm
 
 
 
-
-
-
-
-## Ralations - arrows
+## Relations - arrows
 
 There are some different relations between classes that we should talk about
 
@@ -45,6 +43,18 @@ Use Inheritance when you want to show that one class inherits from another one. 
 ### Association
 
 Indicates that there is a connection between two classes. 
+
+```java
+class Food {
+	public String name;
+	
+	public void addKetchup(Ketchup ketchup) {
+		...
+	}
+}
+```
+
+Here a class has a method that as parameter uses another class. That is what is understood by association
 
 
 

@@ -1,4 +1,4 @@
-public class Student extends MasterStudent {
+public class Student extends BaseStudent {
     public String name;
     public boolean isActive;
 

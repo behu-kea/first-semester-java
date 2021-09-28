@@ -1,5 +1,9 @@
 # Sequence diagram
 
+This video is super good: https://www.youtube.com/watch?v=pCK6prSq8aw
+
+
+
 A sequence diagram shows how objects in a system or classes interact with each other. 
 
 They show the sequence of events
