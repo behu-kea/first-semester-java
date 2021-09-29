@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
+        /*
         Garment garment1 = new Garment("garment", 100);
 
         Trouser blueJeans = new Trouser("blue jeans", 100, 100);
@@ -12,5 +13,10 @@ public class Main {
         for (Garment garment: garments) {
             garment.printGarment();
         }
+
+         */
+
+        Customer peter = new Customer(23, ...);
+        Account peterAccount = new Account(2, peter.id);
     }
 }

@@ -56,7 +56,7 @@ And it **could** have some of the following methods. But its up to you!
 
 The `Cat` and `Dog` should extend `Tamagotchi`!
 
-You come up with what attributes and methods (p) relevant for a `Cat` and a `Dog`
+You come up with what attributes and methods relevant for a `Cat` and a `Dog`
 
 Fx a `Dog` could maybe `bark()`. It's up to you
 
@@ -91,7 +91,7 @@ Hello, would you like to create a dog or a cat? Press 1 for dog and 2 for cat
 Ahh you would like to create a cat, what should the name of the cat be?
 Miaui McLickALot
 
-Okay, here is you cat Miaui McLickALot
+Okay, here is your cat Miaui McLickALot
  /\_/\
 ( o.o )
  > ^ <
@@ -101,7 +101,7 @@ What would you now like to do?
 3 - sleep
 1
 
-Miaui McLickALot is running afters a ball, now her energy went down 1 and her hunger went up 1
+Miaui McLickALot is running after a ball, now her energy went down 1 and her hunger went up 1
 What would you now like to do?
 1 - play
 2 - feed
