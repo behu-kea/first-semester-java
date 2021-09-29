@@ -15,8 +15,7 @@ public class Main {
         }
 
          */
-
-        Customer peter = new Customer(23, ...);
-        Account peterAccount = new Account(2, peter.id);
+        Hat funnyHat = new Hat("Funny hat", 100, 100);
+        System.out.println(funnyHat);
     }
 }

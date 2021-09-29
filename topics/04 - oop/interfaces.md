@@ -126,15 +126,27 @@ elephant.sleep(); //Zzz
 
 
 
-### Exercise 1
+### Exerices 1
+
+https://w3.cs.jmu.edu/spragunr/CS159_F13/activities/interface_review/interface_worksheet.shtml
+
+
+
+### Exercise 2
+
+Create an interface called FastFood (with appropriate methods) and create a `Sandwich` class and a `Pizza` class that implements the FastFood interface.
+
+
+
+### Exercise 3
 
 Write  an  abstract  class  called  `Animal`.   An  animal  has  3  attributes:  `name`, `nrOfLegs`  & ` isMammal`.  Animals  can  also  produce  sounds  (represented  as  astring of the sound), and every animal produces a unique sound.
 
-Create 3 animal classes that all extends the abstract Animal class and overridesthe method produces their unique sound.
+Create 3 animal classes that all extends the abstract Animal class and overrides the method producing their unique sound.
 
 Create an array, add your animals to the list and print every animals sound
 
 
 
-![CleanShot 2021-09-09 at 14.58.34@2x](../../assets/inheritance-exercises.png)
+
 
