@@ -20,6 +20,7 @@
     - [Method overload](topics/04 - oop/method-overload.md)
     - [Enum](topics/04 - oop/enum.md)
     - [Class diagrams, sequence diagrams](topics/04 - oop/class-diagram.md)
+    - [Sequence diagrams](topics/04 - oop/sequence-diagram.md)
     - [Inheritance](topics/04 - oop/inheritance.md)
     - [Interfaces](topics/04 - oop/interfaces.md)
     - [Static keyword](topics/04 - oop/static-keyword.md)
