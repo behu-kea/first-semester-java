@@ -18,7 +18,29 @@ Methods are also called operation or behaviour.
 
 Class diagram made in visual Paradigm
 
-![CleanShot 2021-09-28 at 13.15.48@2x](../../assets/class-diagram-visual-paradigm.png)
+![CleanShot 2021-09-29 at 07.53.38@2x](../../assets/class-diagram-visual-paradigm.png)
+
+
+
+## Attributes
+
+Attributes are also called fields
+
+Attributes are written above the seperating line. 
+
+The plus sign means public
+
+The minus sign mean private
+
+What you write after the `:` should be the type
+
+
+
+## Methods
+
+Methods are sometime called behaviour or operation. 
+
+Add the parameters of the method. After the `:` write the type the method returns
 
 
 
