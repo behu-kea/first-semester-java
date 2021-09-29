@@ -1,5 +1,5 @@
 public class School {
-    private String name;
+    public String name;
     public SchoolClass[] classes;
 
     public School(String name, SchoolClass[] classes) {
@@ -7,5 +7,7 @@ public class School {
         this.classes = classes;
     }
 
-
+    public boolean isStudentActive(Student student) {
+        return student.isActive();
+    }
 }

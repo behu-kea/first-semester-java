@@ -84,7 +84,9 @@ Here a class has a method that as parameter uses another class. That is what is 
 
 When a child object cannot exist without its parent object. A finger cannot exist without the hand. Or a hand is **composed of** fingers.
 
-A human needs a heart to live and a heart needs a human body to function  on. In other words when the classes (entities) are dependent on each other and their life span are same (if one dies then another one too)  then its a composition.
+A human needs a heart to live and a heart needs a human body to function on. In other words when the classes (entities) are dependent on each other and their life span are same (if one dies then another one too)  then its a composition.
+
+A visitor centeres bathroom does not exist if the visitor center gets destroyed
 
 
 

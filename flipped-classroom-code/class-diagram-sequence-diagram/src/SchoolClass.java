@@ -15,8 +15,8 @@ public class SchoolClass {
 
     public int getNumberOfActiveStudents() {
         int numberOfActiveStudents = 0;
-        for (Student student: studentsInClass) {
-            if(student.isActive) {
+        for (Student student: this.studentsInClass) {
+            if(student.isActive()) {
                 numberOfActiveStudents++;
             }
         }
