@@ -22,7 +22,7 @@
     - [Class diagrams](topics/04 - oop/class-diagram.md)
     - [Sequence diagrams](topics/04 - oop/sequence-diagram.md)
     - [Inheritance](topics/04 - oop/inheritance.md)
-    - [Interfaces](topics/04 - oop/interfaces.md)
+    - [Interfaces and abstract](topics/04 - oop/interfaces.md)
     - [Static keyword](topics/04 - oop/static-keyword.md)
     - [4 pillars of OOP](topics/04 - oop/4-pillars-oop.md)
   - 06 - Algorithms & Data structure
