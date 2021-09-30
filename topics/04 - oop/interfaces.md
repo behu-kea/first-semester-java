@@ -166,4 +166,6 @@ Create an array, add your animals to the list and print every animals sound
 
 ### Exercise 5 - level 3
 
+This exercise is part of the homework to next week!
+
 Continue working on this problem: https://github.com/behu-kea/first-semester-java/blob/9d5b9fc185978dad0bfdbc0b83fdc7937326db4d/assets/Bookingsystem%20(DK).pdf

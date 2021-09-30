@@ -276,6 +276,6 @@ Igennem alle disse opgaver, husk at lave alle attributter `private` og kun at la
 
 ### Exercise 4
 
-Continue working on this problem
+This exercise is part of the homework to next week!
 
 https://github.com/behu-kea/first-semester-java/blob/9d5b9fc185978dad0bfdbc0b83fdc7937326db4d/assets/Bookingsystem%20(DK).pdf

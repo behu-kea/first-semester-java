@@ -16,10 +16,16 @@ This is a good starting point for starting to create your class diagram
 
 
 
+
+
+
+
 ## Exercises
 
 
 
 ## Exercise 1
+
+This exercise is part of the homework to next week!
 
 https://github.com/behu-kea/first-semester-java/blob/9d5b9fc185978dad0bfdbc0b83fdc7937326db4d/assets/Bookingsystem%20(DK).pdf
