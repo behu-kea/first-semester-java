@@ -276,6 +276,6 @@ Igennem alle disse opgaver, husk at lave alle attributter `private` og kun at la
 
 ### Exercise 4
 
-Det her er en stor opgave i ikke bliver færdige med. Men i kan gå igang med den. Den læner sig ikke nødvendigvis op af abstrakte klasser eller interfaces, men måske i kan finde et godt sted at bruge det!?
+Continue working on this problem
 
-https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=809533
+https://github.com/behu-kea/first-semester-java/blob/9d5b9fc185978dad0bfdbc0b83fdc7937326db4d/assets/Bookingsystem%20(DK).pdf
