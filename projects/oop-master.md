@@ -19,3 +19,10 @@ https://github.com/behu-kea/first-semester-java/blob/9d5b9fc185978dad0bfdbc0b83f
 
 ## Part two
 
+Answer these questions. Minimum 200 words!
+
+- What is the difference between an interface and an abstract class? Write down some examples where you would use an interface and some examples where you would use an abstract class
+- What are the downsides of inheritance?
+- How do i get from a customer describing a system he wants to have to a fully coded system? What steps would you take?
+- What is the difference between coding and developing software?
+- What do you think is good code?
