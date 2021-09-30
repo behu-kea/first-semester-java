@@ -16,7 +16,7 @@ This is a good starting point for starting to create your class diagram
 
 
 
-
+Go through this use project and make the domain model for it: https://github.com/behu-kea/first-semester-java/blob/07adad53e648c5359d326605eda4138a57803557/assets/2021-03%20-%20Client%20Management.pdf
 
 
 
