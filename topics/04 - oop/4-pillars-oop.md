@@ -270,3 +270,12 @@ The loop first prints out `314.1592` then `100.0`
 
 ## Exercises
 
+Igennem alle disse opgaver, husk at lave alle attributter `private` og kun at lave getter og setters for dem i har brug for!
+
+
+
+### Exercise 4
+
+Det her er en stor opgave i ikke bliver færdige med. Men i kan gå igang med den. Den læner sig ikke nødvendigvis op af abstrakte klasser eller interfaces, men måske i kan finde et godt sted at bruge det!?
+
+https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=809533

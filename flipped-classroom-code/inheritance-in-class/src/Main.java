@@ -17,5 +17,7 @@ public class Main {
          */
         Hat funnyHat = new Hat("Funny hat", 100, 100);
         System.out.println(funnyHat);
+        System.out.println("hje".matches(".*\\d.*"));
+
     }
 }

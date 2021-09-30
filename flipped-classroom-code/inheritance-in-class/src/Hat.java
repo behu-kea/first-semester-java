@@ -1,4 +1,4 @@
-public class Hat extends Garment implements Lol{
+public class Hat extends Garment {
     public int size;
 
     public Hat(String name, int price, int size) {
