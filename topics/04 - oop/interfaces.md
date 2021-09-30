@@ -126,19 +126,35 @@ elephant.sleep(); //Zzz
 
 
 
-### Exerices 1
+### Exerices 1 - level 1
 
 https://w3.cs.jmu.edu/spragunr/CS159_F13/activities/interface_review/interface_worksheet.shtml
 
 
 
-### Exercise 2
+### Exercise 2 - level 1
 
-Create an interface called FastFood (with appropriate methods) and create a `Sandwich` class and a `Pizza` class that implements the FastFood interface.
+Create an interface called FastFood (with appropriate methods) and create a `Sandwich` class, a `Pizza` class and a class you decide that implements the FastFood interface.
+
+Add some different `Fastfood` objects to an array. Now iterate through that array and use some of the methods you have created above. 
 
 
 
-### Exercise 3
+### Exercise 3 - level 1
+
+Create a class that implements the following interface. Now create two objects using the class created
+
+```java
+interface Vehicle {
+    void changeGear(int a);
+    void speedUp(int a);
+    void applyBrakes(int a);
+}
+```
+
+
+
+### Exercise 4 - level 2
 
 Write  an  abstract  class  called  `Animal`.   An  animal  has  3  attributes:  `name`, `nrOfLegs`  & ` isMammal`.  Animals  can  also  produce  sounds  (represented  as  astring of the sound), and every animal produces a unique sound.
 
@@ -148,5 +164,9 @@ Create an array, add your animals to the list and print every animals sound
 
 
 
+### Exercise 5 - level 3
 
+Det her er en stor opgave i ikke bliver færdige med. Men i kan gå igang med den. Den læner sig ikke nødvendigvis op af abstrakte klasser eller interfaces, men måske i kan finde et godt sted at bruge det!?
+
+https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=809533
 
