@@ -26,3 +26,22 @@ Answer these questions. Minimum 200 words!
 - How do i get from a customer describing a system he wants to have to a fully coded system? What steps would you take?
 - What is the difference between coding and developing software?
 - What do you think is good code?
+
+
+
+## Handin
+
+Hand in on fronter here: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=931638
+
+**Hand in via git before 7-10-2021 23:59!**
+
+
+
+## Handin checklist
+
+- Have you tested that the code works?
+- Have you written comments to the code?
+- Have you thought of a good structure?
+- Is the code easy to understand and read?
+- Does the variablename make sense?
+

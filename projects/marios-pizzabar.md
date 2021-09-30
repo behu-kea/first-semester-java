@@ -23,8 +23,6 @@ For this project you have to work in groups! Each group has to handin one soluti
 
 
 
-
-
 ## Handin
 
 Hand in on fronter here: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=931634
