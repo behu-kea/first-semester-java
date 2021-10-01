@@ -33,7 +33,7 @@ Answer these questions. Minimum 200 words!
 
 Hand in on fronter here: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=931638
 
-**Hand in via git before 7-10-2021 23:59!**
+**Hand in via git before 14-10-2021 23:59!**
 
 
 
