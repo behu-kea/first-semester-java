@@ -14,10 +14,20 @@ public class Main {
             garment.printGarment();
         }
 
-         */
+
         Hat funnyHat = new Hat("Funny hat", 100);
         System.out.println(funnyHat);
         System.out.println("hje".matches(".*\\d.*"));
+*/
+/*
+        GameObject benjamin = new Player();
+        GameObject blueCar = new Car();
 
+        GameObject[] gameObjects = {benjamin, blueCar};
+        for (GameObject gameObject:gameObjects) {
+            gameObject.move();
+        }
+
+ */
     }
 }
