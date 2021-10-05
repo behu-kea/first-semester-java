@@ -18,10 +18,13 @@
   - 04 - Object Oriented programming
     - [Classes, objects, constructor](topics/04 - oop/classes.md)
     - [Method overload](topics/04 - oop/method-overload.md)
-    - [Enum](topics/04 - oop/enum)
-    - [Class diagrams, sequence diagrams](topics/04 - oop/class-diagram.md)
+    - [Enum](topics/04 - oop/enum.md)
+    - [Class diagrams](topics/04 - oop/class-diagram.md)
+    - [Sequence diagrams](topics/04 - oop/sequence-diagram.md)
     - [Inheritance](topics/04 - oop/inheritance.md)
-    - [Interfaces](topics/04 - oop/interfaces.md)
+    - [Domain model](topics/04 - oop/domain-model.md)
+    - [Interfaces and abstract classes](topics/04 - oop/interfaces.md)
+    - [Static keyword](topics/04 - oop/static-keyword.md)
     - [4 pillars of OOP](topics/04 - oop/4-pillars-oop.md)
   - 06 - Algorithms & Data structure
     -  [reading-a-file.md](topics/06 - algorithms/reading-a-file.md)
@@ -86,11 +89,14 @@
 - Projects 
   - [Processing 🖼](projects/processing.md)
   - [Crypto converter 📊](projects/crypto-converter.md)
-  - Methods project
+  - Methods project 📠
     - [Face creator 😀](projects/face-creator.md) 
     - [Methods project](projects/methods-project.md)
   - [Games project 🎲](projects/games-project.md)
-  - [The code breaker 🔐](projects/the-code-breaker.md) 
+  - [The code breaker 🔐](projects/the-code-breaker.md)
+  - [Tamagotchi 😸🐶](projects/tamagotchi.md)
+  - [OOP Master 🧙‍♀️🧙](projects/oop-master.md)
+  - [Marios pizzabar 🍕](projects/marios-pizzabar.md)
 - [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 

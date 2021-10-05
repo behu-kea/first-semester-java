@@ -1,5 +1,11 @@
 # Classes
 
+Watch this video as support 👇
+
+https://youtu.be/QfIAWFebDjE
+
+
+
 You have now learned all the necessary building blocks of Java. `String`, `int`, `forloop`, `methods`, `conditional` these are all blocks that we need to build Java. **But** in order to write code that is 
 
 - Better structured
@@ -223,7 +229,7 @@ System.out.println(figaro); // Cat{name='figaro', mood=5, isHungry=true, energy=
 
 
 
-### Exercise 1
+### Exercise 1 - level 1
 
 Create a `Dog` class. The class should have
 
@@ -235,32 +241,53 @@ Now call the method on the two dog objects.
 
 
 
-### Exercise 2 - Lampeopgave 
+### Exercise 1.1 - level 1
 
-1. Skriv en klasse der hedder Lampe. 
+There is a car, which has attributes *model* and *price*, and the car has functionalities *start*, *stop* and *move*. Also, there is a driver, having attributes *name* and *age*, and the behaviour *drive*.
 
-2. En lampe har en boolean instansvariabel der angiver om den er tændt eller slukket. 
-
-3. Når man laver et nyt lampe-objekt skal der være en konstruktør hvor man kan vælge om lampen som udgangspunkt er tændt eller slukket, samt en tom konstruktør hvor lampen som udgangspunkt er slukket (dette kaldes  ”overload” af konstruktøren). 
-
-4. Skriv en metode der hedder `turnOn`, som tænder lampen hvis den er slukket, og slukker lampen hvis den er tændt. 
-
-5. Lav en klasse (du kan fx kalde den `Room`) med en main-metode hvor du  instantierer forskellige lampeobjekter (skrivebordslampe, sengelampe el. lign.) og tester om de virker som de skal. 
-
-6. Lav en static variabel i Lampe-klassen som tæller hvor mange lamper der er lavet
+Create the classes *Car* and *Driver*. The functionality of the methods does not matter. Just print something to the console
 
 
 
-### Exercise 3
+### Exercise 1.2 - level 1
 
-Create a `DogFarm` class that creates and returns `Dog` objects with data inputtet from the user.
+Create a class called Employee that includes three pieces of information as instance variables 
+
+- A first name
+- A last name
+- A monthly salary (double).
+
+Your class should have a constructor that initializes the three instance variables. If the monthly 
+salary is not positive, set it to 0.0. Create two Employee objects and display each object’s yearly salary. Then give each 
+Employee a 10% raise and display each Employee’s yearly salary again.
+
+
+
+### Exercise 2 - Lampeopgave - level 2
+
+1. Skriv en klasse der hedder `Lamp`. 
+2. `Lamp` har en boolean instansvariabel der angiver om den er tændt eller slukket. 
+3. Når man laver et nyt `lamp`-objekt skal der være en constructor hvor man kan vælge om lampen som udgangspunkt er tændt eller slukket
+4. Skriv en metode der hedder `toggleLight`, som tænder lampen hvis den er slukket, og slukker lampen hvis den er tændt. 
+5. Lav en klasse (du kan fx kalde den `Room`) med en main-metode hvor du instantierer forskellige lampeobjekter (skrivebordslampe, sengelampe el. lign.) og tester om de virker som de skal. 
+6. Lav en attribut i `Lamp` der holder øje med hvor mange gange lamp er blevet togglet
+7. Lav en metode der returnerer antal gange lampen er togglet.
+8. Lav en static variabel i `Lamp`-klassen som tæller hvor mange lamper der er lavet
+
+
+
+### Exercise 3 - level 2
+
+Create a `DogFarm` class that has a method that creates and returns `Dog` objects with data input from the user.
 
 The maximum / minimum of mood, energy & hunger is 10 / 0
 
 If a method that raises an attribute to more / less than 10 / 0 - The attribute do not change, but prints out - Cat is at max / min [mood/energy/hunger]
 
+In the main method. Initiate a `DogFarm` object now create a couple of dogs using. 
 
 
-### Exercise 4 - Robot factory
+
+### Exercise 4 - Robot factory - level 3
 
 ![Robot factory](../../assets/robot-factory.png)

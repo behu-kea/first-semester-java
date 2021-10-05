@@ -1,5 +1,11 @@
 # 4 pillars of OOP
 
+Watch this video as support 👇
+
+https://youtu.be/GpjpqhthnnU
+
+
+
 Java has 4 pillars it is built upon 👇
 
 
@@ -264,3 +270,12 @@ The loop first prints out `314.1592` then `100.0`
 
 ## Exercises
 
+Igennem alle disse opgaver, husk at lave alle attributter `private` og kun at lave getter og setters for dem i har brug for!
+
+
+
+### Exercise 4
+
+This exercise is part of the homework to next week!
+
+https://github.com/behu-kea/first-semester-java/blob/9d5b9fc185978dad0bfdbc0b83fdc7937326db4d/assets/Bookingsystem%20(DK).pdf

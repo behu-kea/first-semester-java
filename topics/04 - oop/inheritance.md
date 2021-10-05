@@ -1,5 +1,11 @@
 # Inheritance
 
+Watch this video as support 👇
+
+https://youtu.be/yXzoxxIYfgQ
+
+
+
 
 
 ## 4 pillars of OOP inheritance
@@ -190,8 +196,6 @@ It is possible to write `super.generateNewPassword()` because `super` simply ref
 
 
 
-
-
 ### Let's use the new inherited classes!
 
 ```java
@@ -206,8 +210,6 @@ public class Main {
     }
 }
 ```
-
-
 
 
 
@@ -296,12 +298,112 @@ Now at least the individual child classes have their own `generateNewPassword` m
 
 ## Exercises
 
-Write  an  abstract  class  called  ”Animal”.   An  animal  has  3  attributes:  `name`, `nrOfLegs`  & ` isMammal`.  Animals  can  also  produce  sounds  (represented  as  astring of the sound), and every animal produces a unique sound.
-
-Create 3 animal classes that all extends the abstract Animal class and overridesthe method produces their unique sound.
-
-Create an array, add your animals to the list and print every animals sound
 
 
+### Exercise 1 - level 1
 
-![CleanShot 2021-09-09 at 14.58.34@2x](../../assets/inheritance-exercises.png)
+Create a `Garment` class. A `Garment` can have a `price` and a `name`. 
+
+Add some specific garment classes like fx `Trousers`. `Trousers` can fx have a `length`, `color` etc. 
+
+In a `main` method create a couple of garments and print their value
+
+
+
+### Exercise 2 - level 1
+
+Create a new class called `Computer`. Before you add any more code, know that you will need to add two additional classes: `Laptop` and `SmartPhone`. 
+
+1. For a parent class add 3 properties, 2 methods, and a constructor.
+2. For a child class add *at least* 1 additional property and 1 additional method.
+
+
+
+### Exercise 3 - level 2
+
+#### `Car`
+
+Create a super class called `Car`. The `Car` class has the following fields and methods. 
+
+- `speed`
+- `regularPrice`
+- `color`
+- `getSalePrice()`
+
+
+
+#### `Truck`
+
+Create a sub class of `Car` class and name it as `Truck`. The `Truck` class has the following fields and methods. 
+
+- `weight`
+- `getSalePrice()`
+
+If the weight of a `Truck` is more than 2000 kg then there is a discount of 10% otherwise 20%
+
+
+
+#### `Ford`
+
+Create a subclass of `Car` class and name it as `Ford`. The `Ford` class has the following fields and methods 
+
+- `year`
+- `manufacturerDiscount`
+- `getSalePrice()`
+
+If a `manufacturerDiscount` is set then the salesPrice will be that much cheaper
+
+
+
+#### `Sedan`
+
+Create a subclass of `Car` class and name it as `Sedan`. The `Sedan` class has the following fields and methods. 
+
+- `length`
+- `getSalePrice()`
+
+If the `length` is more than 20 meters then 5% discount otherwise 10% discount
+
+
+
+#### `AutoShop`
+
+Create `AutoShop` class which contains the `main()` method. Perform the following within the `main()` 
+method. 
+
+- Create an instance of `Sedan` class and initialize all the fields with appropriate values. Use `super(...)` method in 
+  the constructor for initializing the fields of the superclass. 
+- Create two instances of the `Ford` class and initialize all the fields with appropriate values. `Use super(...)` 
+  method in the constructor for initializing the fields of the super class. 
+- Create a `Truck` instance
+- Create an instance of `Car` class and initialize all the fields with appropriate values. Display the sale prices of all instances.
+
+
+
+
+
+### Exercise 4 - level 3
+
+We have to create the classes for a School. 
+
+This school have different employees 👇
+
+- Teacher
+- Janitor
+- Headmaster
+- It admin
+
+There are also classes (as in a school class not a java class). A class can have a list of students and a name. 
+
+A school can have a list of classes and a list of employees.
+
+Try and think about the different classes you would need to solve this problem. First write the plan down. 
+
+When you have a plan start writing the actual classes to solve this problem. 
+
+The functionality insinde the methods is not important, but the classes and the class structure is!
+
+For the employees, make a parent class. Think about what sepcific attributes you would have for the different roles
+
+
+

@@ -1,40 +1,46 @@
 # Interfaces
 
+Watch this video as support 👇
+
+https://youtu.be/yk0e6R3RcDo
+
+
+
 An interface is a contract of what a class should look like when it will be created. It will tell what methods should be in a class, their and and their return type. You can see it as a specification or a contract of what a class should contain
 
 Let's take an example from the game development world: We want to create game objects that can be moved around and drawn. Obviously depending on what you draw or what you move the implementation will be different. A car moves and draws differently than a player. 
 
 ```java
 interface GameObject {
-	void move();
+  void move();
   boolean draw(Canvas canvas);
 }
 ```
 
 Here we have defined an `interface` called `GameObject`. When a class `implements` this interface it should have two methods
 
-1. One called `move` that should return a `int`.
+1. One called `move` that should not return anything.
 2. One called `draw` that should return a `boolean`.
 
 
 
 ## Let's implement two different classes using the interface
 
-When implementing an interface we use the `@override` annotation
+When implementing an interface we use the `implements` keyword, not `extends`! Another thing to note is that we use the `@override` annotation. This is used to show that we over
 
 ```java
 class Car implements GameObject {
   private double speed = 0;
 
   @Override
-	public void move() {
+  public void move() {
     this.speed = this.speed + 100; // a car moves quick
   }
   
   @Override
   public boolean draw(Canvas canvas) {
     canvas.drawCircle(); // wheel one
-   	canvas.drawCircle(); // wheel two
+    canvas.drawCircle(); // wheel two
     // etc
     return carHasBeenDrawn; // true
   }
@@ -48,7 +54,7 @@ class Player implements GameObject {
   private double speed = 0;
   
   @Override
-	public void move() {
+  public void move() {
     this.speed = this.speed + 10; // a player moves slow
   }
   
@@ -73,9 +79,9 @@ The two classes `Car` and `Player` both adhere to the interface. That means they
 
 ## Abstract class
 
-An abstract class is a class that can not be instantiated! 
+An abstract class is a class that can not be instantiated! Let's take an example with `Animal`. Animal is an abstract category. making a `new Animal` does not make sense. Because we want animals like `Elephant`, `Cat` or `Dog`. You have to be a specific animal and not just an `Animal`. In this case we can use abstract classes because instantiating `Animal` does not make sense.
 
-It can contain both attributes and method with the method implementation. But no instantiation!
+Abstract classes can contain both attributes and method with the method implementation. But no instantiation!
 
 ```java
 abstract class Animal {
@@ -99,10 +105,10 @@ We have to use it like this:
 
 ````java
 public class Elephant extends Animal {
-    @Override
-    public void animalSound() {
-				System.out.println("Elephant sounds");
-    }
+  @Override
+  public void animalSound() {
+    System.out.println("Elephant sounds");
+  }
 }
 ````
 
@@ -116,46 +122,93 @@ elephant.sleep(); //Zzz
 
 
 
-## Static keyword
-
-Static variables can be accessed using just the class name. No need to instantiate the class! Static variables are shared among all instances of a class. 
-
-Example is fx the `String.format` method
-
-Typically refers to common property
-
-Cannot reach `this`!
+## Exercises
 
 
 
-### When to use static?
+### Exerices 1 - level 1
 
-- `main` method must be static
-- When you want to have a variable that describes something about the class itself, not the individual objects of that class
-- When you want to have a variable that *always* has the same value for *every* object of the class, forever and ever.
-- If you have a method that does not use any instance variables or instance methods, you should *probably* make it `static`
+1. How are abstract classes and interfaces the same?
+2. How are abstract classes and interfaces different? 
+
+
+
+Using the following diagram. Which of these will run which will throw an error?
+
+
+
+![CleanShot 2021-10-05 at 08.09.22@2x](../../assets/interfaces-exercise-diagram.png)
 
 
 
 ```java
-public class Elephant extends Animal {
-  	public static String animalName = "Elephant";
-    @Override
-    public void animalSound() {
-				System.out.println("Elephant sounds");
-    }
+Ball Baseball = new Football("spalding");
+```
+
+
+
+```java
+Rock ball = new Football("Spalding");
+```
+
+
+
+```java
+Ball ball = new Football("Spalding");
+```
+
+
+
+```java
+Tossable Ball = new Rock("spalding");
+```
+
+
+
+```java
+Tossable Football = new Baseball("spalding");
+```
+
+
+
+Exercise inspired from https://w3.cs.jmu.edu/spragunr/CS159_F13/activities/interface_review/interface_worksheet.shtml
+
+
+
+### Exercise 2 - level 1
+
+Create an interface called FastFood (with appropriate methods) and create a `Sandwich` class, a `Pizza` class and a class you decide that implements the FastFood interface.
+
+Add some different `Fastfood` objects to an array. Now iterate through that array and use some of the methods you have created above. 
+
+
+
+### Exercise 3 - level 1
+
+Create a class that implements the following interface. Now create two objects using the class created
+
+```java
+interface Vehicle {
+    void changeGear(int a);
+    void speedUp(int a);
+    void applyBrakes(int a);
 }
 ```
 
 
 
-```java
-System.out.println(Elephant.animalName); // Elephant
-```
+### Exercise 4 - level 2
 
-No need for instantiating the `Elephant` class. `animalName` is available on the class itself 😱
+Write  an  abstract  class  called  `Animal`.   An  animal  has  3  attributes:  `name`, `nrOfLegs`  & ` isMammal`.  Animals  can  also  produce  sounds  (represented  as  astring of the sound), and every animal produces a unique sound.
+
+Create 3 animal classes that all extends the abstract Animal class and overrides the method producing their unique sound.
+
+Create an array, add your animals to the list and print every animals sound
 
 
 
-## Exercises
+### Exercise 5 - level 3
 
+This exercise is part of the homework to next week!
+
+Continue working on this problem: https://github.com/behu-kea/first-semester-java/blob/9d5b9fc185978dad0bfdbc0b83fdc7937326db4d/assets/Bookingsystem%20(DK).pdf

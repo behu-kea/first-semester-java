@@ -86,6 +86,17 @@ Go [here](https://www.dcode.fr/caesar-cipher) to test if your Ceasar cypher code
 
 
 
+### *Optional*
+
+Change the direction and the number of characters to shift!
+
+Optimize the decoder and encoder functions so the direction and number of characters to shift can be put as arguments to the functions:
+
+```java
+String helloEncodedCeasar = ceasarEncoder("hello", "left", 13);
+String somewordDecodedCeasar = ceasarDecoder("someword", "left", 13);
+```
+
 
 
 # Vigenère cipher - Advanced level *optional*
@@ -115,4 +126,24 @@ Du kan teste om det du har skrevet virker med den her side: https://cryptii.com/
 ## Enigma cypher - Expert level *optional*
 
 Write an encoder and a decoder for the Enigma cypher. 
+
+
+
+## Handin
+
+Hand in on fronter here: https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=929446
+
+Hand in via git!
+
+
+
+## Handin checklist
+
+- Have you tested that the code works?
+- Have you written comments to the code?
+- Have you thought of a good structure?
+- Is the code easy to understand and read?
+- Does the variablename make sense?
+
+
 
