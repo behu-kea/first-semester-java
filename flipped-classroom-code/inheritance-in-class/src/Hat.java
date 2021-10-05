@@ -1,9 +1,10 @@
 public class Hat extends Garment {
-    public int size;
+    public int size = 10;
+    public boolean isFunny = true;
+    public String description = "Funny hat that is funny";
 
-    public Hat(String name, int price, int size) {
+    public Hat(String name, int price) {
         super(name, price);
-        this.size = size;
     }
 
     @Override

@@ -130,6 +130,49 @@ elephant.sleep(); //Zzz
 
 https://w3.cs.jmu.edu/spragunr/CS159_F13/activities/interface_review/interface_worksheet.shtml
 
+1. How are abstract classes and interfaces the same?
+2. How are abstract classes and interfaces different? 
+
+
+
+
+
+![CleanShot 2021-10-05 at 08.09.22@2x](../../assets/interfaces-exercise-diagram.png)
+
+Which of these will run which will throw an error?
+
+```java
+Ball Baseball = new Football("spalding");
+```
+
+
+
+```java
+Rock ball = new Football("Spalding");
+```
+
+
+
+```java
+Ball ball = new Football("Spalding");
+```
+
+
+
+```java
+Tossable Ball = new Rock("spalding");
+```
+
+
+
+```java
+Tossable Football = new Baseball("spalding");
+```
+
+
+
+
+
 
 
 ### Exercise 2 - level 1
