@@ -1,4 +1,7 @@
 # Tuesday
 
-Today we will be reading data in the form of a .csv file. The data will be analyzed and the exercise description can be found in [reading-a-file.md](../../topics/06 - algorithms/reading-a-file.md) 
+##### Workshop
 
+Today we will be reading data in the form of a .csv file. 
+
+The data will be analyzed and the project description can be found in [How to read a file](../../topics/06 - algorithms/reading-a-file.md) 

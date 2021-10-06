@@ -14,7 +14,7 @@
     - [Array](topics/03 - programflow/array.md)
     - [Boolean and Conditionals](topics/03 - programflow/conditionals-boolean.md)
     - [Debugging](topics/03 - programflow/debugging.md)
-    - [system-sequence-diagrams.md](topics/03 - programflow/system-sequence-diagrams.md) 
+    - [System Sequence Diagram](topics/03 - programflow/system-sequence-diagrams.md) 
   - 04 - Object Oriented programming
     - [Classes, objects, constructor](topics/04 - oop/classes.md)
     - [Method overload](topics/04 - oop/method-overload.md)
@@ -27,10 +27,10 @@
     - [Static keyword](topics/04 - oop/static-keyword.md)
     - [4 pillars of OOP](topics/04 - oop/4-pillars-oop.md)
   - 06 - Algorithms & Data structure
-    -  [reading-a-file.md](topics/06 - algorithms/reading-a-file.md)
-    -  [searching.md](topics/06 - algorithms/searching.md) 
-    -  [stack-queue.md](topics/06 - algorithms/stack-queue.md) 
-    -  [sorting.md](topics/06 - algorithms/sorting.md) 
+    -  [Reading a file](topics/06 - algorithms/reading-a-file.md)
+    -  [Searching](topics/06 - algorithms/searching.md) 
+    -  [Stacks & Queues](topics/06 - algorithms/stack-queue.md) 
+    -  [Sorting](topics/06 - algorithms/sorting.md) 
   - 07 - Software Development
 - Lessons
   - Week 34

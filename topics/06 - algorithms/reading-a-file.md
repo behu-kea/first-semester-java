@@ -57,35 +57,23 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class FilesExample {
-    public static void main(String[] args) throws FileNotFoundException {
-        File filmFile = new File("resources/film-imdb.csv");
-        Scanner sc = new Scanner(filmFile);
-        while(sc.hasNextLine()){
-            String movieDetails = sc.nextLine();
-            System.out.println(movieDetails);
+public class FileReader {
+    public static void main(String[] args){
+        try{
+            File filmFile = new File("resources/film-imdb.csv");
+            Scanner sc = new Scanner(filmFile);
+            while(sc.hasNextLine()){
+                String movieDetails = sc.nextLine();
+                System.out.println(movieDetails);
+            }
+        }catch(FileNotFoundException e){
+            System.out.println("Could not find file");
         }
     }
 }
 ```
 
-
-
-## Notable code
-
-Note the addition to the main method signature:
-
-```java
-public static void main(String[] args) throws FileNotFoundException {
-```
-
-This means we are throwing an **exception** - a potential for an error occurring in the progrm. In this case the error might be that the file: film-imdv.csv cannot be found.
-
-All methods that are utilizing and reading a file by a scanner **must** handle the exception. For now we are handling the exception as shown in the example and not providing it any more attention.
-
-
-
-## Exercise
+## Exercise: Movie-Analysis
 
 **End product:**
 
@@ -93,7 +81,7 @@ A console based program that reads a data-set and provides the user with detaile
 
 ## Data
 
- [movies.csv](reading-a-file.assets/movies.csv) 
+[movies.csv](reading-a-file.assets/movies.csv) 
 
 ## Components
 
@@ -103,9 +91,11 @@ A console based program that reads a data-set and provides the user with detaile
 
 (2) Refactor the code such that each movie are stored as Movie objects in an arraylist
 
-**Analysing the file**
+**AnalysisEngine**
 
-Implements methods such that you can find the answers to the following questions:
+An object that instantiates & calls the FileReader method. 
+
+AnalysisEngine implements methods to find answers for the following questions:
 
 - What movie has the longest name?
 - How many movies are from the Star Trek franchise?
