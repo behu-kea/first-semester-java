@@ -7,7 +7,7 @@ public class Player extends PlayerStats implements GameObject, SecondInterface {
 
     @Override
     public void move() {
-        System.out.println("asdhjss");
+        System.out.println("asdhjss" + 200);
     }
 
     public void die() {
