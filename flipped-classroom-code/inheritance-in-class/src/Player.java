@@ -7,7 +7,7 @@ public class Player extends PlayerStats implements GameObject, SecondInterface {
 
     @Override
     public void move() {
-        String hej = "asd";
+        int h = 0;
     }
 
     public void die() {
