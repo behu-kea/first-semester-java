@@ -116,5 +116,3 @@ AnalysisEngine implements methods to find answers for the following questions:
 #### (Optional) Menu
 
 - Write a menu that lets the user choose what question he/she wants answered
-
-**If you finish fast - I have another data-set with advanced questions about Star Wars**
