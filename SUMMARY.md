@@ -78,11 +78,11 @@
   - Week 41
     - [Project Time](lessons/week-08/project-time.md)
   - Week 42
-    -  [1-monday.md](lessons/week-09/1-monday.md)
-    -  [2-tuesday.md](lessons/week-09/2-tuesday.md) 
-    -  [3-wednesday.md](lessons/week-09/3-wednesday.md)
-    -  [4-thursday.md](lessons/week-09/4-thursday.md) 
-    -  [5-friday.md](lessons/week-09/5-friday.md) 
+    -  [Monday](lessons/week-09/1-monday.md)
+    -  [Tuesday](lessons/week-09/2-tuesday.md) 
+    -  [Wednesday](lessons/week-09/3-wednesday.md)
+    -  [Thursday](lessons/week-09/4-thursday.md) 
+    -  [Friday](lessons/week-09/5-friday.md) 
   - Week 43
     -  [1-monday.md](lessons/week-10/1-monday.md) 
   - [TBA](/tba.md)
