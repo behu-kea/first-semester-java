@@ -1,6 +1,24 @@
 # Monday
 
-Midtvejsevaluering
+
+
+## Midtvejsevaluering
+
+- Skriv 3 gode ting ved undervisning
+- Skriv 3 ting der bør forbedres
+- Sedler roterer tidtil man modtager sin egen igen
+  - Der anføres en streg hvis man er enig med udsagnet
+- Sedlerne samles
+
+
+
+Bagefter snakker vi om 
+
+- Problem
+- Konsekvens
+- Løsning
+
+
 
 #### Preparation: 
 
