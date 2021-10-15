@@ -28,9 +28,9 @@
     - [4 pillars of OOP](topics/04 - oop/4-pillars-oop.md)
   - 06 - Algorithms & Data structure
     -  [Reading a file](topics/06 - algorithms/reading-a-file.md)
-    -  [Searching](topics/06 - algorithms/searching.md) 
-    -  [Stacks & Queues](topics/06 - algorithms/stack-queue.md) 
-    -  [Sorting](topics/06 - algorithms/sorting.md) 
+    -  [Searching](topics/06 - algorithms/searching.md)
+    -  [Stacks and Queues](topics/06 - algorithms/stack-queue.md)
+    -  [Sorting](topics/06 - algorithms/sorting.md)
   - 07 - Software Development
 - Lessons
   - Week 34
