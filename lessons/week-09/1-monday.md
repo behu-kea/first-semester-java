@@ -15,6 +15,7 @@
 Bagefter snakker vi om
 
 - Problem
+- Årsag
 - Konsekvens
 - Løsning
 
