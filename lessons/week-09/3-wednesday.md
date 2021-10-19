@@ -1,22 +1,23 @@
-# Linear search, Binary search & Hangman
+# Linear search, Binary search
 
 ### 1. Linear search
 
-- Write a class: User
+- Write a class: User 
 - User has 2 attributes:
   - Username
   - Password
 - Create 10 objects of the User class with different usernames & passwords
 - Write a program with two methods:
-  - One that: Receives & returns a username from the console
-  - Another that: Searches an arraylist with User-objects for a username provided in the console
-    - If the User is found - return the User object
-    - If the user is not found - return null
+  - One that searches an arraylist with User-objects for a username provided in the console (Scanner)
+    - If the User is found - return true
+    - If the user is not found - return false
+  - One that creates a new User an adds it to the arraylist.
+    - If the username already exists, the method does not create a new User object
 
 ### 2. Binary search
 
 - Write a class *RandomNumberGenerator* with a method that either returns: 
-  - An array with the numbers 1-100 in ascending order
+  - An array with the numbers 1-20 in ascending order
 - **OR (Advanced)**
   - An array with *n* amount of **random numbers** in ascending order:
 
