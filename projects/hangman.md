@@ -14,7 +14,7 @@ Implement the hangman game.
 
 The requirements are:
 
-- Read words from a list of words.
+- Read words from a list of words in a file.
 
   - The game has 2 settings "Easy" or "Hard"
   - Easy only has words that are equal to or less than 5 characters
