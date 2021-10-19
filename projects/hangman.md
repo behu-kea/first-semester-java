@@ -47,7 +47,7 @@ If the player picked "Hard" at the start, they should lose if they haven't guess
 - Update the System Sequence Diagram
 - Consider efforts that can be modular & reused between Singleplayer & multiplayer to not duplicate code
 
-### Third iteration (Only for leetcoders)
+### Third iteration (Advanced - not mandatory)
 
 At any point in the game, the player can choose to save the game.
 
