@@ -97,6 +97,7 @@
   - [Tamagotchi 😸🐶](projects/tamagotchi.md)
   - [OOP Master 🧙‍♀️🧙](projects/oop-master.md)
   - [Marios pizzabar 🍕](projects/marios-pizzabar.md)
+  - [Hangman.md](projects/hangman.md)  
 - [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 

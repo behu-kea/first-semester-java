@@ -12,13 +12,9 @@ Draw a sequence diagram of the Hangman.
 
 Implement the hangman game. 
 
-The requirements are:
+**The requirements are:**
 
-- Read words from a list of words in a file.
-
-  - The game has 2 settings "Easy" or "Hard"
-  - Easy only has words that are equal to or less than 5 characters
-  - Hard has letters with more than 10 characters
+- Read a word from a file.
 
 - Every turn, the current guessed letters are displayed on screen while also showing what is not yet guessed.
 
@@ -33,19 +29,18 @@ The requirements are:
 
   - D _ _ d a 
   - is displayed
+  
+- If the user guesses wrong more than 6 times - they lose the game
 
 ### Second iteration (Advanced - not mandatory)
 
-Traditionally hangman is played as a multiplayer game.
+- The game has 2 settings "Easy" or "Hard"
 
-You will be implementing the single player part for hangman.
+- Easy only has words that are equal to or less than 5 characters
 
-If the player picked "Easy" at the start, they should lose if they haven't guessed the words within 6 guesses.
+- Hard has words with character amount higher than 10 characters
 
-If the player picked "Hard" at the start, they should lose if they haven't guessed the words within 10 guesses.
-
-- Update the System Sequence Diagram
-- Consider efforts that can be modular & reused between Singleplayer & multiplayer to not duplicate code
+  
 
 ### Third iteration (Advanced - not mandatory)
 
