@@ -1,6 +1,6 @@
 # Monday
 
-Today you will be building your own data structure - [a stack and a queue.](../../topics/06 - algorithms/stack-queue.md)
+Today you will be building your own data structure - [a stack and a queue.](../../topics/06-algorithms/stack-queue.md)
 
 In java - all data structures are considered objects, usually containing **state** and **behaviour** just as any other object.
 

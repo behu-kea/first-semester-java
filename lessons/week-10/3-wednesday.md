@@ -1,3 +1,3 @@
 # Wednesday
 
-Project description: [war.md](../../projects/war.md) 
+Project description: [war.md](../../projects/war.md)
