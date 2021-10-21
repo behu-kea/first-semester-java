@@ -3,4 +3,103 @@
 - Topics
   - 01 - Introduction
     - [Problem solving](topics/01-introduction/problem-solving.md)
+  - [02 - Basics](topics/02-basics/basics.md)
+    - [Variables, operators and expressions](topics/02-basics/variables-operators-expressions.md)
+    - [Strings](topics/02-basics/strings.md)
+    - [Working with inputs](topics/02-basics/working-with-inputs.md)
+    - [Loops](topics/02-basics/loops.md)
+    - [Git](topics/02-basics/git.md)
+  - 03 - Programflow
+    - [Methods](topics/03-programflow/methods.md)
+    - [Array](topics/03-programflow/array.md)
+    - [Boolean and Conditionals](topics/03-programflow/conditionals-boolean.md)
+    - [Debugging](topics/03-programflow/debugging.md)
+    - [System Sequence Diagram](topics/03-programflow/system-sequence-diagrams.md)
+  - 04 - Object Oriented programming
+    - [Classes, objects, constructor](topics/04 oop/classes.md)
+    - [Method overload](topics/04-oop/method-overload.md)
+    - [Enum](topics/04-oop/enum.md)
+    - [Class diagrams](topics/04-oop/class-diagram.md)
+    - [Sequence diagrams](topics/04-oop/sequence-diagram.md)
+    - [Inheritance](topics/04-oop/inheritance.md)
+    - [Domain model](topics/04-oop/domain-model.md)
+    - [Interfaces and abstract classes](topics/04-oop/interfaces.md)
+    - [Static keyword](topics/04-oop/static-keyword.md)
+    - [4 pillars of OOP](topics/04-oop/4-pillars-oop.md)
+  - 06 - Algorithms & Data structure
+    -  [Reading a file](topics/06-algorithms/reading-a-file.md)
+    -  [Searching](topics/06-algorithms/searching.md)
+    -  [Stacks and Queues](topics/06-algorithms/stack-queue.md)
+    -  [Sorting](topics/06-algorithms/sorting.md)
+  - 07 - Software Development
+- Lessons
+  - Week 34
+    - [Monday](lessons/week-01/1-monday.md)
+    - [Tuesday](lessons/week-01/2-tuesday.md)
+    - [Wednesday](lessons/week-01/3-wednesday.md)
+    - [Thursday](lessons/week-01/4-thursday.md)
+    - [Friday](lessons/week-01/5-friday.md)
+  - Week 35
+    - [Monday](lessons/week-02/1-monday.md)
+    - [Tuesday](lessons/week-02/2-tuesday.md)
+    - [Wednesday](lessons/week-02/3-wednesday.md)
+    - [Thursday](lessons/week-02/4-thursday.md)
+    - [Friday](lessons/week-02/5-friday.md)
+  - Week 36
+    - [Monday](lessons/week-03/1-monday.md)
+    - [Tuesday](lessons/week-03/2-tuesday.md)
+    - [Wednesday](lessons/week-03/3-wednesday.md)
+    - [Thursday](lessons/week-03/4-thursday.md)
+    - [Friday](lessons/week-03/5-friday.md)
+  - Week 37
+    - [Monday](lessons/week-04/1-monday.md)
+    - [Tuesday](lessons/week-04/2-tuesday.md)
+    - [Wednesday](lessons/week-04/3-wednesday.md)
+    - [Thursday](lessons/week-04/4-thursday.md)
+    - [Friday](lessons/week-04/5-friday.md)
+  - Week 38
+    - [Monday](lessons/week-05/1-monday.md)
+    - [Tuesday](lessons/week-05/2-tuesday.md)
+    - [Wednesday](lessons/week-05/3-wednesday.md)
+    - [Thursday](lessons/week-05/4-thursday.md)
+    - [Friday](lessons/week-05/5-friday.md)
+  - Week 39
+    - [Monday](lessons/week-06/1-monday.md)
+    - [Tuesday](lessons/week-06/2-tuesday.md)
+    - [Wednesday](lessons/week-06/3-wednesday.md)
+    - [Thursday](lessons/week-06/4-thursday.md)
+    - [Friday](lessons/week-06/5-friday.md)
+  - Week 40
+    - [Monday](lessons/week-07/1-monday.md)
+    - [Tuesday](lessons/week-07/2-tuesday.md)
+    - [Wednesday](lessons/week-07/3-wednesday.md)
+    - [Thursday](lessons/week-07/4-thursday.md)
+    - [Friday](lessons/week-07/5-friday.md)
+  - Week 41
+    - [Project Time](lessons/week-08/project-time.md)
+  - Week 42
+    -  [Monday](lessons/week-09/1-monday.md)
+    -  [Tuesday](lessons/week-09/2-tuesday.md) 
+    -  [Wednesday](lessons/week-09/3-wednesday.md)
+    -  [Thursday](lessons/week-09/4-thursday.md) 
+    -  [Friday](lessons/week-09/5-friday.md) 
+  - Week 43
+    -  [1-monday.md](lessons/week-10/1-monday.md) 
+  - [TBA](/tba.md)
+- Projects 
+  - [Processing 🖼](projects/processing.md)
+  - [Crypto converter 📊](projects/crypto-converter.md)
+  - Methods project 📠
+    - [Face creator 😀](projects/face-creator.md) 
+    - [Methods project](projects/methods-project.md)
+  - [Games project 🎲](projects/games-project.md)
+  - [The code breaker 🔐](projects/the-code-breaker.md)
+  - [Tamagotchi 😸🐶](projects/tamagotchi.md)
+  - [OOP Master 🧙‍♀️🧙](projects/oop-master.md)
+  - [Marios pizzabar 🍕](projects/marios-pizzabar.md)
+  - [Hangman 😵](projects/hangman.md)  
+- [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
+- [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
+
+- https://github.com/nicklasdean/dat21a
 
