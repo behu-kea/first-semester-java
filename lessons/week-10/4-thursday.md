@@ -1,3 +1,4 @@
 # Thursday
 
-## TBA
+## Workshop
+

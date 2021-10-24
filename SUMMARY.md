@@ -84,7 +84,9 @@
     -  [Thursday](lessons/week-09/4-thursday.md) 
     -  [Friday](lessons/week-09/5-friday.md) 
   - Week 43
-    -  [1-monday.md](lessons/week-10/1-monday.md) 
+    -  [Monday.md](lessons/week-10/1-monday.md) 
+    -  [Tuesday.md](lessons/week-10/2-tuesday.md)
+    -  Project
   - [TBA](/tba.md)
 - Projects 
   - [Processing 🖼](projects/processing.md)
@@ -102,4 +104,3 @@
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
 - https://github.com/nicklasdean/dat21a
-
