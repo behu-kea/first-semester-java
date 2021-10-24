@@ -16,7 +16,7 @@
     - [Debugging](topics/03-programflow/debugging.md)
     - [System Sequence Diagram](topics/03-programflow/system-sequence-diagrams.md)
   - 04 - Object Oriented programming
-    - [Classes, objects, constructor](topics/04 oop/classes.md)
+    - [Classes, objects, constructor](topics/04-oop/classes.md)
     - [Method overload](topics/04-oop/method-overload.md)
     - [Enum](topics/04-oop/enum.md)
     - [Class diagrams](topics/04-oop/class-diagram.md)
