@@ -6,6 +6,8 @@ The concept of *efficiency* is often associated with algorithms. A programs effi
 
 In a more general sense, retrieving and displaying information quickly is an integral part of any applications function. Next let's explore algorithms associated with sorting data. While the following examples utilize integers in arrays, the algorithms shown will also work with other data-structures meant for storing information, such as lists.
 
+
+
 ## Sorting information
 
 If the information (data) giving to a computer, doesn't follow any rules and isn't in order, retrieving that information is taxing for the computer. We need order! Especially if we want to efficiantly search for elements either by a binary search algorithm or we need data elements displayed by a certain sorting condition such as news articles by date.
@@ -30,3 +32,30 @@ Another way of sorting is using the Comparable interface.
 In todays class I will introduce the concept of the Comparable interface, which is another way of comparing & sorting objects.
 
 https://beginnersbook.com/2017/08/comparable-interface-in-java-with-example/
+
+###### Exercise
+
+- Create a class called Person
+- Each person has the following attributes: 
+  - Name
+  - Height
+  - age
+- Implement the comparable interface, with a natural ordering such that:
+  - An older person is sorted higher in the natural ordering
+  - If two persons are the same age, the taller person is sorted higher in the natural ordering
+
+###### Advanced
+
+- Create a class called RedditPost
+- Each RedditPost has the following attributes:
+  - DateCreated
+  - Upvotes
+  - Subject
+- Implement functionality such that we are able to sort RedditPosts by their:
+  - DateCreated
+  - Upvotes
+  - Subject
+
+Use the Comparator Interface instead of Comparable: 
+
+https://www.baeldung.com/java-comparator-comparable
