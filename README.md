@@ -70,8 +70,6 @@ You can solve the mandatory assignments as a group, but have to hand in the assi
 
 ## Exam
 
-The exam will take place in December date is still to be decided
-
 The exam will be a 20 minutes spoken exam. You will come into the classroom, pick a small problem and then solve that problem in Java. The examinators will ask questions regarding the implementation.
 
 You can read more about the exam in the [studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
