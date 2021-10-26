@@ -103,4 +103,4 @@
 - [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
-- https://github.com/nicklasdean/dat21a
+- [Github](https://github.com/nicklasdean/dat21a)
