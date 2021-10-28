@@ -84,9 +84,11 @@
     -  [Thursday](lessons/week-09/4-thursday.md) 
     -  [Friday](lessons/week-09/5-friday.md) 
   - Week 43
-    -  [Monday.md](lessons/week-10/1-monday.md) 
-    -  [Tuesday.md](lessons/week-10/2-tuesday.md)
-    -  Project
+    -  [Monday](lessons/week-10/1-monday.md) 
+    -  [Tuesday](lessons/week-10/2-tuesday.md)
+    -  [Wednesday](projects/repetition-mandatory.md)
+    -  [Thursday](lessons/week-10/4-thursday.md)
+    -  [Friday](projects/repetition-mandatory.md) 
   - [TBA](/tba.md)
 - Projects 
   - [Processing 🖼](projects/processing.md)

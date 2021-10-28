@@ -1,3 +1,3 @@
 # Wednesday
 
-Project description: [war.md](../../projects/war.md)
+Project description:  [repetition-mandatory.md](../../projects/repetition-mandatory.md) 
