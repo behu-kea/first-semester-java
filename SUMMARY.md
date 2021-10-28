@@ -89,7 +89,12 @@
     -  [Wednesday](projects/repetition-mandatory.md)
     -  [Thursday](lessons/week-10/4-thursday.md)
     -  [Friday](projects/repetition-mandatory.md) 
-  - [TBA](/tba.md)
+  - Week 44
+    - [Monday](lessons/week-11/1-monday.md) 
+    - [Tuesday](lessons/week-11/2-tuesday.md) 
+    - [Wednesday](lessons/week-11/3-wednesday.md) 
+    - [Thursday](lessons/week-11/4-thursday.md) 
+    - [Friday](lessons/week-11/5-friday.md) 
 - Projects 
   - [Processing 🖼](projects/processing.md)
   - [Crypto converter 📊](projects/crypto-converter.md)
