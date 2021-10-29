@@ -107,7 +107,7 @@
   - [OOP Master 🧙‍♀️🧙](projects/oop-master.md)
   - [Marios pizzabar 🍕](projects/marios-pizzabar.md)
   - [Hangman 😵](projects/hangman.md)
-  - [Repetition](lessons/week-10/5-friday.md) 
+  - [Repetition🔙](projects/repetition-mandatory.md) 
 - [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
