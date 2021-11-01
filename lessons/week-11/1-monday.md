@@ -29,7 +29,7 @@ Use cases are considered **functional requirements** as they dictate **how a sys
 
 ![image-20211026152924168](1-monday.assets/image-20211026152924168.png)
 
-#### Exercise 1
+#### Exercise 1: In your study groups
 
 Consider a store such as ProShop, Zalando or Amazon - choose a case.
 
@@ -44,8 +44,6 @@ Consider a store such as ProShop, Zalando or Amazon - choose a case.
 #### Exercise 2
 
 - Create a use case diagram for a user 
-
-
 
 #### Exercise 3 (Advanced)
 
