@@ -32,6 +32,8 @@
     -  [Stacks and Queues](topics/06-algorithms/stack-queue.md)
     -  [Sorting](topics/06-algorithms/sorting.md)
   - 07 - Software Development
+    - [Class Diagram.md](topics/07-systems-design/class-diagram.md) 
+    - [Use Cases](topics/07-systems-design/use-cases.md) 
 - Lessons
   - Week 34
     - [Monday](lessons/week-01/1-monday.md)
