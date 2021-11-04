@@ -2,6 +2,8 @@
 
 #### Inception + Ellaboration activities
 
+In this project you are adviced to work in groups of 2-3
+
 In this project scope you should only do activities related to Systems Design - the main activities in the inception & ellaboration phase of RUP.
 
 You have received the following description from a customer that describes and analyses their business. It is up to you to initiate the first iterations of analysis. Meaning you should provide:
