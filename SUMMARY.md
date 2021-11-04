@@ -110,7 +110,7 @@
   - [Marios pizzabar 🍕](projects/marios-pizzabar.md)
   - [Hangman 😵](projects/hangman.md)
   - [Repetition🔙](https://behu.gitbook.io/java-first-semester/lessons/week-43/repetition-mandatory) 
-  - [Nordic Motorhome Rental](projects/nordic-motorhome-rental.md) 
+  - [Nordic Motorhome Rental 🚎](projects/nordic-motorhome-rental.md) 
 - [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
 
