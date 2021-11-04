@@ -11,9 +11,11 @@ You have received the following description from a customer that describes and a
 - 1 brief use case
 - 1 casual use case
 - 2 fully dressed use cases
+- A System Sequence Diagram representing the main success scenario
 - A use case diagram
 - A domain model
 - (Optional) Conceptual Class Diagram
+- (Optional Advanced) A paper prototype or mockup of the main success scenario
 
 All design models should & considerations should be gathered in a single document or github repository.
 
