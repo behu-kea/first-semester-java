@@ -2,6 +2,8 @@
 
 The rules of hangman: https://www.youtube.com/watch?v=cGOeiQfjYPk
 
+Theis version: https://github.com/tLangelo/hangman-mandatory
+
 ### First iteration (Mandatory elements)
 
 ###### UML
