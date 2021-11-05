@@ -97,6 +97,12 @@
     - [Wednesday](lessons/week-11/3-wednesday.md) 
     - [Thursday](lessons/week-11/4-thursday.md) 
     - [Friday](lessons/week-11/5-friday.md) 
+  - Week 45
+    - [Monday](lessons/week-12/1-monday.md) 
+    - [Tuesday](lessons/week-12/2-tuesday.md) 
+    - [Wednesday](lessons/week-12/3-wednesday.md) 
+    - [Thursday](lessons/week-12/4-thursday.md) 
+    - [Friday](lessons/week-12/5-friday.md) 
 - Projects 
   - [Processing 🖼](projects/processing.md)
   - [Crypto converter 📊](projects/crypto-converter.md)

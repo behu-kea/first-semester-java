@@ -1,3 +1,3 @@
-# Wednesday
+# Project + Logical architecture
 
-## TBA
+https://martinfowler.com/bliki/PresentationDomainDataLayering.html
