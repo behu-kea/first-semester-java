@@ -61,7 +61,7 @@ All information relevant for you education you can find in the studieordning. Th
 
 To attend the exam you must complete 
 
-- 5/8 weekly assignments
+- 5 weekly assignments
 - 2 cross-disciplinary projects
 
 You can solve the mandatory assignments as a group, but have to hand in the assignments individually on Fronter.
