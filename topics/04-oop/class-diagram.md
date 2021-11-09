@@ -69,14 +69,11 @@ Indicates that there is a connection between two classes.
 ```java
 class Food {
 	public String name;
-	
-	public void addKetchup(Ketchup ketchup) {
-		...
-	}
+  public Ketchup ketchupCondiment;
 }
 ```
 
-Here a class has a method that as parameter uses another class. That is what is understood by association
+Here a class with another class as attribute. That is what is understood by association
 
 
 
