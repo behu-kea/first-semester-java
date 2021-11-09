@@ -35,7 +35,11 @@ The focus in this project is to write an application that is **layered** in an 3
 
 **Document** and/or **Design** the system with UML diagrams such that another developer can easily understand the structure and behaviour of the application
 
+
+
 #### (Optional) Advanced 
+
+- Add a date and timestamp to each haiku
 
 - A haiku **cannot** include the repetition of words or sounds
 - The first words of each haiku line are always capitalized 
@@ -45,3 +49,7 @@ The focus in this project is to write an application that is **layered** in an 3
 #### (Optional) Even more advanced
 
 - Each haiku is stored as a beautifully formatted .pdf file (https://www.baeldung.com/java-pdf-creation)
+
+#### Recommended resources:
+
+- https://www.w3schools.com/java/java_files_create.asp
