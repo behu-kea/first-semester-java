@@ -24,6 +24,7 @@ The focus in this project is to write an application that is **layered** in an 3
 
 ### Technical Requirements:
 
+- A Haiku poem is entered by the console (System.in)
 - All valid haiku poems are stored as either a file or row in .csv
 - A Haiku poem has an author and an ID
   - Every time a haiku poem is stored, its ID & author is also stored
