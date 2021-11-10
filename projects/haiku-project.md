@@ -4,7 +4,7 @@
 
 ### Domain presentation
 
-You are building a fully fledged haiku log with capabilities to judge whether a user has inputtet a valid haiku poem or not !
+You are building a fully fledged haiku diary with an algorithm that determins  whether a user has inputtet a valid haiku poem or not !
 
 First of all we need to understand what a haiku poem is: 
 
