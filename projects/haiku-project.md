@@ -31,6 +31,11 @@ The focus in this project is to write an application that is **layered** in an 3
   - The user is informed by the presentation layer if a poem is not valid
   - This can be implemented by using **exceptions**
   - (Advanced - optional) An exception could be defined & created for this purpose (Shown in class)
+- For the first iteration - A syllable can be defined as:
+  - A non repeating vowel
+    - 'Steen' is only 1 syllable
+    - 'Langeland' is 3 syllables
+
 
 ### Systems design requirements:
 
