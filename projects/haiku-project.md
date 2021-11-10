@@ -44,7 +44,7 @@ The focus in this project is to write an application that is **layered** in an 3
 - A haiku **cannot** include the repetition of words or sounds
 - The first words of each haiku line are always capitalized 
 - A haiku is saved with ASCII art
-- Add an option to print all haikus
+- Add an option to print all saved haikus
 
 #### (Optional) Even more advanced
 
