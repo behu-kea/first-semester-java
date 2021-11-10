@@ -47,8 +47,8 @@ The focus in this project is to write an application that is **layered** in an 3
 
 - Add a date and timestamp to each haiku
 
-- A haiku **cannot** include the repetition of words or sounds
-- The first words of each haiku line are always capitalized 
+- A haiku **cannot** include the repetition of words
+- The first words of each haiku line should always be capitalized 
 - A haiku is saved with ASCII art
 - Add an option to print all saved haikus
 
