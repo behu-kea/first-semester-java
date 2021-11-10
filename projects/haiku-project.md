@@ -1,6 +1,6 @@
 # Haiku Log
 
-###### Github Example:
+###### Github Example: https://github.com/nicklasdean/haiku-app
 
 ### Domain presentation
 
