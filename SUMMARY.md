@@ -104,11 +104,11 @@
     - [Thursday](lessons/week-12/4-thursday.md) 
     - [Friday](lessons/week-12/5-friday.md) 
   - Week 46
-    - [Monday.md](lessons/week-13/1-monday.md) 
-    - [Tuesday.md](lessons/week-13/2-tuesday.md) 
-    - [Wednesday.md](lessons/week-13/3-wednesday.md) 
-    - [Thursday.md](lessons/week-13/4-thursday.md) 
-    - [Friday.md](lessons/week-13/5-friday.md) 
+    - [Monday](lessons/week-13/1-monday.md) 
+    - [Tuesday](lessons/week-13/2-tuesday.md) 
+    - [Wednesday](lessons/week-13/3-wednesday.md) 
+    - [Thursday](lessons/week-13/4-thursday.md) 
+    - [Friday](lessons/week-13/5-friday.md)
 - Projects 
   - [Processing 🖼](projects/processing.md)
   - [Crypto converter 📊](projects/crypto-converter.md)
