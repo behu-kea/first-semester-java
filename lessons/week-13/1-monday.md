@@ -16,11 +16,19 @@ The former interns has not left much documentation, as they claim the code-base 
 
 While performing changes in the code-base: **Write notes to yourself**
 
+
+
 ### Main task: Get it running & working
 
 - As of now - the code is not running due to (probably) several bugs
 - It seems that the statistics module is not calculating correctly, we need to fix that
 - Even worse - rumour has it that some of the code base has a lot of **redundancy** 🙀
+- The main success scenario is as follows:
+  - A customer should be able to order an undecided number of food/drink articles
+  - It has to be added to a basket
+  - When the customer approves of the baskets content, it should be counted in the statistics
+  - For now - payment is out of scope
+
 
 ### Secondary task: Investigate the code-base with GRASP in mind
 
