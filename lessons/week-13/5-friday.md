@@ -1,4 +1,2 @@
-# Friday
-
-## TBA
+# Final project
 

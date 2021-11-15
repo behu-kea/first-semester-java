@@ -103,6 +103,12 @@
     - [Wednesday](lessons/week-12/3-wednesday.md) 
     - [Thursday](lessons/week-12/4-thursday.md) 
     - [Friday](lessons/week-12/5-friday.md) 
+  - Week 46
+    - [Monday.md](lessons/week-13/1-monday.md) 
+    - [Tuesday.md](lessons/week-13/2-tuesday.md) 
+    - [Wednesday.md](lessons/week-13/3-wednesday.md) 
+    - [Thursday.md](lessons/week-13/4-thursday.md) 
+    - [Friday.md](lessons/week-13/5-friday.md) 
 - Projects 
   - [Processing 🖼](projects/processing.md)
   - [Crypto converter 📊](projects/crypto-converter.md)
@@ -120,5 +126,4 @@
   - [Haiku 📓](projects/haiku-project.md) 
 - [Semesterplan](https://studkea.sharepoint.com/:x:/s/Datamatikerundervisere/EeFyMbdholJNsFAXs5XoW4oBHB2pefFTSaeCtWdhWALz6g?e=tZbOdW)
 - [Studieordning](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
-
 - [Github](https://github.com/nicklasdean/dat21a)
